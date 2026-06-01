@@ -1,0 +1,557 @@
+---
+level: 3
+basename: James_Lacatski_1e11f1_insider_books_eviden_11f60a_clearance_false_vali_ab90ec
+parent_basename: James_Lacatski_1e11f1_insider_books_eviden_11f60a
+child_basenames: []
+sibling_basenames:
+- James_Lacatski_1e11f1_insider_books_eviden_11f60a_author_narrative_own_f937ca
+- James_Lacatski_1e11f1_insider_books_eviden_11f60a_files_versus_books_453887
+tags:
+- james-lacatski
+- insider-books
+- clearance-risk
+keywords:
+- james-lacatski
+- insider-books
+- clearance-risk
+affiliate_category: james-lacatski
+show_ads: true
+description: Government clearance can allow a UFO book to be published without confirming that its dramatic claims are true.
+hero_summary: Government clearance can allow a UFO book to be published without confirming that its dramatic claims are true.
+layout: default
+permalink: /clearance-risk/
+sidebar_expanded_urls:
+- /how-credible-is-james-lacatski/
+- /insider-books/
+nav_short_title: Clearance Risk
+title: Does clearance make Lacatski's claims stronger?
+title_full: Does clearance make Lacatski's claims stronger? | Insider Books
+display_title_short: Clearance Risk
+display_title: Clearance Risk
+heading_title: Does clearance make Lacatski's claims stronger?
+page_heading_title: Does clearance make Lacatski's claims stronger?
+source_count: 39
+infographic_count: 3
+planned_sections:
+- What prepublication review actually checks
+- Why clearance is not government verification
+- How readers should weigh cleared insider claims
+focal_unit_type: policy_intervention
+topic_lens: governance
+topic_granularity: single_policy
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: How Much Should The Books Count? | Lacatski
+parent_permalink: /insider-books/
+parent_nav_short_title: Insider Books
+parent_heading_title: How Much Should The Books Count?
+ancestor_links:
+- basename: James_Lacatski_1e11f1
+  title: Lacatski
+  permalink: /how-credible-is-james-lacatski/
+  short_title: Lacatski
+- basename: James_Lacatski_1e11f1_insider_books_eviden_11f60a
+  title: Insider Books | How Credible Is James Lacatski?
+  permalink: /insider-books/
+  short_title: Insider Books
+  heading_title: How Much Should The Books Count?
+breadcrumb_links:
+- basename: James_Lacatski_1e11f1
+  title: Lacatski
+  permalink: /how-credible-is-james-lacatski/
+  short_title: Lacatski
+- basename: James_Lacatski_1e11f1_insider_books_eviden_11f60a
+  title: Insider Books | How Credible Is James Lacatski?
+  permalink: /insider-books/
+  short_title: Insider Books
+  heading_title: How Much Should The Books Count?
+sibling_links:
+- basename: James_Lacatski_1e11f1_insider_books_eviden_11f60a_author_narrative_own_f937ca
+  title: Author Stakes | Insider Books
+  permalink: /author-stakes/
+  short_title: Author Stakes
+  heading_title: When insiders own the UFO story
+- basename: James_Lacatski_1e11f1_insider_books_eviden_11f60a_files_versus_books_453887
+  title: Files vs Books | Insider Books
+  permalink: /files-vs-books/
+  short_title: Files vs Books
+  heading_title: What the files prove and leave out
+up_link:
+  basename: James_Lacatski_1e11f1_insider_books_eviden_11f60a
+  title: Insider Books | How Credible Is James Lacatski?
+  permalink: /insider-books/
+  short_title: Insider Books
+  heading_title: How Much Should The Books Count?
+prev_link:
+  basename: James_Lacatski_1e11f1_insider_books_eviden_11f60a_author_narrative_own_f937ca
+  title: Author Stakes | Insider Books
+  permalink: /author-stakes/
+  short_title: Author Stakes
+  heading_title: When insiders own the UFO story
+next_link:
+  basename: James_Lacatski_1e11f1_insider_books_eviden_11f60a_files_versus_books_453887
+  title: Files vs Books | Insider Books
+  permalink: /files-vs-books/
+  short_title: Files vs Books
+  heading_title: What the files prove and leave out
+date: '2026-06-01 08:33:22 '
+header:
+  og_image: /assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_clearance_false_vali_ab90ec-Illustration-1-social.jpg
+  preview_image: /assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_clearance_false_vali_ab90ec-Illustration-1.webp
+image: /assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_clearance_false_vali_ab90ec-Illustration-1-social.jpg
+---
+
+## Introduction
+
+A common argument in favour of [James Lacatski]({{ 'how-credible-is-james-lacatski/' | relative_url }})’s UFO-related books is that they were reviewed and cleared for public release through government prepublication procedures. For some readers, that fact appears to add official weight to the books’ most dramatic claims. However, the key question is not whether the books were cleared, but what that clearance actually means.
+
+
+<img src="{{ "/assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_clearance_false_vali_ab90ec-Illustration-1-dark.svg" | relative_url }}" alt="Clearance Risk illustration 1" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_clearance_false_vali_ab90ec-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_clearance_false_vali_ab90ec-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+In credibility terms, prepublication review is a security process, not a truth-verification process. A book can pass review because it contains no classified information that reviewers believe should remain protected, while still containing interpretations, allegations, memories, opinions, or extraordinary claims that the government has not independently confirmed. Understanding this distinction is essential when assessing Lacatski's credibility and the evidential value of his published accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Records-Declass/Security-Review/PrePublication-and-Manuscripts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics AgencyDefense Office of Prepublication and Security ReviewThe purpose of the prepublication security and policy review...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/PrePublication/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencyPrePublication ReviewThe prepublication review process ensures that information proposed for public release co...</span></span></span>
+
+## Does clearance make Lacatski's claims stronger?
+
+The fact that Lacatski's books underwent review is not meaningless. It does provide some information.
+
+First, it suggests that the authors took their obligations as current or former government personnel seriously enough to submit material for review where required. Second, it indicates that reviewers did not identify information that they believed should remain classified or otherwise protected from public release. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Records-Declass/Security-Review/PrePublication-and-Manuscripts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics AgencyDefense Office of Prepublication and Security ReviewThe purpose of the prepublication security and policy review...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Records-Declass/Security-Review/PrePublication-and-Manuscripts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics AgencyDefense Office of Prepublication and Security ReviewThe purpose of the prepublication security and policy review...</span></span></span>
+
+However, that is a much narrower conclusion than many readers assume.
+
+Promotional material for *Skinwalkers at the Pentagon* prominently states that the book was reviewed by the U.S. Department of Defense and "cleared for public release". Supporters often cite this wording when arguing that the book contains information that the government has effectively acknowledged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.amazon.nl/-/en/James-T-Lacatski-D-Eng/dp/B09HR54GQF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amazon.nl">[Amazon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amazon.nl</span><span class="citation-popover-snippet">AmazonSkinwalkers at the Pentagon: An Insiders&#x27; Account of...Skinwalkers at the Pentagon has been reviewed by the U.S. Department of Def...</span></span></span>
+
+The problem is that clearance and validation are different things. A manuscript can be approved for release because it does not disclose protected information even if reviewers never investigated whether its central claims are factually correct. The existence of a review process does not automatically transform author testimony into independently verified evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/documents/ICD/ICD-711-Prepublication-Reviews.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">ICD 711 Prepublication Reviews</span><span class="citation-popover-snippet">Director of National IntelligenceICD 711 Prepublication ReviewsJul 12, 2024 — The approval of a request to publish or otherwise disclose...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Records-Declass/Security-Review/PrePublication-and-Manuscripts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics AgencyDefense Office of Prepublication and Security ReviewThe purpose of the prepublication security and policy review...</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Io2Cl1u5gmU" title="James - Getting Away With It (All Messed Up)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Io2Cl1u5gmU" target="_blank" rel="noopener noreferrer">James - Getting Away With It (All Messed Up)</a></p><p class="youtube-embed-meta">Channel: JamesVEVO &middot; Views: 6.4M &middot; Uploaded: May 2010 &middot; Length: 4 minutes 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Io2Cl1u5gmU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Io2Cl1u5gmU">Open on YouTube</a></p></div></div></div>
+
+## What prepublication review actually checks
+
+The official purpose of Department of Defense and Intelligence Community prepublication review is relatively straightforward: prevent the unauthorised disclosure of classified, protected, or otherwise sensitive information obtained through government service. Reviewers examine manuscripts for security concerns, not as academic peer reviewers or investigative fact-checkers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sgp.fas.org/eprint/hedley.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[sgp.fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">Reviewing the Work of CIA AuthorsThe sole purpose of prepublication review is to assist authors in avoiding inadvertent disclosure of cla...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Records-Declass/Security-Review/PrePublication-and-Manuscripts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics AgencyDefense Office of Prepublication and Security ReviewThe purpose of the prepublication security and policy review...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/PrePublication/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencyPrePublication ReviewThe prepublication review process ensures that information proposed for public release co...</span></span></span>
+
+In practice, reviewers may ask for edits, deletions, or clarifications if material appears to reveal classified information. They are not generally tasked with determining whether a witness's recollection is accurate, whether a conclusion is scientifically justified, or whether a controversial interpretation is ultimately true. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sgp.fas.org/eprint/hedley.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgp.fas.org">[sgp.fas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgp.fas.org</span><span class="citation-popover-snippet">Reviewing the Work of CIA AuthorsThe sole purpose of prepublication review is to assist authors in avoiding inadvertent disclosure of cla...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lawfaremedia.org/article/a-step-in-the-right-direction-for-prepublication-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Lawfare">[Default]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Lawfare</span><span class="citation-popover-title">a step in the right direction for prepublication review</span><span class="citation-popover-snippet">government requires that current and former U.S. government officials who have or had TS/SCI clearance submit their writing for review...</span></span></span>
+
+This distinction matters particularly in UFO and UAP discussions because many claims depend on interpretation rather than on the disclosure of a classified document. An author may write that a recovered object exists, that a briefing occurred, or that investigators reached a certain conclusion. Reviewers may determine that publication of such statements does not reveal classified information while remaining completely agnostic about whether the statements themselves are correct. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Records-Declass/Security-Review/PrePublication-and-Manuscripts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics AgencyDefense Office of Prepublication and Security ReviewThe purpose of the prepublication security and policy review...</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Qu8pudJk_-A" title="He Ran The Pentagon’s Secret UFO Program - And Says We’ve Been Played : Dr. James Lacatski (PART 1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Qu8pudJk_-A" target="_blank" rel="noopener noreferrer">He Ran The Pentagon’s Secret UFO Program - And Says We’ve Been Played : Dr. James Lacatski (PART 1)</a></p><p class="youtube-embed-meta">Channel: Jeremy Corbell &middot; Views: 327.8K &middot; Uploaded: November 2025 &middot; Length: 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Qu8pudJk_-A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Qu8pudJk_-A">Open on YouTube</a></p></div></div></div>
+
+## Why clearance is not government verification
+
+The strongest evidence against treating clearance as official confirmation comes from the government's own policies.
+
+The Intelligence Community's current prepublication-review directive explicitly states that approval to publish does not imply endorsement of the material. It also does not imply that the government agrees with the author's conclusions or assertions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/documents/ICD/ICD-711-Prepublication-Reviews.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">ICD 711 Prepublication Reviews</span><span class="citation-popover-snippet">Director of National IntelligenceICD 711 Prepublication ReviewsJul 12, 2024 — The approval of a request to publish or otherwise disclose...</span></span></span>
+
+Similarly, published clearance language used in Department of Defense reviews has stated that public-release approval does not imply Department of Defense endorsement or factual accuracy. In other words, reviewers may permit publication while taking no position on whether the content is true. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/651514586/Defense-Office-of-Prepublication-and-Security-Review-Response" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">Defense Office of Prepublication and Security Review Response</span><span class="citation-popover-snippet">ScribdDefense Office of Prepublication and Security Review...Jun 7, 2023 — The public release clearance of this publication by the Depar...</span></span></span>
+
+This is the central false-validation risk surrounding Lacatski's books. Readers may see the words "cleared for public release" and unconsciously upgrade the status of the claims from "author testimony" to "government-confirmed fact". The review system itself explicitly warns against making that leap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/documents/ICD/ICD-711-Prepublication-Reviews.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">ICD 711 Prepublication Reviews</span><span class="citation-popover-snippet">Director of National IntelligenceICD 711 Prepublication ReviewsJul 12, 2024 — The approval of a request to publish or otherwise disclose...</span></span></span>
+
+The issue is not unique to Lacatski. Similar misunderstandings have appeared around books and statements from other former intelligence and defence officials discussing UAPs. Public debate often treats clearance as evidence that reviewers secretly know the claims are true. Yet the documented purpose of review is security protection, not evidential certification. Default <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Records-Declass/Security-Review/PrePublication-and-Manuscripts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics AgencyDefense Office of Prepublication and Security ReviewThe purpose of the prepublication security and policy review...</span></span></span>
+
+
+<img src="{{ "/assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_clearance_false_vali_ab90ec-Illustration-2-dark.svg" | relative_url }}" alt="Clearance Risk illustration 2" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_clearance_false_vali_ab90ec-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_clearance_false_vali_ab90ec-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## How this affects Lacatski's most controversial assertions
+
+This distinction becomes especially important when evaluating Lacatski's most widely discussed claims, including statements associated with alleged recovered technology and access to a "craft of [unknown origin]({{ 'unknown-origin/' | relative_url }})".
+
+If such claims appear in a cleared publication, several interpretations remain possible:
+
+* The claim is accurate and reviewers allowed publication because it was not classified in the form presented.
+* The claim is inaccurate or incomplete but not classified.
+* The claim reflects an author's personal understanding of events.
+* The claim is based on information obtained from other sources rather than direct documentation.
+* Reviewers lacked any mandate to determine whether the claim was true or false. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Records-Declass/Security-Review/PrePublication-and-Manuscripts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics AgencyDefense Office of Prepublication and Security ReviewThe purpose of the prepublication security and policy review...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/PrePublication/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencyPrePublication ReviewThe prepublication review process ensures that information proposed for public release co...</span></span></span>
+
+Clearance alone cannot distinguish among these possibilities.
+
+As a result, the evidential value of the claim still depends on the same factors that would apply without clearance: documentary records, corroborating witnesses, physical evidence, [chain of custody]({{ 'chain-of-custody/' | relative_url }}), contemporaneous reporting, and independent verification. Clearance does not remove the need for those forms of evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/documents/ICD/ICD-711-Prepublication-Reviews.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">ICD 711 Prepublication Reviews</span><span class="citation-popover-snippet">Director of National IntelligenceICD 711 Prepublication ReviewsJul 12, 2024 — The approval of a request to publish or otherwise disclose...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/651514586/Defense-Office-of-Prepublication-and-Security-Review-Response" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">Defense Office of Prepublication and Security Review Response</span><span class="citation-popover-snippet">ScribdDefense Office of Prepublication and Security Review...Jun 7, 2023 — The public release clearance of this publication by the Depar...</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cggMuAjFJcI" title="The Government UFO Boss - Monsters, Men in Black &amp; UFO Crashes : Dr. James Lacatski (PART 2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cggMuAjFJcI" target="_blank" rel="noopener noreferrer">The Government UFO Boss - Monsters, Men in Black &amp; UFO Crashes : Dr. James Lacatski (PART 2)</a></p><p class="youtube-embed-meta">Channel: Jeremy Corbell &middot; Views: 238.1K &middot; Uploaded: November 2025 &middot; Length: 1 hour 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cggMuAjFJcI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cggMuAjFJcI">Open on YouTube</a></p></div></div></div>
+
+## How readers should weigh cleared insider claims
+
+For credibility assessment, a balanced approach is to treat prepublication clearance as a limited but relevant data point.
+
+It can modestly strengthen confidence that an author is discussing matters connected to genuine government experience and that the material passed a security review. It does not, by itself, strengthen confidence in extraordinary factual claims contained within the text. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Records-Declass/Security-Review/PrePublication-and-Manuscripts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics AgencyDefense Office of Prepublication and Security ReviewThe purpose of the prepublication security and policy review...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Records-Declass/Security-Review/PrePublication-and-Manuscripts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Logistics Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">Defense Logistics AgencyDefense Office of Prepublication and Security ReviewThe purpose of the prepublication security and policy review...</span></span></span>
+
+Readers evaluating Lacatski's books should therefore separate two questions:
+
+1. **Was the author sufficiently connected to government programmes to have potentially relevant knowledge?**
+2. **Has the author provided evidence that independently supports the specific claims being made?**
+
+Prepublication clearance may bear on the first question. It does little to answer the second. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/documents/ICD/ICD-711-Prepublication-Reviews.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">ICD 711 Prepublication Reviews</span><span class="citation-popover-snippet">Director of National IntelligenceICD 711 Prepublication ReviewsJul 12, 2024 — The approval of a request to publish or otherwise disclose...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/651514586/Defense-Office-of-Prepublication-and-Security-Review-Response" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">Defense Office of Prepublication and Security Review Response</span><span class="citation-popover-snippet">ScribdDefense Office of Prepublication and Security Review...Jun 7, 2023 — The public release clearance of this publication by the Depar...</span></span></span> Within the broader debate over [insider books]({{ 'insider-books/' | relative_url }}) as evidence, this is the key takeaway. Lacatski's cleared publications are significant because they provide an insider narrative from someone linked to AAWSAP and related UAP investigations. But the clearance process should not be mistaken for government certification that the books' most extraordinary claims are true. The credibility of those claims still rises or falls on the underlying evidence rather than on the existence of a release stamp. Amazon <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/documents/ICD/ICD-711-Prepublication-Reviews.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">ICD 711 Prepublication Reviews</span><span class="citation-popover-snippet">Director of National IntelligenceICD 711 Prepublication ReviewsJul 12, 2024 — The approval of a request to publish or otherwise disclose...</span></span></span>
+
+
+<img src="{{ "/assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_clearance_false_vali_ab90ec-Illustration-3-dark.svg" | relative_url }}" alt="Clearance Risk illustration 3" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_clearance_false_vali_ab90ec-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_clearance_false_vali_ab90ec-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Does clearance make Lacatski&#x27;s claims stronger?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+        </h4>
+        <p class="fr-book-author">By Carl Sagan</p>
+        
+        <p class="fr-book-desc">Teaches how authority and official processes differ from evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+        </h4>
+        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+        
+        <p class="fr-book-desc">Helps readers assess claims that rely on institutional credibility.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+        </h4>
+        <p class="fr-book-author">By Ben Goldacre</p>
+        
+        <p class="fr-book-desc">Explains why institutional approval does not automatically validate claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
+        </h4>
+        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
+        
+        <p class="fr-book-desc">Frequently marketed as cleared for public release.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: amazon.nl  
+   Link: [https://www.amazon.nl/-/en/James-T-Lacatski-D-Eng/dp/B09HR54GQF](https://www.amazon.nl/-/en/James-T-Lacatski-D-Eng/dp/B09HR54GQF)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AmazonSkinwalkers at the Pentagon: An Insiders&#x27; Account of...Skinwalkers at the Pentagon has been reviewed by the U.S. Department of Def...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: amazon.com  
+   Link: [https://www.amazon.com/Skinwalkers-Pentagon-Insiders-Account-Government/dp/B09HR54GQF](https://www.amazon.com/Skinwalkers-Pentagon-Insiders-Account-Government/dp/B09HR54GQF)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>at ran from the Defense Intelligence Agency in Washington, DC.Read more...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: sgp.fas.org  
+   Link: [https://sgp.fas.org/eprint/hedley.html](https://sgp.fas.org/eprint/hedley.html)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reviewing the Work of CIA AuthorsThe sole purpose of prepublication review is to assist authors in avoiding inadvertent disclosure of cla...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: scribd.com  
+   Title: Defense Office of Prepublication and Security Review Response  
+   Link: [https://www.scribd.com/document/651514586/Defense-Office-of-Prepublication-and-Security-Review-Response](https://www.scribd.com/document/651514586/Defense-Office-of-Prepublication-and-Security-Review-Response)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScribdDefense Office of Prepublication and Security Review...Jun 7, 2023 — The public release clearance of this publication by the Depar...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: amazon.com  
+   Link: [https://www.amazon.com/Skinwalkers-Pentagon-Insiders-Account-Government-ebook/dp/B09J484KYD](https://www.amazon.com/Skinwalkers-Pentagon-Insiders-Account-Government-ebook/dp/B09J484KYD)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO study that ran from the Defense Intelligence Agency in Washington...Read more...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: amazon.com  
+   Link: [https://www.amazon.com/Skinwalkers-Pentagon-Insiders-Account-Government/dp/B0BT665PF1](https://www.amazon.com/Skinwalkers-Pentagon-Insiders-Account-Government/dp/B0BT665PF1)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO study that ran from the Defense Intelligence Agency in Washington, DC.Read more...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: esd.whs.mil  
+   Link: [https://www.esd.whs.mil/Records-Declass/Security-Review/PrePublication-and-Manuscripts/](https://www.esd.whs.mil/Records-Declass/Security-Review/PrePublication-and-Manuscripts/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Logistics AgencyDefense Office of Prepublication and Security ReviewThe purpose of the prepublication security and policy review...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: dia.mil  
+   Link: [https://www.dia.mil/PrePublication/](https://www.dia.mil/PrePublication/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyPrePublication ReviewThe prepublication review process ensures that information proposed for public release co...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: esd.whs.mil  
+   Link: [https://www.esd.whs.mil/DOPSR/](https://www.esd.whs.mil/DOPSR/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anyone in the author&#x27;s leadership chain authorized to sign general correspondence can sign the DD1910.Read more...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: dni.gov  
+   Title: ICD 711 Prepublication Reviews  
+   Link: [https://www.dni.gov/files/documents/ICD/ICD-711-Prepublication-Reviews.pdf](https://www.dni.gov/files/documents/ICD/ICD-711-Prepublication-Reviews.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Director of National IntelligenceICD 711 Prepublication ReviewsJul 12, 2024 — The approval of a request to publish or otherwise disclose...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: Lawfare  
+   Title: a step in the right direction for prepublication review  
+   Link: [https://www.lawfaremedia.org/article/a-step-in-the-right-direction-for-prepublication-review](https://www.lawfaremedia.org/article/a-step-in-the-right-direction-for-prepublication-review)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>government requires that current and former U.S. government officials who have or had TS/SCI clearance submit their writing for review...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: brainly.com  
+   Link: [https://brainly.com/question/66171077](https://brainly.com/question/66171077)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Which statement is true about the prepublication review...18 Mar 2026 — The true statement regarding the prepublication review process i...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=Io2Cl1u5gmU](https://www.youtube.com/watch?v=Io2Cl1u5gmU)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Getting Away With It (All Messed Up)JAMES - Getting Away With It (All Messed Up) (Official Music Video) &#x27;Getting Away With It (All Messed...</p></details>
+
+### Additional References
+
+14. <a id="endnote-14"></a>
+   Source: nsa.gov  
+   Link: [https://www.nsa.gov/Helpful-Links/Prepublication-Review/](https://www.nsa.gov/Helpful-Links/Prepublication-Review/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prepublication ReviewPrepublication review is the process to determine that information proposed for public release contains no protected...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/UFOs/comments/1bos3d4/where_is_david_gruschs_op_ed/](https://www.reddit.com/r/UFOs/comments/1bos3d4/where_is_david_gruschs_op_ed/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Where is David Grusch&#x27;s op Ed?: r/UFOsIs it coming soon? What happened?? In an interview with NewsNation’s Elizabeth Vargas, Grusch said...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: justsecurity.org  
+   Link: [https://www.justsecurity.org/100244/the-new-intelligence-community-directive-on-prepublication-review-important-reforms-and-critical-omissions/](https://www.justsecurity.org/100244/the-new-intelligence-community-directive-on-prepublication-review-important-reforms-and-critical-omissions/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The New Intelligence Community Directive on...Sep 20, 2024 — The ODNI&#x27;s prepublication review directive improves several important aspec...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: wearejames.com  
+   Link: [https://wearejames.com/](https://wearejames.com/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>the official JAMES websiteAll the news, tour dates and more from the band James. Nothing But Love - The Definitive Best Of James is out now...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: forums.whirlpool.net.au  
+   Title: whirlpool.net.au Are UFOs Aliens or aliens visiting us (page 5)  
+   Link: [https://forums.whirlpool.net.au/archive/988l82m5-5](https://forums.whirlpool.net.au/archive/988l82m5-5)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Aliens or aliens visiting us (page 5) - Science12 Jun 2023 — Pick up a copy of George&#x27;s book Skinwalkers at the Pentagon and turn to...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: wearejames.com  
+   Title: Live All the news, tour dates and more from the band James. Nothing But Love  
+   Link: [https://wearejames.com/live/](https://wearejames.com/live/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>LiveAll the news, tour dates and more from the band James. Nothing But Love - The Definitive Best Of James is out now...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: aei.org  
+   Title: the odnis new and disappointing prepublication review process  
+   Link: [https://www.aei.org/op-eds/the-odnis-new-and-disappointing-prepublication-review-process/](https://www.aei.org/op-eds/the-odnis-new-and-disappointing-prepublication-review-process/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The ODNI&#x27;s New and Disappointing Prepublication Review...Sep 4, 2024 — The new directive is clearer that prepublication review should be...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: Lawfare  
+   Title: the odnis new and disappointing prepublication review process  
+   Link: [https://www.lawfaremedia.org/article/the-odnis-new-and-disappointing-prepublication-review-process](https://www.lawfaremedia.org/article/the-odnis-new-and-disappointing-prepublication-review-process)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ODNI&#x27;s New and Disappointing Prepublication Review...by J Goldsmith · 2024 — The new directive is clearer that prepublication review sho...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: Wikipedia  
+   Title: Defense Office of Prepublication and Security Review  
+   Link: [https://en.wikipedia.org/wiki/Defense_Office_of_Prepublication_and_Security_Review](https://en.wikipedia.org/wiki/Defense_Office_of_Prepublication_and_Security_Review)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Office of Prepublication and Security ReviewThe legality of the DOPSR program is based upon non-disclosure agreements signed b...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/617328327480084/posts/842301668316081/](https://www.facebook.com/groups/617328327480084/posts/842301668316081/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch, Dr.Colm Kelleher to discuss: - Following up &quot;Skinwalkers at the Pentagon&quot; - Importance of the books contents in days ah...</p></details>

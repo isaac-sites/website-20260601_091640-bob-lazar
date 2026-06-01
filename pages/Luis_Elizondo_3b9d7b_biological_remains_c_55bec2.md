@@ -1,0 +1,658 @@
+---
+level: 2
+basename: Luis_Elizondo_3b9d7b_biological_remains_c_55bec2
+parent_basename: Luis_Elizondo_3b9d7b
+child_basenames:
+- Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_biologics_grusch_ech_4d544d
+- Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_index
+- Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_roswell_bodies_air_f_8189d3
+- Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_samples_vs_bodies_wo_eb06cb
+sibling_basenames:
+- Luis_Elizondo_3b9d7b_aaro_rebuttals_511da7
+- Luis_Elizondo_3b9d7b_aatip_role_dispute_50e727
+- Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5
+- Luis_Elizondo_3b9d7b_firsthand_secondhand_41e61b
+- Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60
+- Luis_Elizondo_3b9d7b_recovered_craft_clai_2845ca
+- Luis_Elizondo_3b9d7b_uap_media_influence_032f74
+tags:
+- luis-elizondo
+- biological-claims
+keywords:
+- luis-elizondo
+- biological-claims
+affiliate_category: luis-elizondo
+show_ads: true
+description: Claims about non-human biological material are among Elizondo's least substantiated and most controversial statements.
+hero_summary: Claims about non-human biological material are among Elizondo's least substantiated and most controversial statements.
+layout: default
+permalink: /biological-claims/
+sidebar_expanded_urls:
+- /how-credible-is-luis-elizondo/
+nav_short_title: Biological Claims
+title: Why the Biological Claims Need Caution
+title_full: Why the Biological Claims Need Caution | Elizondo
+display_title_short: Biological Claims
+display_title: Biological Claims
+heading_title: Why the Biological Claims Need Caution
+page_heading_title: Why the Biological Claims Need Caution
+source_count: 116
+infographic_count: 3
+planned_sections:
+- What he has said about non human remains
+- How Roswell references raise the evidential stakes
+- What public verification would need to show
+focal_unit_type: mechanism
+topic_lens: critique_risk
+topic_granularity: theme_cluster
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: Elizondo
+parent_permalink: /how-credible-is-luis-elizondo/
+parent_nav_short_title: Elizondo
+parent_heading_title: How Credible Is Luis Elizondo?
+ancestor_links:
+- basename: Luis_Elizondo_3b9d7b
+  title: Elizondo
+  permalink: /how-credible-is-luis-elizondo/
+  short_title: Elizondo
+breadcrumb_links:
+- basename: Luis_Elizondo_3b9d7b
+  title: Elizondo
+  permalink: /how-credible-is-luis-elizondo/
+  short_title: Elizondo
+sibling_links:
+- basename: Luis_Elizondo_3b9d7b_aaro_rebuttals_511da7
+  title: AARO | How Credible Is Luis Elizondo?
+  permalink: /aaro-b41c4f/
+  short_title: AARO
+  heading_title: How Strong Is AARO's Rebuttal?
+- basename: Luis_Elizondo_3b9d7b_aatip_role_dispute_50e727
+  title: AATIP Role | How Credible Is Luis Elizondo?
+  permalink: /aatip-role/
+  short_title: AATIP Role
+  heading_title: Did Elizondo Really Run AATIP?
+- basename: Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5
+  title: Congress | How Credible Is Luis Elizondo?
+  permalink: /congress/
+  short_title: Congress
+  heading_title: What Did Elizondo Tell Congress?
+- basename: Luis_Elizondo_3b9d7b_recovered_craft_clai_2845ca
+  title: Craft Claims | How Credible Is Luis Elizondo?
+  permalink: /craft-claims/
+  short_title: Craft Claims
+  heading_title: Where Is the Evidence for Recovered Craft?
+- basename: Luis_Elizondo_3b9d7b_uap_media_influence_032f74
+  title: Influence | How Credible Is Luis Elizondo?
+  permalink: /influence-20a41a/
+  short_title: Influence
+  heading_title: How Elizondo Changed the UAP Debate
+- basename: Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60
+  title: Navy Videos | How Credible Is Luis Elizondo?
+  permalink: /navy-videos/
+  short_title: Navy Videos
+  heading_title: What Did the Navy Videos Actually Show?
+- basename: Luis_Elizondo_3b9d7b_firsthand_secondhand_41e61b
+  title: Source Trail | How Credible Is Luis Elizondo?
+  permalink: /source-trail/
+  short_title: Source Trail
+  heading_title: What Did Elizondo Know First Hand?
+child_links:
+- basename: Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_biologics_grusch_ech_4d544d
+  title: Grusch echo | Biological Claims
+  permalink: /grusch-echo/
+  short_title: Grusch echo
+  heading_title: When biologics claims depend on hidden evidence
+- basename: Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_roswell_bodies_air_f_8189d3
+  title: Roswell claim | Biological Claims
+  permalink: /roswell-claim/
+  short_title: Roswell claim
+  heading_title: Why Roswell makes the bodies claim harder
+- basename: Luis_Elizondo_3b9d7b_biological_remains_c_55bec2_samples_vs_bodies_wo_eb06cb
+  title: Samples wording | Biological Claims
+  permalink: /samples-wording/
+  short_title: Samples wording
+  heading_title: Did Elizondo really claim alien bodies?
+up_link:
+  basename: Luis_Elizondo_3b9d7b
+  title: Elizondo
+  permalink: /how-credible-is-luis-elizondo/
+  short_title: Elizondo
+prev_link:
+  basename: Luis_Elizondo_3b9d7b_aatip_role_dispute_50e727
+  title: AATIP Role | How Credible Is Luis Elizondo?
+  permalink: /aatip-role/
+  short_title: AATIP Role
+  heading_title: Did Elizondo Really Run AATIP?
+next_link:
+  basename: Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5
+  title: Congress | How Credible Is Luis Elizondo?
+  permalink: /congress/
+  short_title: Congress
+  heading_title: What Did Elizondo Tell Congress?
+date: '2026-06-01 08:22:29 '
+header:
+  og_image: /assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2-overview-social.jpg
+  preview_image: /assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2-overview.webp
+image: /assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2-overview-social.jpg
+---
+
+## Introduction
+
+[Luis Elizondo]({{ 'how-credible-is-luis-elizondo/' | relative_url }})’s comments about non-human biological remains sit at the most fragile end of his public credibility. He has made, repeated, or endorsed claims that the United States has recovered non-human technology and biological samples from crashed craft, including claims linked to Roswell. But these are not the same kind of claim as “the [Navy videos]({{ 'navy-videos/' | relative_url }}) are real” or “UAP reports deserve investigation”. They require physical proof, clear custody records, independent laboratory work and public verification. None of that has yet been produced.
+
+
+<img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2-overview.webp" | relative_url }}" alt="Overview image for Biological Claims" loading="eager" decoding="sync" fetchpriority="high">
+That distinction matters because Elizondo’s authority comes partly from his claimed access to classified defence and intelligence channels, yet the biological-remains claims are precisely the sort of claim that cannot be responsibly accepted on insider status alone. In public sources, they remain a mixture of memoir assertion, interview statement, alleged classified knowledge, and disputed government-denial territory. A fair assessment is therefore cautious: the claims are significant because of who is making them, but weak because the evidence available to the public has not met the burden attached to them.
+
+## What Elizondo Has Said About Non-Human Remains
+
+Elizondo’s biological-remains claims became much more explicit around the release of his 2024 book *Imminent*. In interviews promoting the book, he said the US government possesses “exotic material” that appears not to be made by humans, and when asked about non-human bodies he narrowed the wording to “biological samples”, adding that he wanted to be careful with the word “bodies” because it implies an intact corpse. He also suggested there may be multiple such samples. <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.com/ex-pentagon-official-discusses-government-hunt-ufos-exclusive-8712746" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-title">Ex-Pentagon Official Discusses Government&#x27;s Hunt for UFOs (Exclusive</span><span class="citation-popover-snippet">Ex-Pentagon Official Discusses Government&#x27;s Hunt for UFOs (Exclusive</span></span></span>
+
+That caveat is important. “Biological samples” could mean tissue, fluids, fragments, implants associated with a person, or something described to him by others. It does not necessarily mean intact non-human corpses in a government facility. The strongest version of the claim — recovered alien bodies — is much more dramatic than the more cautious formulation he gave in that interview. The careful reader should keep those categories separate.
+
+Elizondo has also been reported as claiming that biological remains and non-human technology have been recovered from crashed craft, and that a secretive group has collected such material for decades. *The Times* reported that his book includes the claim that four deceased non-human bodies were recovered from the 1947 Roswell crash. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.com/world/us-world/article/pentagon-ufo-expert-says-secret-group-has-non-human-material-k9556s7rc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.com">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.com</span><span class="citation-popover-title">pentagon ufo expert says secret group has non human material k9556s7rc</span><span class="citation-popover-snippet">pentagon ufo expert says secret group has non human material k9556s7rc</span></span></span> PEOPLE’s interview likewise framed the book as corroborating a claim that technology and non-human remains had been retrieved from crashed craft, but the public article did not present laboratory evidence, photographs, chain-of-custody documents, or named custodians for the alleged material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.com/ex-pentagon-official-discusses-government-hunt-ufos-exclusive-8712746" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-title">Ex-Pentagon Official Discusses Government&#x27;s Hunt for UFOs (Exclusive</span><span class="citation-popover-snippet">Ex-Pentagon Official Discusses Government&#x27;s Hunt for UFOs (Exclusive</span></span></span>
+
+This leaves a credibility problem. Elizondo is not merely saying “some UAP remain unexplained”. He is asking the public to accept, at least provisionally, that a hidden recovery-and-biological-material architecture exists inside or around the US national-security state. That is an extraordinary institutional claim as well as an extraordinary biological claim. It implies not only recovered material, but long-term secrecy, controlled access, compartmented storage, scientific testing, and suppression or non-disclosure by multiple agencies and contractors.
+
+
+<img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2-Illustration-1-dark.svg" | relative_url }}" alt="Biological Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Why Roswell Raises the Stakes
+
+Roswell is not a neutral reference point. It is the most culturally loaded UFO case in modern American history, and any new [Roswell claim]({{ 'roswell-claim/' | relative_url }}) inherits decades of accumulated mythology, witness disputes, official counter-explanations and popular retelling. When Elizondo or coverage of his book links non-human bodies to Roswell, the evidential bar rises sharply because the case has already been investigated, argued over and mythologised for generations.
+
+The official US Air Force position is that the 1947 Roswell debris came from Project MOGUL, a balloon-borne research programme, not an extraterrestrial vehicle. The Air Force also argued that later “alien body” accounts likely drew from a mixture of high-altitude test dummies, balloon recovery operations, and memories of real aircraft or balloon accidents in which service personnel were killed or injured. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.af.mil/The-Roswell-Report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: af.mil">[Air Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">af.mil</span><span class="citation-popover-snippet">The Roswell Report...</span></span></span>
+
+That official explanation does not settle every reader’s doubts, and supporters of the Roswell alien-recovery story often argue that the Air Force reports were themselves damage control. But for Elizondo’s credibility, the key point is narrower: invoking Roswell places his claim directly against an existing official record that offers mundane explanations for both debris and body stories. A new claim that Roswell involved four non-human bodies therefore needs more than an appeal to classified knowledge or unnamed sources. It needs evidence strong enough to overturn a well-developed official counter-narrative.
+
+Roswell also creates a “story contamination” problem. The longer a case circulates in books, documentaries, conferences and online communities, the harder it becomes to distinguish original evidence from later reconstruction. [AARO]({{ 'aaro-b41c4f/' | relative_url }})’s 2024 historical report explicitly noted the persistence of narratives about recovered off-world craft and biological material, and said it investigated claims that the US government and contractors had recovered and hidden such material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-22 "Endnote 22") For a Roswell-linked biological claim to be persuasive, it would have to show that the information is not simply a recycled version of older Roswell lore routed through newer insider language.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wgM5V44eQHU" title="Confessions of a UFO Hunter: Ross Coulthart interviews Lue Elizondo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wgM5V44eQHU" target="_blank" rel="noopener noreferrer">Confessions of a UFO Hunter: Ross Coulthart interviews Lue Elizondo</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 1.2M &middot; Uploaded: August 2024 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wgM5V44eQHU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wgM5V44eQHU">Open on YouTube</a></p></div></div></div>
+
+## First-Hand Knowledge, Second-Hand Claims and the Grusch Echo
+
+A central problem is whether Elizondo is presenting first-hand knowledge, classified documentation he personally saw, what trusted colleagues told him, or an inference from a wider pattern of UAP secrecy. Those are not equivalent. A first-hand observation of a labelled sample in a controlled facility is stronger than hearing that such a sample exists. A verifiable document with names, dates and storage locations is stronger than a statement that the subject remains classified.
+
+The public pattern resembles, and sometimes overlaps with, David Grusch’s 2023 “non-human biologics” claim. Grusch told [Congress]({{ 'congress/' | relative_url }}) that biologics came with some recoveries, but also said this was the assessment of people with direct knowledge of the programme whom he had interviewed, not a public presentation of bodies, samples, or lab results. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian UFO hearings: whistleblower David Grusch says &#x27;non</span><span class="citation-popover-snippet">The Guardian UFO hearings: whistleblower David Grusch says &#x27;non</span></span></span> Elizondo’s later biological-sample language sits in the same broader whistleblower ecosystem: serious-sounding claims made by intelligence-linked figures, but with decisive evidence said to be classified, hidden, or available only to authorised investigators.
+
+That does not make the claims false. Intelligence and defence matters can involve real secrets, and classified channels may contain information unavailable to journalists or the public. But it does mean the public evidence remains testimonial. The reader is being asked to evaluate source credibility, institutional plausibility and consistency rather than a disclosed specimen.
+
+Elizondo’s November 2024 written testimony to the House Oversight Committee leaned heavily on secrecy, alleged suppression and the claim that certain UAP programmes operate without proper oversight. He stated that much of his government work on UAP remains classified and argued that excessive secrecy had hidden the fact that “we are not alone in the cosmos”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee</span><span class="citation-popover-snippet">Oversight Committee</span></span></span> That is a striking public statement, but it still does not give the public the kind of biological verification that would be needed to move the remains claim from allegation to established fact.
+
+
+<img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2-Illustration-2-dark.svg" | relative_url }}" alt="Biological Claims illustration 2" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## What Undermines the Biological Claims
+
+The strongest public counterweight is AARO’s 2024 historical report. AARO said it found no evidence that any US government investigation, academic-sponsored research or official review panel had confirmed that a UAP sighting represented extraterrestrial technology. It also said it found no empirical evidence that the US government or private companies had been reverse-engineering extraterrestrial technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-22 "Endnote 22")
+
+More directly for this page, AARO said it found no empirical evidence that any UAP investigatory effort since 1945 — foreign, domestic, government, private or academic — had uncovered verifiable information about the recovery or existence of extraterrestrial beings or craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-22 "Endnote 22") That conclusion does not prove Elizondo is wrong, but it is a major institutional denial from the office created to investigate precisely these kinds of claims.
+
+AARO also discussed [KONA BLUE]({{ 'kona-blue-767ca9/' | relative_url }}), a proposed Department of Homeland Security special access programme that advocates hoped would investigate UAP, paranormal claims and reverse-engineer any off-world craft they expected to acquire. AARO said the proposal included an oral-history effort to gather information about advanced aerospace technology and biological samples, but added that no extraterrestrial craft or bodies were ever collected and that the programme was never approved or stood up. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-22 "Endnote 22")
+
+This matters because it offers a possible mechanism for confusion. Some people inside or near government may have discussed programmes designed to look for alleged biological samples. That is not the same as a programme that actually possessed biological samples. A proposal, an assumption, a rumour, a briefing, an oral-history project and a verified specimen are different evidential categories. Collapsing them together is one way extraordinary claims can become more certain in public retelling than the underlying evidence supports.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uFRAvDOPZP0" title="UFO Expert: “We Have Proof They Exist,” with Luis Elizondo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uFRAvDOPZP0" target="_blank" rel="noopener noreferrer">UFO Expert: “We Have Proof They Exist,” with Luis Elizondo</a></p><p class="youtube-embed-meta">Channel: Dr. Mayim Bialik &middot; Views: 1.1M &middot; Uploaded: October 2024 &middot; Length: 2 hours 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uFRAvDOPZP0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uFRAvDOPZP0">Open on YouTube</a></p></div></div></div>
+
+## What Supporters Argue
+
+Supporters of Elizondo tend to focus on his background, his willingness to speak under legal and reputational risk, and the wider pattern of congressional interest in UAP. They argue that a person with his defence and counterintelligence experience would not lightly make claims about non-human samples if there were nothing behind them. They also point to the fact that Congress has held UAP hearings, taken whistleblower claims seriously enough to provide public platforms, and continued pressing for transparency. The House Oversight Committee’s 2024 hearing listed Elizondo as a witness alongside other UAP figures, giving his claims political visibility even if not evidential confirmation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee</span><span class="citation-popover-snippet">Oversight Committee</span></span></span>
+
+A more careful supporter argument is not “Elizondo has proved alien bodies exist”. It is that his claims should trigger protected disclosure routes, inspector-general review, congressional access to classified records, and penalties for any office or contractor that unlawfully withholds information. On that view, the biological-remains claim is not something the public can yet verify, but it is serious enough to investigate.
+
+That argument has force as an oversight argument. Governments can hide programmes; contractors can hold sensitive materials; classification can be misused. But it still does not solve the biological evidence problem. Oversight interest is not proof. A hearing is not a laboratory result. A witness’s confidence is not a chain of custody.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9gLPtRwXgCM" title="Joe Rogan Experience #2194 - Luis Elizondo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9gLPtRwXgCM" target="_blank" rel="noopener noreferrer">Joe Rogan Experience #2194 - Luis Elizondo</a></p><p class="youtube-embed-meta">Channel: PowerfulJRE &middot; Views: 3.2M &middot; Uploaded: August 2024 &middot; Length: 2 hours 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9gLPtRwXgCM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9gLPtRwXgCM">Open on YouTube</a></p></div></div></div>
+
+## What Public Verification Would Need to Show
+
+A genuine non-human biological-remains case would not be verified by one dramatic photograph or one official-sounding statement. It would require a layered evidence package that survives hostile scrutiny. NASA’s UAP independent study team stressed that extraordinary claims require evidence proportionate to their difficulty, and that extraterrestrial explanations should be treated as a last-resort hypothesis after other possibilities are ruled out. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+For Elizondo’s biological claims to become credible in a public, scientific sense, verification would need to show at least four things.
+
+**First, provenance.** Where exactly did the sample come from? Who recovered it, when, under what conditions, and from what object or site? A biological fragment without a documented recovery history is vulnerable to contamination, misidentification, fraud, or innocent misunderstanding.
+
+**Second, custody.** Who handled it from recovery to storage to testing? Were transfers logged? Was the material kept under conditions that preserve biological integrity? A sample that passes through unnamed private hands or informal networks is much harder to trust.
+
+**Third, independent analysis.** Multiple qualified laboratories would need access under blind or semi-blind conditions, using appropriate methods such as microscopy, DNA or non-DNA molecular analysis, isotope work, proteomics, contamination screening and comparison with known terrestrial organisms. The National Academies’ discussion of biosignature standards emphasises independent verification, uncertainty reporting and careful communication before life-detection claims are treated as robust. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/26621/chapter/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+**Fourth, falsification of ordinary explanations.** The sample would need to be shown not to be human, animal, microbial contamination, laboratory artefact, medical debris, or a terrestrial biological material altered by unusual environmental conditions. NASA’s UAP report made a similar point about witness reports and sensor data: credible witnesses can be useful, but without reproducible and calibrated evidence, reports do not allow firm conclusions about origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+Until that kind of record exists publicly, the safest classification is not “debunked” and not “confirmed”. It is “unverified, high-impact testimony”.
+
+
+<img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2-Illustration-3-dark.svg" | relative_url }}" alt="Biological Claims illustration 3" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_biological_remains_c_55bec2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## The Credibility Takeaway
+
+The biological-remains claims are among the riskiest parts of Elizondo’s public narrative. They are not peripheral colour; they shift the story from UAP as a national-security and aviation-safety issue into claims of recovered non-human life. That move changes the evidential burden dramatically.
+
+Elizondo’s credibility is strongest when he speaks about stigma, reporting failures, military encounters, institutional secrecy and the need for oversight. Those issues are supported by a broader public record: UAP hearings, official reporting systems, Navy videos, NASA interest and continuing AARO work. His credibility is weakest when the claim depends on undisclosed biological material, Roswell-linked bodies, unnamed custodians, and evidence said to exist beyond public inspection.
+
+The most balanced judgement is therefore cautious but not dismissive. Elizondo has made claims that deserve clear institutional investigation if he has provided specifics in classified channels. But as a public matter, the non-human biological-remains claims have not been substantiated. They remain a credibility stress test: if future documents, samples and independent analyses emerge, they would transform the assessment. If they do not, these claims will continue to look like the point where Elizondo’s insider narrative outruns the evidence available to everyone else.
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why the Biological Claims Need Caution. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+        </h4>
+        <p class="fr-book-author">By Luis Elizondo</p>
+        
+        <p class="fr-book-desc">Directly discusses alleged non-human technology and biological material.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Crash+Retrievals+by+Leonard+Stringfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Crash Retrievals on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ykclyQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFO Crash Retrievals" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFO+Crash+Retrievals+by+Leonard+Stringfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Crash Retrievals">UFO Crash Retrievals</a>
+        </h4>
+        <p class="fr-book-author">By Leonard Stringfield</p>
+        
+        <p class="fr-book-desc">Focuses on claims involving recovered craft and bodies.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFO+Crash+Retrievals+by+Leonard+Stringfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+        </h4>
+        <p class="fr-book-author">By Ross Coulthart</p>
+        
+        <p class="fr-book-desc">Covers allegations of hidden evidence and recovery programmes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+        </h4>
+        <p class="fr-book-author">By Garrett M. Graff</p>
+        
+        <p class="fr-book-desc">Provides a more cautious framework for extraordinary claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Crash+Retrievals&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Crash Retrievals</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: people.com  
+   Title: Ex-Pentagon Official Discusses Government's Hunt for UFOs (Exclusive)  
+   Link: [https://people.com/ex-pentagon-official-discusses-government-hunt-ufos-exclusive-8712746](https://people.com/ex-pentagon-official-discusses-government-hunt-ufos-exclusive-8712746)  
+
+2. <a id="endnote-2"></a>
+   Source: af.mil  
+   Title: Air Force  
+   Link: [https://www.af.mil/The-Roswell-Report/](https://www.af.mil/The-Roswell-Report/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Roswell Report...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: oversight.house.gov  
+   Title: Oversight Committee  
+   Link: [https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf](https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf)  
+
+4. <a id="endnote-4"></a>
+   Source: oversight.house.gov  
+   Title: Oversight Committee Unidentified Anomalous Phenomena: Exposing the Truth  
+   Link: [https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/](https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/)  
+
+5. <a id="endnote-5"></a>
+   Source: science.nasa.gov  
+   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+
+6. <a id="endnote-6"></a>
+   Source: oversight.house.gov  
+   Title: Written Testimony Shellenberger  
+   Link: [https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf](https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf)  
+
+7. <a id="endnote-7"></a>
+   Source: oversight.house.gov  
+   Title: Dave G HOC Speech FINAL For Trans  
+   Link: [https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf](https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf)  
+
+8. <a id="endnote-8"></a>
+   Source: oversight.house.gov  
+   Link: [https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/](https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/)  
+
+9. <a id="endnote-9"></a>
+   Source: docs.house.gov  
+   Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
+   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+
+10. <a id="endnote-10"></a>
+   Source: science.nasa.gov  
+   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+
+11. <a id="endnote-11"></a>
+   Source: science.nasa.gov  
+   Title: ladder of life detection  
+   Link: [https://science.nasa.gov/astrobiology/researchers/life-detection-resources/ladder-of-life-detection/](https://science.nasa.gov/astrobiology/researchers/life-detection-resources/ladder-of-life-detection/)  
+
+12. <a id="endnote-12"></a>
+   Source: astrobiology.nasa.gov  
+   Title: life detection  
+   Link: [https://astrobiology.nasa.gov/research/life-detection/](https://astrobiology.nasa.gov/research/life-detection/)  
+
+13. <a id="endnote-13"></a>
+   Source: astrobiology.nasa.gov  
+   Link: [https://astrobiology.nasa.gov/news/caps-study-on-the-community-report-from-the-biosignatures-standards-of-evidence-workshop/](https://astrobiology.nasa.gov/news/caps-study-on-the-community-report-from-the-biosignatures-standards-of-evidence-workshop/)  
+
+14. <a id="endnote-14"></a>
+   Source: sma.nasa.gov  
+   Title: wilhelm slides  
+   Link: [https://sma.nasa.gov/docs/default-source/event-docs/wilhelm-slides.pdf?sfvrsn=fb90d7f8_0](https://sma.nasa.gov/docs/default-source/event-docs/wilhelm-slides.pdf?sfvrsn=fb90d7f8_0)  
+
+15. <a id="endnote-15"></a>
+   Source: aaro.mil  
+   Title: UAP Imagery  
+   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+
+16. <a id="endnote-16"></a>
+   Source: aaro.mil  
+   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+
+17. <a id="endnote-17"></a>
+   Source: aaro.mil  
+   Title: UAP Records  
+   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+
+18. <a id="endnote-18"></a>
+   Source: war.gov  
+   Title: dod examining unidentified anomalous phenomena  
+   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+
+19. <a id="endnote-19"></a>
+   Source: youtube.com  
+   Title: US has UFO retrieval program, alien bodies: Ex-Pentagon official  
+   Link: [https://www.youtube.com/watch?v=-bw3VfK_lsA](https://www.youtube.com/watch?v=-bw3VfK_lsA)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Luis Elizondo - Joe Rogan Experience #2194...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: youtube.com  
+   Title: Luis Elizondo  
+   Link: [https://www.youtube.com/watch?v=9gLPtRwXgCM](https://www.youtube.com/watch?v=9gLPtRwXgCM)  
+
+21. <a id="endnote-21"></a>
+   Source: thetimes.com  
+   Title: pentagon ufo expert says secret group has non human material k9556s7rc  
+   Link: [https://www.thetimes.com/world/us-world/article/pentagon-ufo-expert-says-secret-group-has-non-human-material-k9556s7rc](https://www.thetimes.com/world/us-world/article/pentagon-ufo-expert-says-secret-group-has-non-human-material-k9556s7rc)  
+
+22. <a id="endnote-22"></a>
+   Source: media.defense.gov  
+   Title: U.S. Department of War AARO Historical Record Report Volume 1  
+   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+
+23. <a id="endnote-23"></a>
+   Source: theguardian.com  
+   Title: The Guardian UFO hearings: whistleblower David Grusch says 'non  
+   Link: [https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates](https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates)  
+
+24. <a id="endnote-24"></a>
+   Source: nationalacademies.org  
+   Link: [https://www.nationalacademies.org/read/26621/chapter/4](https://www.nationalacademies.org/read/26621/chapter/4)  
+
+25. <a id="endnote-25"></a>
+   Source: Wikipedia  
+   Title: Luis Elizondo  
+   Link: [https://en.wikipedia.org/wiki/Luis_Elizondo](https://en.wikipedia.org/wiki/Luis_Elizondo)  
+
+26. <a id="endnote-26"></a>
+   Source: theguardian.com  
+   Title: house ufo hearing  
+   Link: [https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing](https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing)  
+
+27. <a id="endnote-27"></a>
+   Source: foyles.co.uk  
+   Title: luis elizondo  
+   Link: [https://www.foyles.co.uk/reviews/imminent/luis-elizondo/9781789466041/1?srsltid=AfmBOoqi4Bwv6WKdwyVuQOItBbnlzRVHm-L2an7c5XUnZ1cLwTMwe4xA](https://www.foyles.co.uk/reviews/imminent/luis-elizondo/9781789466041/1?srsltid=AfmBOoqi4Bwv6WKdwyVuQOItBbnlzRVHm-L2an7c5XUnZ1cLwTMwe4xA)  
+
+### Additional References
+
+28. <a id="endnote-28"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=ybkUPaOqu6c](https://www.youtube.com/watch?v=ybkUPaOqu6c)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Luis Elizondo: Gov&#x27;t Has Biological UAP Samples...</p></details>
+
+29. <a id="endnote-29"></a>
+   Source: youtube.com  
+   Title: Former Pentagon insider shares details on UFOs in new book  
+   Link: [https://www.youtube.com/watch?v=g7-vKn-Qqbg](https://www.youtube.com/watch?v=g7-vKn-Qqbg)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Luis Elizondo discusses new book &quot;Imminent&quot; and the Pentagon&#x27;s UAP investigations...</p></details>
+
+30. <a id="endnote-30"></a>
+   Source: youtube.com  
+   Title: Luis Elizondo: Gov't Has Biological UAP Samples  
+   Link: [https://www.youtube.com/watch?v=wULw64ZL1Bg](https://www.youtube.com/watch?v=wULw64ZL1Bg)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>US has UFO retrieval program, alien bodies: Ex-Pentagon official...</p></details>
+
+31. <a id="endnote-31"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/](https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/)  
+
+32. <a id="endnote-32"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/NewsNationNow/posts/a-us-air-force-veteran-believes-he-was-involved-in-the-recovery-of-alien-technol/626795626394125/](https://www.facebook.com/NewsNationNow/posts/a-us-air-force-veteran-believes-he-was-involved-in-the-recovery-of-alien-technol/626795626394125/)  
+
+33. <a id="endnote-33"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/NBCNews/posts/a-ufo-whistleblower-claims-that-the-us-government-has-evidence-of-non-human-biol/677702834221585/](https://www.facebook.com/NBCNews/posts/a-ufo-whistleblower-claims-that-the-us-government-has-evidence-of-non-human-biol/677702834221585/)  
+
+34. <a id="endnote-34"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/SkyNewsAustralia/posts/a-former-cia-funded-researcher-has-claimed-the-us-recovered-multiple-alien-speci/1432416158915978/](https://www.facebook.com/SkyNewsAustralia/posts/a-former-cia-funded-researcher-has-claimed-the-us-recovered-multiple-alien-speci/1432416158915978/)  
+
+35. <a id="endnote-35"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/NewsNationNow/posts/exclusive-an-air-force-veteran-and-whistleblower-sits-down-with-ross-coulthart-t/625105823229772/](https://www.facebook.com/NewsNationNow/posts/exclusive-an-air-force-veteran-and-whistleblower-sits-down-with-ross-coulthart-t/625105823229772/)  
+
+36. <a id="endnote-36"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/SteveBartlettShow/posts/ex-pentagon-official-luis-elizondo-says-ufos-are-very-much-real-/1107713424070866/](https://www.facebook.com/SteveBartlettShow/posts/ex-pentagon-official-luis-elizondo-says-ufos-are-very-much-real-/1107713424070866/)  
+
+37. <a id="endnote-37"></a>
+   Source: thenationaldesk.com  
+   Link: [https://thenationaldesk.com/news/fact-check-team/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars](https://thenationaldesk.com/news/fact-check-team/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars)  

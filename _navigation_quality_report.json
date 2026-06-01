@@ -1,0 +1,1022 @@
+{
+  "generated_at_utc": "2026-06-01T08:06:24.744532Z",
+  "summary": {
+    "total_pages_with_permalink": 504,
+    "visible_pages": 396,
+    "hidden_pages": 108,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "edge_samples": [
+      {
+        "from": "Bob_Lazar_9c5e0c",
+        "to": "Colm_Kelleher_d782e9",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c",
+        "to": "David_Grusch_f99f18",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c",
+        "to": "Eric_Davis_980b6a",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c",
+        "to": "Hal_Puthoff_b03689",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c",
+        "to": "James_Lacatski_1e11f1",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c",
+        "to": "John_Ramirez_18aa07",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c",
+        "to": "Kit_Green_d896bc",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c",
+        "to": "Luis_Elizondo_3b9d7b",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c",
+        "to": "Richard_Doty_5b897d",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c",
+        "to": "Sean_Kirkpatrick_e3c175",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c",
+        "to": "Travis_Taylor_c76455",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c",
+        "to": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c",
+        "to": "Bob_Lazar_9c5e0c_degree_verification_eaee04",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c",
+        "to": "Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c",
+        "to": "Bob_Lazar_9c5e0c_erased_records_claim_782854",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c",
+        "to": "Bob_Lazar_9c5e0c_index",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c",
+        "to": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c",
+        "to": "Bob_Lazar_9c5e0c_public_story_timelin_3d786d",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c",
+        "to": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c",
+        "to": "Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9",
+        "to": "Bob_Lazar_9c5e0c",
+        "type": "parent"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9",
+        "to": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9",
+        "to": "Bob_Lazar_9c5e0c_degree_verification_eaee04",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9",
+        "to": "Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9",
+        "to": "Bob_Lazar_9c5e0c_erased_records_claim_782854",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9",
+        "to": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9",
+        "to": "Bob_Lazar_9c5e0c_public_story_timelin_3d786d",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9",
+        "to": "Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9",
+        "to": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9_area51_records_gap_439530",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9",
+        "to": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9_index",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9",
+        "to": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9_papoose_imagery_foot_5a0429",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9",
+        "to": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9_s4_bus_route_clues_7fa6b0",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9",
+        "to": "Bob_Lazar_9c5e0c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0",
+        "to": "Bob_Lazar_9c5e0c",
+        "type": "parent"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0",
+        "to": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0",
+        "to": "Bob_Lazar_9c5e0c_degree_verification_eaee04",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0",
+        "to": "Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0",
+        "to": "Bob_Lazar_9c5e0c_erased_records_claim_782854",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0",
+        "to": "Bob_Lazar_9c5e0c_public_story_timelin_3d786d",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0",
+        "to": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0",
+        "to": "Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0",
+        "to": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_index",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0",
+        "to": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_jet_car_article_phys_8adad7",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0",
+        "to": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_lampf_technician_vs_191c97",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0",
+        "to": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_los_alamos_directory_80643f",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0",
+        "to": "Bob_Lazar_9c5e0c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_degree_verification_eaee04",
+        "to": "Bob_Lazar_9c5e0c",
+        "type": "parent"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_degree_verification_eaee04",
+        "to": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_degree_verification_eaee04",
+        "to": "Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_degree_verification_eaee04",
+        "to": "Bob_Lazar_9c5e0c_erased_records_claim_782854",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_degree_verification_eaee04",
+        "to": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_degree_verification_eaee04",
+        "to": "Bob_Lazar_9c5e0c_public_story_timelin_3d786d",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_degree_verification_eaee04",
+        "to": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_degree_verification_eaee04",
+        "to": "Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_degree_verification_eaee04",
+        "to": "Bob_Lazar_9c5e0c_degree_verification_eaee04_caltech_verification_cb8455",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_degree_verification_eaee04",
+        "to": "Bob_Lazar_9c5e0c_degree_verification_eaee04_index",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_degree_verification_eaee04",
+        "to": "Bob_Lazar_9c5e0c_degree_verification_eaee04_missing_mit_records_c6ee62",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_degree_verification_eaee04",
+        "to": "Bob_Lazar_9c5e0c_degree_verification_eaee04_professor_name_trail_945338",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_degree_verification_eaee04",
+        "to": "Bob_Lazar_9c5e0c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9",
+        "to": "Bob_Lazar_9c5e0c",
+        "type": "parent"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9",
+        "to": "Bob_Lazar_9c5e0c_degree_verification_eaee04",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9",
+        "to": "Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9",
+        "to": "Bob_Lazar_9c5e0c_erased_records_claim_782854",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9",
+        "to": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9",
+        "to": "Bob_Lazar_9c5e0c_public_story_timelin_3d786d",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9",
+        "to": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9",
+        "to": "Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9",
+        "to": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_gravity_amplifier_pr_390fbc",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9",
+        "to": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_index",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9",
+        "to": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_s4_programme_evidenc_7b209a",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9",
+        "to": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_sport_model_verifica_9b7671",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9",
+        "to": "Bob_Lazar_9c5e0c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1",
+        "to": "Bob_Lazar_9c5e0c",
+        "type": "parent"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1",
+        "to": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1",
+        "to": "Bob_Lazar_9c5e0c_degree_verification_eaee04",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1",
+        "to": "Bob_Lazar_9c5e0c_erased_records_claim_782854",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1",
+        "to": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1",
+        "to": "Bob_Lazar_9c5e0c_public_story_timelin_3d786d",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1",
+        "to": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1",
+        "to": "Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1",
+        "to": "Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1_element_115_predicti_371ec5",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1",
+        "to": "Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1_index",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1",
+        "to": "Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1_moscovium_stockpile_e541ba",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1",
+        "to": "Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1_stable_moscovium_fue_020a1c",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1",
+        "to": "Bob_Lazar_9c5e0c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_erased_records_claim_782854",
+        "to": "Bob_Lazar_9c5e0c",
+        "type": "parent"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_erased_records_claim_782854",
+        "to": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_erased_records_claim_782854",
+        "to": "Bob_Lazar_9c5e0c_degree_verification_eaee04",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_erased_records_claim_782854",
+        "to": "Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_erased_records_claim_782854",
+        "to": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_erased_records_claim_782854",
+        "to": "Bob_Lazar_9c5e0c_public_story_timelin_3d786d",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_erased_records_claim_782854",
+        "to": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_erased_records_claim_782854",
+        "to": "Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_erased_records_claim_782854",
+        "to": "Bob_Lazar_9c5e0c_erased_records_claim_782854_index",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_erased_records_claim_782854",
+        "to": "Bob_Lazar_9c5e0c_erased_records_claim_782854_los_alamos_contracto_04c5ba",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_erased_records_claim_782854",
+        "to": "Bob_Lazar_9c5e0c_erased_records_claim_782854_records_erasure_burd_e7f23d",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_erased_records_claim_782854",
+        "to": "Bob_Lazar_9c5e0c_erased_records_claim_782854_united_nuclear_raid_6b33b9",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_erased_records_claim_782854",
+        "to": "Bob_Lazar_9c5e0c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_public_story_timelin_3d786d",
+        "to": "Bob_Lazar_9c5e0c",
+        "type": "parent"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_public_story_timelin_3d786d",
+        "to": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_public_story_timelin_3d786d",
+        "to": "Bob_Lazar_9c5e0c_degree_verification_eaee04",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_public_story_timelin_3d786d",
+        "to": "Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_public_story_timelin_3d786d",
+        "to": "Bob_Lazar_9c5e0c_erased_records_claim_782854",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_public_story_timelin_3d786d",
+        "to": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_public_story_timelin_3d786d",
+        "to": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_public_story_timelin_3d786d",
+        "to": "Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_public_story_timelin_3d786d",
+        "to": "Bob_Lazar_9c5e0c_public_story_timelin_3d786d_dennis_anonymity_tra_93a022",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_public_story_timelin_3d786d",
+        "to": "Bob_Lazar_9c5e0c_public_story_timelin_3d786d_early_claims_proof_g_50193c",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_public_story_timelin_3d786d",
+        "to": "Bob_Lazar_9c5e0c_public_story_timelin_3d786d_index",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_public_story_timelin_3d786d",
+        "to": "Bob_Lazar_9c5e0c_public_story_timelin_3d786d_klas_identity_reveal_9c61fe",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_public_story_timelin_3d786d",
+        "to": "Bob_Lazar_9c5e0c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203",
+        "to": "Bob_Lazar_9c5e0c",
+        "type": "parent"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203",
+        "to": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203",
+        "to": "Bob_Lazar_9c5e0c_degree_verification_eaee04",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203",
+        "to": "Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203",
+        "to": "Bob_Lazar_9c5e0c_erased_records_claim_782854",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203",
+        "to": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203",
+        "to": "Bob_Lazar_9c5e0c_public_story_timelin_3d786d",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203",
+        "to": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203",
+        "to": "Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203_aaro_s4_claim_f0b8b4",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203",
+        "to": "Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203_index",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203",
+        "to": "Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203_kona_blue_assumption_e4eb7e",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203",
+        "to": "Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203_uap_hearings_lazar_g_a76825",
+        "type": "child"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203",
+        "to": "Bob_Lazar_9c5e0c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9_area51_records_gap_439530",
+        "to": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9",
+        "type": "parent"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9_area51_records_gap_439530",
+        "to": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9_papoose_imagery_foot_5a0429",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9_area51_records_gap_439530",
+        "to": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9_s4_bus_route_clues_7fa6b0",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9_area51_records_gap_439530",
+        "to": "Bob_Lazar_9c5e0c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9_area51_records_gap_439530",
+        "to": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9_s4_bus_route_clues_7fa6b0",
+        "to": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9",
+        "type": "parent"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9_s4_bus_route_clues_7fa6b0",
+        "to": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9_area51_records_gap_439530",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9_s4_bus_route_clues_7fa6b0",
+        "to": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9_papoose_imagery_foot_5a0429",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9_s4_bus_route_clues_7fa6b0",
+        "to": "Bob_Lazar_9c5e0c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9_s4_bus_route_clues_7fa6b0",
+        "to": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203_aaro_s4_claim_f0b8b4",
+        "to": "Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203",
+        "type": "parent"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203_aaro_s4_claim_f0b8b4",
+        "to": "Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203_kona_blue_assumption_e4eb7e",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203_aaro_s4_claim_f0b8b4",
+        "to": "Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203_uap_hearings_lazar_g_a76825",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203_aaro_s4_claim_f0b8b4",
+        "to": "Bob_Lazar_9c5e0c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203_aaro_s4_claim_f0b8b4",
+        "to": "Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9_papoose_imagery_foot_5a0429",
+        "to": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9",
+        "type": "parent"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9_papoose_imagery_foot_5a0429",
+        "to": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9_area51_records_gap_439530",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9_papoose_imagery_foot_5a0429",
+        "to": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9_s4_bus_route_clues_7fa6b0",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9_papoose_imagery_foot_5a0429",
+        "to": "Bob_Lazar_9c5e0c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9_papoose_imagery_foot_5a0429",
+        "to": "Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_lampf_technician_vs_191c97",
+        "to": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0",
+        "type": "parent"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_lampf_technician_vs_191c97",
+        "to": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_jet_car_article_phys_8adad7",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_lampf_technician_vs_191c97",
+        "to": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_los_alamos_directory_80643f",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_lampf_technician_vs_191c97",
+        "to": "Bob_Lazar_9c5e0c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_lampf_technician_vs_191c97",
+        "to": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_degree_verification_eaee04_missing_mit_records_c6ee62",
+        "to": "Bob_Lazar_9c5e0c_degree_verification_eaee04",
+        "type": "parent"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_degree_verification_eaee04_missing_mit_records_c6ee62",
+        "to": "Bob_Lazar_9c5e0c_degree_verification_eaee04_caltech_verification_cb8455",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_degree_verification_eaee04_missing_mit_records_c6ee62",
+        "to": "Bob_Lazar_9c5e0c_degree_verification_eaee04_professor_name_trail_945338",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_degree_verification_eaee04_missing_mit_records_c6ee62",
+        "to": "Bob_Lazar_9c5e0c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_degree_verification_eaee04_missing_mit_records_c6ee62",
+        "to": "Bob_Lazar_9c5e0c_degree_verification_eaee04",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_jet_car_article_phys_8adad7",
+        "to": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0",
+        "type": "parent"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_jet_car_article_phys_8adad7",
+        "to": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_lampf_technician_vs_191c97",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_jet_car_article_phys_8adad7",
+        "to": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_los_alamos_directory_80643f",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_jet_car_article_phys_8adad7",
+        "to": "Bob_Lazar_9c5e0c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_jet_car_article_phys_8adad7",
+        "to": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_los_alamos_directory_80643f",
+        "to": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0",
+        "type": "parent"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_los_alamos_directory_80643f",
+        "to": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_jet_car_article_phys_8adad7",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_los_alamos_directory_80643f",
+        "to": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_lampf_technician_vs_191c97",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_los_alamos_directory_80643f",
+        "to": "Bob_Lazar_9c5e0c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_los_alamos_directory_80643f",
+        "to": "Bob_Lazar_9c5e0c_los_alamos_records_1c51f0",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_degree_verification_eaee04_caltech_verification_cb8455",
+        "to": "Bob_Lazar_9c5e0c_degree_verification_eaee04",
+        "type": "parent"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_degree_verification_eaee04_caltech_verification_cb8455",
+        "to": "Bob_Lazar_9c5e0c_degree_verification_eaee04_missing_mit_records_c6ee62",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_degree_verification_eaee04_caltech_verification_cb8455",
+        "to": "Bob_Lazar_9c5e0c_degree_verification_eaee04_professor_name_trail_945338",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_degree_verification_eaee04_caltech_verification_cb8455",
+        "to": "Bob_Lazar_9c5e0c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_degree_verification_eaee04_caltech_verification_cb8455",
+        "to": "Bob_Lazar_9c5e0c_degree_verification_eaee04",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_degree_verification_eaee04_professor_name_trail_945338",
+        "to": "Bob_Lazar_9c5e0c_degree_verification_eaee04",
+        "type": "parent"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_degree_verification_eaee04_professor_name_trail_945338",
+        "to": "Bob_Lazar_9c5e0c_degree_verification_eaee04_caltech_verification_cb8455",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_degree_verification_eaee04_professor_name_trail_945338",
+        "to": "Bob_Lazar_9c5e0c_degree_verification_eaee04_missing_mit_records_c6ee62",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_degree_verification_eaee04_professor_name_trail_945338",
+        "to": "Bob_Lazar_9c5e0c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_degree_verification_eaee04_professor_name_trail_945338",
+        "to": "Bob_Lazar_9c5e0c_degree_verification_eaee04",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1_moscovium_stockpile_e541ba",
+        "to": "Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1",
+        "type": "parent"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1_moscovium_stockpile_e541ba",
+        "to": "Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1_element_115_predicti_371ec5",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1_moscovium_stockpile_e541ba",
+        "to": "Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1_stable_moscovium_fue_020a1c",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1_moscovium_stockpile_e541ba",
+        "to": "Bob_Lazar_9c5e0c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1_moscovium_stockpile_e541ba",
+        "to": "Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_erased_records_claim_782854_united_nuclear_raid_6b33b9",
+        "to": "Bob_Lazar_9c5e0c_erased_records_claim_782854",
+        "type": "parent"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_erased_records_claim_782854_united_nuclear_raid_6b33b9",
+        "to": "Bob_Lazar_9c5e0c_erased_records_claim_782854_los_alamos_contracto_04c5ba",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_erased_records_claim_782854_united_nuclear_raid_6b33b9",
+        "to": "Bob_Lazar_9c5e0c_erased_records_claim_782854_records_erasure_burd_e7f23d",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_erased_records_claim_782854_united_nuclear_raid_6b33b9",
+        "to": "Bob_Lazar_9c5e0c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_erased_records_claim_782854_united_nuclear_raid_6b33b9",
+        "to": "Bob_Lazar_9c5e0c_erased_records_claim_782854",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_gravity_amplifier_pr_390fbc",
+        "to": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9",
+        "type": "parent"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_gravity_amplifier_pr_390fbc",
+        "to": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_s4_programme_evidenc_7b209a",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_gravity_amplifier_pr_390fbc",
+        "to": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_sport_model_verifica_9b7671",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_gravity_amplifier_pr_390fbc",
+        "to": "Bob_Lazar_9c5e0c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_gravity_amplifier_pr_390fbc",
+        "to": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_s4_programme_evidenc_7b209a",
+        "to": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9",
+        "type": "parent"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_s4_programme_evidenc_7b209a",
+        "to": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_gravity_amplifier_pr_390fbc",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_s4_programme_evidenc_7b209a",
+        "to": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_sport_model_verifica_9b7671",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_s4_programme_evidenc_7b209a",
+        "to": "Bob_Lazar_9c5e0c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_s4_programme_evidenc_7b209a",
+        "to": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_sport_model_verifica_9b7671",
+        "to": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9",
+        "type": "parent"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_sport_model_verifica_9b7671",
+        "to": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_gravity_amplifier_pr_390fbc",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_sport_model_verifica_9b7671",
+        "to": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_s4_programme_evidenc_7b209a",
+        "type": "sibling"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_sport_model_verifica_9b7671",
+        "to": "Bob_Lazar_9c5e0c",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_sport_model_verifica_9b7671",
+        "to": "Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9",
+        "type": "ancestor"
+      },
+      {
+        "from": "Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1_element_115_predicti_371ec5",
+        "to": "Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1",
+        "type": "parent"
+      }
+    ]
+  }
+}

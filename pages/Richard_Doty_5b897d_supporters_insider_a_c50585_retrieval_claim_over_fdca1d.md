@@ -1,0 +1,600 @@
+---
+level: 3
+basename: Richard_Doty_5b897d_supporters_insider_a_c50585_retrieval_claim_over_fdca1d
+parent_basename: Richard_Doty_5b897d_supporters_insider_a_c50585
+child_basenames: []
+sibling_basenames:
+- Richard_Doty_5b897d_supporters_insider_a_c50585_afosi_access_problem_d06201
+- Richard_Doty_5b897d_supporters_insider_a_c50585_disinfo_methods_valu_922a73
+tags:
+- richard-doty
+- supporters
+- retrieval-overlaps
+keywords:
+- richard-doty
+- supporters
+- retrieval-overlaps
+affiliate_category: richard-doty
+show_ads: true
+description: Doty's later claims echo modern UAP whistleblower themes, but overlap alone cannot establish corroboration.
+hero_summary: Doty's later claims echo modern UAP whistleblower themes, but overlap alone cannot establish corroboration.
+layout: default
+permalink: /retrieval-overlaps/
+sidebar_expanded_urls:
+- /was-richard-doty-an-insider-or/
+- /supporters/
+nav_short_title: Retrieval overlaps
+title: Do Doty's claims match modern whistleblowers?
+title_full: Do Doty's claims match modern whistleblowers? | Supporters
+display_title_short: Retrieval overlaps
+display_title: Retrieval overlaps
+heading_title: Do Doty's claims match modern whistleblowers?
+page_heading_title: Do Doty's claims match modern whistleblowers?
+source_count: 52
+infographic_count: 3
+planned_sections:
+- Shared themes with modern UAP testimony
+- Rumour pool, continuity or corroboration
+- Why AARO raises the evidential bar
+focal_unit_type: dataset_evidence
+topic_lens: historical_comparative
+topic_granularity: bounded_topic
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: Why Do Some Ufologists Still Trust Doty? | Doty
+parent_permalink: /supporters/
+parent_nav_short_title: Supporters
+parent_heading_title: Why Do Some Ufologists Still Trust Doty?
+ancestor_links:
+- basename: Richard_Doty_5b897d
+  title: Doty
+  permalink: /was-richard-doty-an-insider-or/
+  short_title: Doty
+- basename: Richard_Doty_5b897d_supporters_insider_a_c50585
+  title: Supporters | Was Richard Doty an Insider or Disinformer?
+  permalink: /supporters/
+  short_title: Supporters
+  heading_title: Why Do Some Ufologists Still Trust Doty?
+breadcrumb_links:
+- basename: Richard_Doty_5b897d
+  title: Doty
+  permalink: /was-richard-doty-an-insider-or/
+  short_title: Doty
+- basename: Richard_Doty_5b897d_supporters_insider_a_c50585
+  title: Supporters | Was Richard Doty an Insider or Disinformer?
+  permalink: /supporters/
+  short_title: Supporters
+  heading_title: Why Do Some Ufologists Still Trust Doty?
+sibling_links:
+- basename: Richard_Doty_5b897d_supporters_insider_a_c50585_afosi_access_problem_d06201
+  title: AFOSI access | Supporters
+  permalink: /afosi-access/
+  short_title: AFOSI access
+  heading_title: How much did AFOSI proximity really prove?
+- basename: Richard_Doty_5b897d_supporters_insider_a_c50585_disinfo_methods_valu_922a73
+  title: Disinfo methods | Supporters
+  permalink: /disinfo-methods/
+  short_title: Disinfo methods
+  heading_title: Can a disinformation source still be useful?
+up_link:
+  basename: Richard_Doty_5b897d_supporters_insider_a_c50585
+  title: Supporters | Was Richard Doty an Insider or Disinformer?
+  permalink: /supporters/
+  short_title: Supporters
+  heading_title: Why Do Some Ufologists Still Trust Doty?
+prev_link:
+  basename: Richard_Doty_5b897d_supporters_insider_a_c50585_disinfo_methods_valu_922a73
+  title: Disinfo methods | Supporters
+  permalink: /disinfo-methods/
+  short_title: Disinfo methods
+  heading_title: Can a disinformation source still be useful?
+date: '2026-06-01 08:30:34 '
+header:
+  og_image: /assets/images/Richard_Doty_5b897d_supporters_insider_a_c50585_retrieval_claim_over_fdca1d-Illustration-1-social.jpg
+  preview_image: /assets/images/Richard_Doty_5b897d_supporters_insider_a_c50585_retrieval_claim_over_fdca1d-Illustration-1.webp
+image: /assets/images/Richard_Doty_5b897d_supporters_insider_a_c50585_retrieval_claim_over_fdca1d-Illustration-1-social.jpg
+---
+
+## Introduction
+
+[Richard Doty]({{ 'was-richard-doty-an-insider-or/' | relative_url }})’s later UFO claims often sound strikingly similar to the themes now associated with modern UAP whistleblowers: crash-retrieval programmes, recovered non-human craft, reverse-engineering efforts, highly compartmentalised access systems, and long-running secrecy inside defence and intelligence networks. For [supporters]({{ 'supporters/' | relative_url }}), that overlap is one reason they continue to pay attention to him. They argue that Doty was describing parts of the same hidden landscape decades before the current UAP controversy entered Congress and mainstream media.
+
+
+<img src="{{ "/assets/images/Richard_Doty_5b897d_supporters_insider_a_c50585_retrieval_claim_over_fdca1d-Illustration-1-dark.svg" | relative_url }}" alt="Retrieval overlaps illustration 1" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_supporters_insider_a_c50585_retrieval_claim_over_fdca1d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_supporters_insider_a_c50585_retrieval_claim_over_fdca1d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+The problem is that overlap alone is not evidence of accuracy. Many of Doty’s most dramatic claims emerged after crash-retrieval stories had already circulated widely in UFO culture, and much of the modern whistleblower discussion relies on second-hand accounts rather than publicly released physical evidence. The key credibility question is therefore not whether Doty’s stories resemble modern allegations. It is whether the similarities represent genuine corroboration, a shared rumour ecosystem, or the recycling of long-established UFO narratives in new forms.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RkwXYqBPH0I" title="The Fifth Witness: UFO Crash-Retrievals Uncovered" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RkwXYqBPH0I" target="_blank" rel="noopener noreferrer">The Fifth Witness: UFO Crash-Retrievals Uncovered</a></p><p class="youtube-embed-meta">Channel: J. Horton Films &middot; Views: 104.8K &middot; Uploaded: November 2025 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RkwXYqBPH0I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RkwXYqBPH0I">Open on YouTube</a></p></div></div></div>
+
+## Shared themes with modern UAP testimony
+
+In his later public appearances, Doty discussed alleged programmes involving recovered craft, secret technological exploitation, classified aerospace research and restricted-access projects. Those themes closely resemble claims made by more recent figures such as David Grusch, who told Congress that he had been informed of a long-running crash-retrieval and reverse-engineering effort operating within highly compartmentalised structures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
+
+Several recurring themes appear in both bodies of claims:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* **Recovered vehicles:** assertions that non-human or unknown craft have been retrieved after crashes or recoveries.
+* **Reverse engineering:** claims that government agencies or contractors attempted to exploit recovered technology.
+* **Compartmentalisation:** descriptions of programmes hidden inside special-access structures where even cleared personnel lack full visibility.
+* **Contractor involvement:** allegations that parts of the work were transferred away from conventional military chains of command.
+* **Information control:** claims that secrecy, disinformation and selective disclosure were used to shield sensitive activities.
+
+</div>
+
+For supporters, these similarities matter because Doty was discussing versions of these ideas long before the recent wave of congressional hearings and whistleblower publicity. They argue that his stories appear less isolated today than they did in the 1980s or 1990s.
+
+Critics respond that crash-retrieval narratives were already deeply embedded in UFO culture long before either Doty’s later interviews or the Grusch controversy. Roswell literature, Majestic-12 mythology, Area 51 rumours and claims by figures such as Philip Corso had circulated for decades. Similarity to an established UFO storyline therefore cannot, by itself, demonstrate insider knowledge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lcrCMLVk614" title="David Grusch Opening Statement at Unidentified Anomalous Phenomena (UAP) Hearing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lcrCMLVk614" target="_blank" rel="noopener noreferrer">David Grusch Opening Statement at Unidentified Anomalous Phenomena (UAP) Hearing</a></p><p class="youtube-embed-meta">Channel: C-SPAN &middot; Views: 511.9K &middot; Uploaded: July 2023 &middot; Length: 4 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lcrCMLVk614" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lcrCMLVk614">Open on YouTube</a></p></div></div></div>
+
+## Rumour pool, continuity or corroboration?
+
+The strongest sceptical challenge is that many modern crash-retrieval allegations may derive from the same network of stories, personalities and beliefs rather than from independent confirmation.
+
+Former AARO director Sean Kirkpatrick argued that investigators encountered what he described as a relatively small circle of interconnected individuals repeatedly sharing and reinforcing the same narratives. According to that criticism, stories can gain credibility through repetition even when the underlying source chain remains narrow. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformationIn the era of flight, governments began using these techniques to protect secret aerial objects, sometim...</span></span></span>
+
+This matters because Doty occupies an unusual place in UFO history. Unlike many claimants, he has long been associated with allegations of deliberate information manipulation. Even supporters generally accept that he operated in an environment where deception, counterintelligence and narrative management were real factors. That history creates a dilemma.
+
+One interpretation is that Doty’s later crash-retrieval claims deserve attention because they come from someone familiar with classified information practices. Another interpretation is that his documented association with UFO-related disinformation makes independent verification especially important before treating any later claim as evidence.
+
+The distinction between **continuity** and **corroboration** becomes crucial:
+
+* **Continuity** means the same story persists across decades.
+* **Corroboration** means genuinely independent evidence supports the story.
+
+Doty’s later [statements]({{ 'statements/' | relative_url }}) often demonstrate continuity. They show that crash-retrieval narratives remained alive inside UFO discourse. They do not automatically provide corroboration unless they can be linked to verifiable documents, first-hand witnesses, physical evidence or independently confirmed programme records.
+
+That distinction is frequently blurred in public discussion. When modern whistleblowers describe alleged retrieval programmes, some audiences interpret the resemblance to older claims as confirmation. From an evidential standpoint, however, two people repeating similar allegations is not the same thing as producing independent proof.
+
+
+<img src="{{ "/assets/images/Richard_Doty_5b897d_supporters_insider_a_c50585_retrieval_claim_over_fdca1d-Illustration-2-dark.svg" | relative_url }}" alt="Retrieval overlaps illustration 2" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_supporters_insider_a_c50585_retrieval_claim_over_fdca1d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_supporters_insider_a_c50585_retrieval_claim_over_fdca1d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Why AARO raises the evidential bar
+
+The emergence of the Pentagon's All-domain Anomaly Resolution Office (AARO) changed the standard by which crash-retrieval claims are often judged.
+
+AARO's 2024 historical review directly examined longstanding allegations involving recovered extraterrestrial technology, secret exploitation programmes and reverse-engineering efforts. The office reported that it found no empirical evidence that US government agencies or private companies had recovered and reverse-engineered extraterrestrial technology. It also stated that specific allegations involving named locations, people, companies and purported programmes could not be substantiated through the evidence reviewed. U.S. Department of War <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">AARO&#x27;s Historical UAP Report</span><span class="citation-popover-snippet">Volume 19 Mar 2024 — AARO found no empirical evidence for claims that the USG and private companieshave been reverse-engineering extrater...</span></span></span> The report further stated that executives and technical personnel from companies identified in some allegations denied possessing or studying off-world technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">companies ever possessed off-world technology.Read more</span><span class="citation-popover-snippet">WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/84 May 2024 — Named Companies Allegedly Experimenting on Alien Technology...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+
+Supporters of crash-retrieval claims have criticised AARO's conclusions, arguing that a deeply buried programme might remain inaccessible even to official investigators. Some also argue that the office cannot definitively disprove the existence of highly restricted activities. Those objections mean AARO's findings have not ended the debate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1j86tbr/when_are_we_getting_volume_2_of_the_aaro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">March 6, 2024. While many were disappointed that this report did not cover the...</span><span class="citation-popover-meta">Published: March 6, 2024</span></span></span>
+
+Nevertheless, AARO's work changes the credibility calculation around Doty's later claims. Once an official investigative body has specifically examined retrieval and reverse-engineering allegations, mere thematic overlap with modern whistleblower accounts becomes a weaker form of evidence. The burden increasingly shifts toward demonstrable documentation, traceable witnesses, auditable records or physical materials rather than similarities in narrative.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kOT39FXstho" title="&#x27;Mislead the Public&#x27; Ep. 3 Official Clip | UFO | SHOWTIME Documentary Series" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kOT39FXstho" target="_blank" rel="noopener noreferrer">&#x27;Mislead the Public&#x27; Ep. 3 Official Clip | UFO | SHOWTIME Documentary Series</a></p><p class="youtube-embed-meta">Channel: SHOWTIME &middot; Views: 361.6K &middot; Uploaded: August 2021 &middot; Length: 1 minute 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kOT39FXstho" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kOT39FXstho">Open on YouTube</a></p></div></div></div>
+
+## What the overlaps actually show
+
+The overlap between Doty's later claims and modern UAP whistleblower allegations is real. Both involve secret recovery programmes, restricted-access systems, contractor participation and efforts to exploit unusual technology. Those parallels help explain why some supporters continue to argue that Doty should not be dismissed outright.
+
+What the overlap does not establish is independent verification.
+
+The strongest evidence provided by the comparison is historical continuity: many of the concepts dominating contemporary UAP debates were already circulating in earlier decades, and Doty became one of the figures who continued to promote them. Whether that continuity reflects genuine hidden programmes, persistent institutional rumours, deliberate disinformation, or some combination of all three remains unresolved.
+
+For readers assessing Doty's credibility, the central lesson is that matching a modern whistleblower narrative is not the same thing as proving it. The value of the comparison lies in showing how certain ideas travelled through UFO and national-security discussions over time. The weakness of the comparison is that the same continuity can be explained by repeated storytelling as easily as by repeated contact with an underlying reality.
+
+
+<img src="{{ "/assets/images/Richard_Doty_5b897d_supporters_insider_a_c50585_retrieval_claim_over_fdca1d-Illustration-3-dark.svg" | relative_url }}" alt="Retrieval overlaps illustration 3" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_supporters_insider_a_c50585_retrieval_claim_over_fdca1d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_supporters_insider_a_c50585_retrieval_claim_over_fdca1d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Do Doty&#x27;s claims match modern whistleblowers?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+        </h4>
+        <p class="fr-book-author">By Ross Coulthart</p>
+        
+        <p class="fr-book-desc">Covers crash retrieval claims, whistleblower narratives and government secrecy allegations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+        </h4>
+        <p class="fr-book-author">By Luis Elizondo</p>
+        
+        <p class="fr-book-desc">Addresses many of the same themes discussed in modern whistleblower testimony.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Focuses on testimony, official sources and evidential standards.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+        </h4>
+        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+        
+        <p class="fr-book-desc">Explores how modern UFO belief systems and insider narratives develop.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: Wikipedia  
+   Title: David Grusch UFO whistleblower claims  
+   Link: [https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims](https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims)  
+
+2. <a id="endnote-2"></a>
+   Source: Wikipedia  
+   Title: Roswell incident  
+   Link: [https://en.wikipedia.org/wiki/Roswell_incident](https://en.wikipedia.org/wiki/Roswell_incident)  
+
+3. <a id="endnote-3"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/UFOs/comments/1j86tbr/when_are_we_getting_volume_2_of_the_aaro/](https://www.reddit.com/r/UFOs/comments/1j86tbr/when_are_we_getting_volume_2_of_the_aaro/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 6, 2024. While many were disappointed that this report did not cover the...</p></details>
+   Published: March 6, 2024  
+
+4. <a id="endnote-4"></a>
+   Source: media.defense.gov  
+   Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
+   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO found no evidence that any USG investigation, academic-sponsored...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: metabunk.org  
+   Title: AARO's Historical UAP Report  
+   Link: [https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/](https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Volume 19 Mar 2024 — AARO found no empirical evidence for claims that the USG and private companieshave been reverse-engineering extrater...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: en.wikisource.org  
+   Title: companies ever possessed off-world technology.Read more  
+   Link: [https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8](https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourcePage:AARO Historical Record Report Volume 1 2024.pdf/84 May 2024 — Named Companies Allegedly Experimenting on Alien Technology...</p></details>
+   Published: May 2024  
+
+7. <a id="endnote-7"></a>
+   Source: reddit.com  
+   Title: Robert Powell's takedown analysis of the AARO report  
+   Link: [https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/](https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>9, 2024 — The simplistic statement that &quot;we have found no evidence of extraterrestrial intelligence&quot; is made by someone who l...</p></details>
+   Published: March 9, 2024  
+
+8. <a id="endnote-8"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/UFOs/comments/zvg6s2/heres_a_thing_about_richard_doty_that_not_many/](https://www.reddit.com/r/UFOs/comments/zvg6s2/heres_a_thing_about_richard_doty_that_not_many/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>s” of people who visited Area 51 in the 70s and among them...Read more...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/aliens/comments/14lakvv/richard_doty_claims_the_next_whistleblower_to/](https://www.reddit.com/r/aliens/comments/14lakvv/richard_doty_claims_the_next_whistleblower_to/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>He was a disinformation agent for years. Infiltrated the ufo community and spread so much...Read more...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/UFOs/comments/141up7z/pentagon_aaro_response_to_david_grusch_claims_of/](https://www.reddit.com/r/UFOs/comments/141up7z/pentagon_aaro_response_to_david_grusch_claims_of/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>PENTAGON / AARO Response to David Grusch...Nothing in that statement says “we absolutely haven&#x27;t interviewed two dozen people who told u...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/UFOs/comments/14uto3b/does_david_grusch_have_any_suspiciously_close/](https://www.reddit.com/r/UFOs/comments/14uto3b/does_david_grusch_have_any_suspiciously_close/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>I compiled all of David Grusch&#x27;s claims into one... r/UFOs - A Major New UFO Whistleblower is emerging — thanks to David Grusch&#x27;s.Read more...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/UFOs/comments/15d0yyw/what_are_your_thoughts_on_this_richard_doty_claim/](https://www.reddit.com/r/UFOs/comments/15d0yyw/what_are_your_thoughts_on_this_richard_doty_claim/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/UFOs - Update on David Grusch&#x27;s FOIA lawsuit against the Department of...Read more...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: aaro.mil  
+   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThis unresolved report contributes to AARO&#x27;s historical and locational trend analyses. PR-017, Unresolved UAP Report, Europe 2...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: aaro.mil  
+   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: aaro.mil  
+   Title: UAP Records  
+   Link: [https://www.aaro.mil/UAP-Records/](https://www.aaro.mil/UAP-Records/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — AARO recognizes the importance of NARA in supporting AARO&#x27;s mission to review and document historical UA...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: en.wikisource.org  
+   Title: Index:AARO Historical Record Report Volume 1 2024  
+   Link: [https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf](https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Involvement with Unidentified Anomalous Phenomena, Volume 1. Author, All-domain Anomaly Resolution...Read more...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: en.wikisource.org  
+   Link: [https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/22](https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/22)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:AARO Historical Record Report Volume 1 2024.pdf/22May 5, 2024 — No records showed any evidence that the USG recovered...</p></details>
+   Published: May 5, 2024  
+
+18. <a id="endnote-18"></a>
+   Source: aaro.org  
+   Link: [https://aaro.org/](https://aaro.org/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ties regarding their rights, and seeks fair treatment by the US...Read more...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: Wikipedia  
+   Title: UFO reports and disinformation  
+   Link: [https://en.wikipedia.org/wiki/UFO_reports_and_disinformation](https://en.wikipedia.org/wiki/UFO_reports_and_disinformation)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports and disinformationIn the era of flight, governments began using these techniques to protect secret aerial objects, sometim...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: Wikipedia  
+   Title: All domain Anomaly Resolution Office  
+   Link: [https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office](https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution OfficeIn March 2024, AARO released a report titled &quot;Report on the Historical Record... &quot;Pentagon report...</p></details>
+   Published: March 2024  
+
+21. <a id="endnote-21"></a>
+   Source: time.com  
+   Title: congress ufo hearing  
+   Link: [https://time.com/6298287/congress-ufo-hearing/](https://time.com/6298287/congress-ufo-hearing/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Congress Looks for Answers on UFO Sightings26 Jul 2023 — A former intelligence official claimed the US government has been covering up a...</p></details>
+
+### Additional References
+
+22. <a id="endnote-22"></a>
+   Source: reuters.com  
+   Link: [https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/](https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: wired.com  
+   Link: [https://www.wired.com/story/questions-pentagon-ufo-report](https://www.wired.com/story/questions-pentagon-ufo-report)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The study determined that most unidentified anomalous phenomena (UAP) sightings were misidentifications of ordinary objects or phenomena...</p></details>
+
+24. <a id="endnote-24"></a>
+   Source: hangar1publishing.com  
+   Link: [https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-crash-retrieval?srsltid=AfmBOorLG18oePxGkEH9-5ObsxvVZTGq7zP0fu0_YrnPQ0gvJeGKYxAk](https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/ufo-crash-retrieval?srsltid=AfmBOorLG18oePxGkEH9-5ObsxvVZTGq7zP0fu0_YrnPQ0gvJeGKYxAk)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Crash Retrieval: The Global HuntExplore the global hunt for crashed UFOs: from historical whispers to shocking whistleblower claims o...</p></details>
+
+25. <a id="endnote-25"></a>
+   Source: stories.uq.edu.au  
+   Link: [https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html](https://stories.uq.edu.au/research/2023/ufos-a-secret-program-and-an-alleged-cover-up/index.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, a secret program, and an alleged cover upUS Congress is investigating the supposed existence of a secret UFO retrieval program. Her...</p></details>
+
+26. <a id="endnote-26"></a>
+   Source: space.com  
+   Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
+   Link: [https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology](https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...Mar 8, 2024 — The Pentagon&#x27;s UFO office has once again stressed that it ha...</p></details>
+
+27. <a id="endnote-27"></a>
+   Source: facebook.com  
+   Title: the latest aaro report on uaps which was released in late 2024 touched on hundre  
+   Link: [https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/](https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The latest AARO report on UAPs, which was released in...The latest AARO report on UAPs, which was released in late 2024, touched on hund...</p></details>
+
+28. <a id="endnote-28"></a>
+   Source: medium.com  
+   Link: [https://medium.com/%40richgel99/openai-deep-research-majestic-12-uap-secrecy-and-the-hidden-integration-of-non-human-8812edcd1d1c](https://medium.com/%40richgel99/openai-deep-research-majestic-12-uap-secrecy-and-the-hidden-integration-of-non-human-8812edcd1d1c)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>would not have wanted the Soviet Union to learn of any recovered alien technology or to exploit UFO...Read more...</p></details>
+
+29. <a id="endnote-29"></a>
+   Source: blogs.lse.ac.uk  
+   Title: thinking critically to evaluate the new news about ufos and aliens  
+   Link: [https://blogs.lse.ac.uk/usappblog/2023/08/02/thinking-critically-to-evaluate-the-new-news-about-ufos-and-aliens/](https://blogs.lse.ac.uk/usappblog/2023/08/02/thinking-critically-to-evaluate-the-new-news-about-ufos-and-aliens/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>critically to evaluate the new “news” about UFOs...2 Aug 2023 — The US government is in possession of unidentified aerial phenomena (UAP...</p></details>
+
+30. <a id="endnote-30"></a>
+   Source: docs.house.gov  
+   Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
+   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>whistleblower-claim-alien-ufo-communication-progr am/. (PUBLIC DOMAIN)... UAP related (Wilson asks them about crashed UFOs and MJ-12).Re...</p></details>
+
+31. <a id="endnote-31"></a>
+   Source: scribd.com  
+   Link: [https://www.scribd.com/document/594991814/FADE-to-BLACK-Radio-Ep-1689-Richard-Doty-DisInfo-in-Ufology-A](https://www.scribd.com/document/594991814/FADE-to-BLACK-Radio-Ep-1689-Richard-Doty-DisInfo-in-Ufology-A)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ights on UAPs and OSI · 40 pages; Remote Viewing: UFOs and Men in Black · 75...Read more...</p></details>

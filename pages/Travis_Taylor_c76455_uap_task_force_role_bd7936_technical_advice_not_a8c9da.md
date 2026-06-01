@@ -1,0 +1,884 @@
+---
+level: 3
+basename: Travis_Taylor_c76455_uap_task_force_role_bd7936_technical_advice_not_a8c9da
+parent_basename: Travis_Taylor_c76455_uap_task_force_role_bd7936
+child_basenames: []
+sibling_basenames:
+- Travis_Taylor_c76455_uap_task_force_role_bd7936_informal_chief_scien_564073
+- Travis_Taylor_c76455_uap_task_force_role_bd7936_twenty_21_report_con_c7c409
+tags:
+- travis-taylor
+- task-force
+- role-limits
+keywords:
+- travis-taylor
+- task-force
+- role-limits
+affiliate_category: travis-taylor
+show_ads: true
+description: Taylor's confirmed role fits technical interpretation and data-collection advice, not final intelligence judgement or public UAP conclusions.
+hero_summary: Taylor's confirmed role fits technical interpretation and data-collection advice, not final intelligence judgement or public UAP conclusions.
+layout: default
+permalink: /role-limits/
+sidebar_expanded_urls:
+- /how-credible-is-travis-taylor-on-uaps/
+- /task-force/
+nav_short_title: Role limits
+title: Advice is not the same as authority
+title_full: Advice is not the same as authority | Task Force
+display_title_short: Role limits
+display_title: Role limits
+heading_title: Advice is not the same as authority
+page_heading_title: Advice is not the same as authority
+source_count: 39
+infographic_count: 3
+planned_sections:
+- What scientific and technical advice means
+- Why UAP data made specialists useful
+- Where intelligence conclusions remained separate
+focal_unit_type: mechanism
+topic_lens: governance
+topic_granularity: single_mechanism
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: What Did Taylor Actually Do for the UAP Task Force? | Taylor
+parent_permalink: /task-force/
+parent_nav_short_title: Task Force
+parent_heading_title: What Did Taylor Actually Do for the UAP Task Force?
+ancestor_links:
+- basename: Travis_Taylor_c76455
+  title: Taylor
+  permalink: /how-credible-is-travis-taylor-on-uaps/
+  short_title: Taylor
+- basename: Travis_Taylor_c76455_uap_task_force_role_bd7936
+  title: Task Force | How Credible Is Travis Taylor on UAPs?
+  permalink: /task-force/
+  short_title: Task Force
+  heading_title: What Did Taylor Actually Do for the UAP Task Force?
+breadcrumb_links:
+- basename: Travis_Taylor_c76455
+  title: Taylor
+  permalink: /how-credible-is-travis-taylor-on-uaps/
+  short_title: Taylor
+- basename: Travis_Taylor_c76455_uap_task_force_role_bd7936
+  title: Task Force | How Credible Is Travis Taylor on UAPs?
+  permalink: /task-force/
+  short_title: Task Force
+  heading_title: What Did Taylor Actually Do for the UAP Task Force?
+sibling_links:
+- basename: Travis_Taylor_c76455_uap_task_force_role_bd7936_twenty_21_report_con_c7c409
+  title: 2021 Report | Task Force
+  permalink: /2021-report/
+  short_title: 2021 Report
+  heading_title: What the 2021 report really adds
+- basename: Travis_Taylor_c76455_uap_task_force_role_bd7936_informal_chief_scien_564073
+  title: Chief title | Task Force
+  permalink: /chief-title/
+  short_title: Chief title
+  heading_title: Was Taylor really the UAP chief scientist?
+up_link:
+  basename: Travis_Taylor_c76455_uap_task_force_role_bd7936
+  title: Task Force | How Credible Is Travis Taylor on UAPs?
+  permalink: /task-force/
+  short_title: Task Force
+  heading_title: What Did Taylor Actually Do for the UAP Task Force?
+prev_link:
+  basename: Travis_Taylor_c76455_uap_task_force_role_bd7936_informal_chief_scien_564073
+  title: Chief title | Task Force
+  permalink: /chief-title/
+  short_title: Chief title
+  heading_title: Was Taylor really the UAP chief scientist?
+date: '2026-06-01 09:03:36 '
+header:
+  og_image: /assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936_technical_advice_not_a8c9da-Illustration-1-social.jpg
+  preview_image: /assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936_technical_advice_not_a8c9da-Illustration-1.webp
+image: /assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936_technical_advice_not_a8c9da-Illustration-1-social.jpg
+---
+
+## Introduction
+
+One of the easiest mistakes in public discussions of the Unidentified Aerial Phenomena [Task Force]({{ 'task-force/' | relative_url }}) (UAPTF) is to assume that a scientist helping the programme had the same authority as the intelligence officials responsible for its conclusions. [Travis Taylor]({{ 'how-credible-is-travis-taylor-on-uaps/' | relative_url }})’s involvement sits directly inside that confusion. His role appears to have been real and technically significant, but the available evidence indicates that he was brought in to help analyse difficult data and advise on collection problems rather than to make final intelligence judgements on behalf of the US government. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Pentagon Releases Details about Dr</span><span class="citation-popover-snippet">Travis Taylor&#x27;s UAP...29 Jun 2022 — “Dr. Taylor&#x27;s work with the UAPTF focused on scientific and technical advice provided as a research...</span></span></span>
+
+
+<img src="{{ "/assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936_technical_advice_not_a8c9da-Illustration-1-dark.svg" | relative_url }}" alt="Role limits illustration 1" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936_technical_advice_not_a8c9da-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936_technical_advice_not_a8c9da-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+That distinction matters when assessing Taylor’s credibility. His participation supports the claim that he had access to parts of the government UAP process. It does not automatically mean he controlled the task force’s findings, spoke for the intelligence community, or possessed decision-making authority over official conclusions. The public record repeatedly separates technical advice from intelligence analysis, even when media coverage and later retellings blur the two together. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Pentagon Releases Details about Dr</span><span class="citation-popover-snippet">Travis Taylor&#x27;s UAP...29 Jun 2022 — “Dr. Taylor&#x27;s work with the UAPTF focused on scientific and technical advice provided as a research...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Preliminary Assessment: Unidentified Aerial Phenomena Date</span><span class="citation-popover-snippet">The Office of the Director of National Intelligence submitted to Congress a preliminary report regarding Unidentified Aerial Phenomena...</span></span></span>
+
+## What scientific and technical advice actually means
+
+The Pentagon's clearest public statement on Taylor's role came after reporting identified him as the UAPTF's "chief scientist". Pentagon spokesperson Susan Gough stated that Taylor's work focused on "scientific and technical advice" as a research scientist and "not on intelligence analysis". She also said he remained an employee of US Army Space and Missile Defense Command and was provided to the UAPTF on a time-limited basis rather than as a permanent full-time transfer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Pentagon Releases Details about Dr</span><span class="citation-popover-snippet">Travis Taylor&#x27;s UAP...29 Jun 2022 — “Dr. Taylor&#x27;s work with the UAPTF focused on scientific and technical advice provided as a research...</span></span></span>
+
+In practical terms, technical advisers and intelligence analysts often perform different functions:
+
+
+<div class="content-enhancement content-enhancement--caution" markdown="1">
+
+* Technical specialists examine radar returns, sensor performance, imaging systems, telemetry, flight characteristics and data quality.
+* Scientists may test whether observations could result from equipment limitations, atmospheric effects, software issues or unusual but conventional objects.
+* Intelligence personnel assess broader questions of threat, attribution, intent, foreign capabilities and national-security implications.
+* Senior intelligence officials ultimately decide how evidence is characterised in formal reporting to Congress and policymakers.
+
+</div>
+
+A scientist can therefore be deeply involved in evaluating evidence without being the official authority who determines what the government concludes from that evidence.
+
+This distinction is particularly important because Taylor's public reputation often combines several identities at once: engineer, television personality, government scientist and UAP investigator. The UAPTF role strengthened the government-scientist part of that profile, but the available documentation does not show that he became the final intelligence voice of the programme. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Pentagon Releases Details about Dr</span><span class="citation-popover-snippet">Travis Taylor&#x27;s UAP...29 Jun 2022 — “Dr. Taylor&#x27;s work with the UAPTF focused on scientific and technical advice provided as a research...</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cAhDY7biYxM" title="Dr. Travis Taylor, Former Chief Scientist on the UAP Task Force" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cAhDY7biYxM" target="_blank" rel="noopener noreferrer">Dr. Travis Taylor, Former Chief Scientist on the UAP Task Force</a></p><p class="youtube-embed-meta">Channel: Inside The Black Vault &middot; Views: 59.6K &middot; Uploaded: November 2022 &middot; Length: 1 hour 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cAhDY7biYxM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cAhDY7biYxM">Open on YouTube</a></p></div></div></div>
+
+## Why UAP data made specialists useful
+
+The UAPTF was dealing with a problem that was partly technical before it was explanatory. The June 2021 Office of the Director of National Intelligence (ODNI) assessment repeatedly stressed limited data, inconsistent reporting and the difficulty of drawing firm conclusions from fragmented observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">DF 2021 00275 Preliminary Assessment Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">DNIUnidentified Aerial Phenomena 25 June 2021Jun 25, 2021 — It was drafted by the UAPTF and the ODNI National. Intelligence Manager for A...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Preliminary Assessment: Unidentified Aerial Phenomena Date</span><span class="citation-popover-snippet">The Office of the Director of National Intelligence submitted to Congress a preliminary report regarding Unidentified Aerial Phenomena...</span></span></span>
+
+That environment naturally created demand for specialists such as Taylor.
+
+Many of the incidents under review involved military sensors rather than simple eyewitness accounts. Analysts had to consider questions such as:
+
+
+<div class="content-enhancement content-enhancement--metric" markdown="1">
+
+* Whether multiple sensors were observing the same object.
+* Whether radar tracks and visual observations matched.
+* Whether electronic warfare systems could create misleading signatures.
+* Whether apparent flight performance reflected actual movement or sensor interpretation.
+* Whether classified collection systems had captured additional information.
+
+</div>
+
+These are engineering and scientific questions as much as intelligence questions. A physicist or aerospace engineer can help determine whether a reported anomaly reflects an unknown object, a known object viewed under unusual conditions, a sensor artefact, or insufficient data.
+
+The ODNI report itself framed the challenge largely in those terms. It emphasised the need for standardised reporting, improved collection and better analytical processes. The report did not present the problem as one solved through a single intelligence judgement; it described an information-quality problem requiring contributions from multiple agencies and technical disciplines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">DF 2021 00275 Preliminary Assessment Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">DNIUnidentified Aerial Phenomena 25 June 2021Jun 25, 2021 — It was drafted by the UAPTF and the ODNI National. Intelligence Manager for A...</span></span></span>
+
+Seen through that lens, Taylor's participation is not surprising. His academic background and defence-related technical work made him a plausible candidate to assist with interpretation of difficult aerospace data. Whether one agrees with his later public views on UFOs is a separate question from whether the UAPTF would have found technical expertise useful.
+
+
+<img src="{{ "/assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936_technical_advice_not_a8c9da-Illustration-2-dark.svg" | relative_url }}" alt="Role limits illustration 2" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936_technical_advice_not_a8c9da-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936_technical_advice_not_a8c9da-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Where intelligence conclusions remained separate
+
+The strongest evidence for the boundary between Taylor's role and official intelligence authority comes from the structure of the UAPTF process itself.
+
+The 2021 ODNI assessment was not presented as the opinion of a single scientist. The report states that it was produced through collaboration between the UAPTF and the ODNI National Intelligence Manager for Aviation, with input from multiple intelligence, military and defence organisations including the Defence Intelligence Agency, National Security Agency, National Geospatial-Intelligence Agency, FBI and others. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">DF 2021 00275 Preliminary Assessment Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">DNIUnidentified Aerial Phenomena 25 June 2021Jun 25, 2021 — It was drafted by the UAPTF and the ODNI National. Intelligence Manager for A...</span></span></span>
+
+That matters because intelligence assessments are normally institutional products. Even influential subject-matter experts contribute to them without personally controlling the final wording.
+
+The same pattern appeared when public controversy emerged over Taylor's role. After congressional hearings and public debate about specific UAP cases, the Pentagon emphasised that Taylor had not been performing intelligence analysis and that the task force stood by the conclusions publicly presented by defence officials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Pentagon Releases Details about Dr</span><span class="citation-popover-snippet">Travis Taylor&#x27;s UAP...29 Jun 2022 — “Dr. Taylor&#x27;s work with the UAPTF focused on scientific and technical advice provided as a research...</span></span></span>
+
+In governance terms, this is a familiar distinction:
+
+Technical functionIntelligence functionEvaluates sensor dataAssesses national-security significanceTests scientific explanationsProduces formal threat assessmentsAdvises investigatorsReports to policymakers and CongressIdentifies collection gapsMakes institutional judgementsSupports analysisOwns official conclusions
+
+The public often collapses these roles together because technical experts may become the most visible communicators. However, government decision-making usually separates specialist advice from formal authority.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SIIdzXiMDqI" title="How the UAP Task Force evaluated UFO cases" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SIIdzXiMDqI" target="_blank" rel="noopener noreferrer">How the UAP Task Force evaluated UFO cases</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 289.9K &middot; Uploaded: June 2022 &middot; Length: 4 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SIIdzXiMDqI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SIIdzXiMDqI">Open on YouTube</a></p></div></div></div>
+
+## Why the distinction became blurred in public debate
+
+Several factors encouraged people to overstate Taylor's authority.
+
+First, the phrase "chief scientist" sounds more powerful than it may have been in practice. Pentagon statements indicated that UAPTF leader Jay Stratton informally referred to Taylor that way while the organisation was being assembled. That wording suggests influence and seniority but not necessarily a formally defined command position. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Pentagon Releases Details about Dr</span><span class="citation-popover-snippet">Travis Taylor&#x27;s UAP...29 Jun 2022 — “Dr. Taylor&#x27;s work with the UAPTF focused on scientific and technical advice provided as a research...</span></span></span>
+
+Second, Taylor already had a public profile through television and UFO-related media appearances. Audiences often encountered him as both a government scientist and a public commentator. That overlap made it easy to interpret government involvement as official endorsement of all his public positions.
+
+Third, many readers understandably assume that access equals authority. If someone participated in classified reviews, the temptation is to treat their later statements as representing the government's final view. Yet access and authority are not the same thing. A consultant, scientist or technical adviser may see significant information while still operating below the level where institutional conclusions are formally approved.
+
+Science magazine's reporting on the controversy reflected this tension. Critics argued that Taylor's enthusiasm for extraordinary possibilities complicated perceptions of neutrality, while [supporters]({{ 'supporters-58c2df/' | relative_url }}) argued that his [technical credentials]({{ 'credentials/' | relative_url }}) and government participation demonstrated genuine expertise. Both sides often focused more on what his role symbolised than on the narrower question of what authority the role actually carried. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/content/article/pentagon-ufo-study-led-researcher-who-believes-supernatural" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-title">pentagon ufo study led researcher who believes supernatural</span><span class="citation-popover-snippet">SciencePentagon UFO study led by researcher who believes in the...29 Jun 2022 — In fact, Taylor did serve in a lead role with the govern...</span></span></span>
+
+
+<img src="{{ "/assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936_technical_advice_not_a8c9da-Illustration-3-dark.svg" | relative_url }}" alt="Role limits illustration 3" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936_technical_advice_not_a8c9da-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936_technical_advice_not_a8c9da-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## What this means for assessing Travis Taylor's credibility
+
+For credibility assessment, Taylor's UAPTF involvement supports several limited conclusions.
+
+Verified points include:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* He was connected to the government's modern UAP effort rather than commenting entirely from the outside.
+* He appears to have contributed scientific and technical expertise.
+* He had some degree of access to government UAP investigations and reporting processes.
+* Officials acknowledged his involvement after it became public. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Pentagon Releases Details about Dr</span><span class="citation-popover-snippet">Travis Taylor&#x27;s UAP...29 Jun 2022 — “Dr. Taylor&#x27;s work with the UAPTF focused on scientific and technical advice provided as a research...</span></span></span>
+
+</div>
+
+Less certain or unsupported conclusions include:
+
+* That he personally determined official UAP findings.
+* That he represented the final view of the intelligence community.
+* That his participation validates every public claim he later made about UFOs or anomalous phenomena.
+* That the title "chief scientist" automatically placed him at the top of the UAPTF decision structure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Pentagon Releases Details about Dr</span><span class="citation-popover-snippet">Travis Taylor&#x27;s UAP...29 Jun 2022 — “Dr. Taylor&#x27;s work with the UAPTF focused on scientific and technical advice provided as a research...</span></span></span>
+
+The most evidence-based reading is that Taylor occupied an important but bounded position. He appears to have been a technical contributor inside a real government programme addressing a difficult analytical problem. The available record does not show that he held final intelligence authority over the programme's conclusions. Understanding that boundary helps explain both why supporters cite his UAPTF role as evidence of genuine insider access and why [sceptics]({{ 'sceptics-8407e0/' | relative_url }}) caution against treating that role as proof that his interpretations carried official government weight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault Pentagon Releases Details about Dr</span><span class="citation-popover-snippet">Travis Taylor&#x27;s UAP...29 Jun 2022 — “Dr. Taylor&#x27;s work with the UAPTF focused on scientific and technical advice provided as a research...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">DF 2021 00275 Preliminary Assessment Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">DNIUnidentified Aerial Phenomena 25 June 2021Jun 25, 2021 — It was drafted by the UAPTF and the ODNI National. Intelligence Manager for A...</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G_rEi2CUBv0" title="The Truth About Skinwalker Ranch: Travis Taylor | Ep 129" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G_rEi2CUBv0" target="_blank" rel="noopener noreferrer">The Truth About Skinwalker Ranch: Travis Taylor | Ep 129</a></p><p class="youtube-embed-meta">Channel: Rick Burgess Show &middot; Views: 651.0K &middot; Uploaded: July 2022 &middot; Length: 46 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G_rEi2CUBv0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G_rEi2CUBv0">Open on YouTube</a></p></div></div></div>
+
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Advice is not the same as authority. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Focuses on military, intelligence and expert involvement without assuming extraordinary conclusions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
+        </h4>
+        <p class="fr-book-author">By Luis Elizondo</p>
+        
+        <p class="fr-book-desc">Examines the distinction between government programs, analysts and technical contributors.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZRmEDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+        </h4>
+        <p class="fr-book-author">By D.W. Pasulka</p>
+        
+        <p class="fr-book-desc">Explores how scientists and technical experts engage with UFO-related questions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=American+Cosmic+by+D.W.+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By J. Allen Hynek</p>
+        
+        <p class="fr-book-desc">Illustrates the role of scientific consultation versus official decision-making.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=role-limits-advice-is-not-the-same-as-authority-travis-taylor-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="role-limits-advice-is-not-the-same-as-authority-travis-taylor-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien White Head Face Embroidered Iron Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/9b9b2ce4e0559910fd52.jpg' | relative_url }}" alt="Listing image for UFO Alien White Head Face Embroidered Iron Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=role-limits-advice-is-not-the-same-as-authority-travis-taylor-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="role-limits-advice-is-not-the-same-as-authority-travis-taylor-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO Alien White Head Face Embroidered Iron Sew On Patch</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=role-limits-advice-is-not-the-same-as-authority-travis-taylor-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="role-limits-advice-is-not-the-same-as-authority-travis-taylor-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=role-limits-advice-is-not-the-same-as-authority-travis-taylor-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="role-limits-advice-is-not-the-same-as-authority-travis-taylor-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=role-limits-advice-is-not-the-same-as-authority-travis-taylor-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="role-limits-advice-is-not-the-same-as-authority-travis-taylor-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK"><img src="{{ '/assets/images/marketplace-covers/56fa00d7a0fb30b6259d.jpg' | relative_url }}" alt="Listing image for UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=role-limits-advice-is-not-the-same-as-authority-travis-taylor-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="role-limits-advice-is-not-the-same-as-authority-travis-taylor-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO - 2 Patch Set #1 - Gerry Anderson Ed Straker ITC - FREE P&amp;P - UK</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=role-limits-advice-is-not-the-same-as-authority-travis-taylor-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="role-limits-advice-is-not-the-same-as-authority-travis-taylor-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=role-limits-advice-is-not-the-same-as-authority-travis-taylor-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="role-limits-advice-is-not-the-same-as-authority-travis-taylor-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=role-limits-advice-is-not-the-same-as-authority-travis-taylor-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="role-limits-advice-is-not-the-same-as-authority-travis-taylor-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551"><img src="{{ '/assets/images/marketplace-covers/c700b10d0544374dd95a.jpg' | relative_url }}" alt="Listing image for Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=role-limits-advice-is-not-the-same-as-authority-travis-taylor-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="role-limits-advice-is-not-the-same-as-authority-travis-taylor-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Rainbow UFO Space Flying Saucer Embroidered iron sew on patch clothe new N-1551</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=role-limits-advice-is-not-the-same-as-authority-travis-taylor-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="role-limits-advice-is-not-the-same-as-authority-travis-taylor-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=role-limits-advice-is-not-the-same-as-authority-travis-taylor-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="role-limits-advice-is-not-the-same-as-authority-travis-taylor-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=role-limits-advice-is-not-the-same-as-authority-travis-taylor-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="role-limits-advice-is-not-the-same-as-authority-travis-taylor-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket"><img src="{{ '/assets/images/marketplace-covers/0187c61d591b097b8fbc.jpg' | relative_url }}" alt="Listing image for I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=role-limits-advice-is-not-the-same-as-authority-travis-taylor-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="role-limits-advice-is-not-the-same-as-authority-travis-taylor-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">I want to leave UFO alien Space Spaceship Embroidered Sew Iron On Patch Jacket</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=role-limits-advice-is-not-the-same-as-authority-travis-taylor-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="role-limits-advice-is-not-the-same-as-authority-travis-taylor-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo patch</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=role-limits-advice-is-not-the-same-as-authority-travis-taylor-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="role-limits-advice-is-not-the-same-as-authority-travis-taylor-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=role-limits-advice-is-not-the-same-as-authority-travis-taylor-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch" data-ebay-reference="role-limits-advice-is-not-the-same-as-authority-travis-taylor-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: dni.gov  
+   Title: Preliminary Assessment: Unidentified Aerial Phenomena Date  
+   Link: [https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena](https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Office of the Director of National Intelligence submitted to Congress a preliminary report regarding Unidentified Aerial Phenomena...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: dni.gov  
+   Title: DF 2021 00275 Preliminary Assessment Unidentified Aerial Phenomena  
+   Link: [https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf](https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>DNIUnidentified Aerial Phenomena 25 June 2021Jun 25, 2021 — It was drafted by the UAPTF and the ODNI National. Intelligence Manager for A...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: theblackvault.com  
+   Title: The Black Vault Pentagon Releases Details about Dr  
+   Link: [https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/](https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor&#x27;s UAP...29 Jun 2022 — “Dr. Taylor&#x27;s work with the UAPTF focused on scientific and technical advice provided as a research...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: science.org  
+   Title: pentagon ufo study led researcher who believes supernatural  
+   Link: [https://www.science.org/content/article/pentagon-ufo-study-led-researcher-who-believes-supernatural](https://www.science.org/content/article/pentagon-ufo-study-led-researcher-who-believes-supernatural)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>SciencePentagon UFO study led by researcher who believes in the...29 Jun 2022 — In fact, Taylor did serve in a lead role with the govern...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: theblackvault.com  
+   Link: [https://www.theblackvault.com/documentarchive/timeline-post/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/](https://www.theblackvault.com/documentarchive/timeline-post/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Releases Details about Dr. Travis Taylor&#x27;s UAP Task...On June 21, 2022, George Knapp with KLAS-TV exclusively published the ide...</p></details>
+   Published: June 21, 2022  
+
+6. <a id="endnote-6"></a>
+   Source: reddit.com  
+   Title: office of the director of national intelligence  
+   Link: [https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/](https://www.reddit.com/r/space/comments/o7wpjg/office_of_the_director_of_national_intelligence/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Aerial Phenomena 25 June 2021: r/spaceThe UAPTF holds a small amount of data that appear to show UAP demonstrating accelera...</p></details>
+   Published: June 2021  
+
+7. <a id="endnote-7"></a>
+   Source: documents3.theblackvault.com  
+   Title: Records pertaining to Unidentified Aerial Phenomenon  
+   Link: [https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf](https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s UAP Task Force5 Aug 2021 — The Begin-Sadat Center for Strategic Studies is an independent, non-partisan think tank conducting...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: theblackvault.com  
+   Link: [https://www.theblackvault.com/documentarchive/opinion-yes-science-magazine-printed-an-altered-pentagon-statement-but-theres-more-and-heres-why-it-matters/](https://www.theblackvault.com/documentarchive/opinion-yes-science-magazine-printed-an-altered-pentagon-statement-but-theres-more-and-heres-why-it-matters/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>OPINION: Yes, Science Magazine Printed An Altered...1 Jul 2022 — The article quoted the Pentagon with a statement that seemed to downpla...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: theblackvault.com  
+   Link: [https://www.theblackvault.com/documentarchive/inside-the-uap-task-force-heavily-redacted-communications-regarding-dr-travis-taylor-and-ufo-research-efforts-released/](https://www.theblackvault.com/documentarchive/inside-the-uap-task-force-heavily-redacted-communications-regarding-dr-travis-taylor-and-ufo-research-efforts-released/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the UAP Task Force: Heavily Redacted...12 May 2023 — Recently, reports have emerged suggesting he was the “chief scientist” of th...</p></details>
+   Published: May 2023  
+
+10. <a id="endnote-10"></a>
+   Source: theblackvault.com  
+   Title: ep 118 dr travis taylor former chief scientist on the uap task force  
+   Link: [https://www.theblackvault.com/documentarchive/podcast/ep-118-dr-travis-taylor-former-chief-scientist-on-the-uap-task-force/](https://www.theblackvault.com/documentarchive/podcast/ep-118-dr-travis-taylor-former-chief-scientist-on-the-uap-task-force/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>#118 – Dr. Travis Taylor, Former Chief Scientist on the UAP...Today, Dr. Travis Taylor steps into the Vault to discuss his long career...</p></details>
+
+### Additional References
+
+11. <a id="endnote-11"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/LBC/posts/astrophysicist-backs-reforms-ufo-taskforce/986558850428278/](https://www.facebook.com/LBC/posts/astrophysicist-backs-reforms-ufo-taskforce/986558850428278/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Astrophysicist backs Reform&#x27;s UFO taskforceInside the UAP Task Force: Heavily Redacted Communications Regarding Dr. Travis Taylor and UFO...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: waru.edu  
+   Link: [https://www.waru.edu/artifact/odni-preliminary-assessment-unidentified-aerial-phenomena-25-jun-21](https://www.waru.edu/artifact/odni-preliminary-assessment-unidentified-aerial-phenomena-25-jun-21)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ODNI Preliminary Assessment Unidentified Aerial...... (ODNI) providing a preliminary assessment of Unidentified Aerial Phenomena (UAP) r...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/CurseofOakIsland/posts/travis-taylor-has-a-new-star-map-theory/2711733469041258/](https://www.facebook.com/CurseofOakIsland/posts/travis-taylor-has-a-new-star-map-theory/2711733469041258/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor has a new star map theory!Dr. Travis Taylor is an engineer and best-selling author who holds PhDs in Optical Science and En...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: dkiapcss.edu  
+   Link: [https://dkiapcss.edu/nexus_articles/a-comparative-survey-of-security-approaches-toward-unexplained-aerial-phenomena-across-the-indo-pacific/](https://dkiapcss.edu/nexus_articles/a-comparative-survey-of-security-approaches-toward-unexplained-aerial-phenomena-across-the-indo-pacific/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Comparative Survey of Security Approaches Toward...by JE Reiss · 2023 · Cited by 3 — This perspective paper surveys several recent UAP...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: ralphbuncheinstitute.org  
+   Link: [https://ralphbuncheinstitute.org/preliminary-assessmentunidentified-aerial-phenomena/](https://ralphbuncheinstitute.org/preliminary-assessmentunidentified-aerial-phenomena/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>This preliminary report is provided by the Office of the Director of National Intelligence (ODNI) in response to the...Read more...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=SIIdzXiMDqI](https://www.youtube.com/watch?v=SIIdzXiMDqI)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>How the UAP Task Force evaluated UFO casesDr. Travis Taylor had access to classified information, and he knows how the UAP Task Force mad...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/ScienceMagazine/posts/a-former-department-of-defense-astrophysicist-and-reality-tv-personality-has-ass/438322851493023/](https://www.facebook.com/ScienceMagazine/posts/a-former-department-of-defense-astrophysicist-and-reality-tv-personality-has-ass/438322851493023/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>asserted that he was the &quot;chief scientist&quot; for a much-anticipated...Read more...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: jasoncolavito.com  
+   Title: the travis taylor saga grows stranger and stupider  
+   Link: [https://www.jasoncolavito.com/blog/the-travis-taylor-saga-grows-stranger-and-stupider](https://www.jasoncolavito.com/blog/the-travis-taylor-saga-grows-stranger-and-stupider)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>30 Jun 2022 — Gough told The Black Vault&#x27;s John Greenewald that Taylor&#x27;s job involved providing technical advice and did not involve inte...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/UFOs/comments/z9165b/dr_travis_taylor_former_chief_scientist_on_the/](https://www.reddit.com/r/UFOs/comments/z9165b/dr_travis_taylor_former_chief_scientist_on_the/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor, Former Chief Scientist on the UAP Task...” Former AAWSAP and UAP Task Force director Jay Stratton says some UFOs are defi...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: facebook.com  
+   Title: Travis Taylor Reveals a Dark Secret!!  
+   Link: [https://www.facebook.com/groups/911734917145827/posts/1411072307212083/](https://www.facebook.com/groups/911734917145827/posts/1411072307212083/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>[https://discoveryfans....Travis](https://discoveryfans....Travis) Taylor announced on George Knapp&#x27;s TV show on June 21, 2022, that he had been secretly working as the ch...</p></details>
+   Published: June 21, 2022  

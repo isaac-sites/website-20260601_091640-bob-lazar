@@ -1,0 +1,534 @@
+---
+level: 3
+basename: Kit_Green_d896bc_dia_paper_limits_6be143_green_aawsap_boundar_7c24d1
+parent_basename: Kit_Green_d896bc_dia_paper_limits_6be143
+child_basenames: []
+sibling_basenames:
+- Kit_Green_d896bc_dia_paper_limits_6be143_dia_release_not_endo_784271
+- Kit_Green_d896bc_dia_paper_limits_6be143_what_paper_claims_daa5a6
+tags:
+- kit-green
+- dia-paper
+- role-boundary
+keywords:
+- kit-green
+- dia-paper
+- role-boundary
+affiliate_category: kit-green
+show_ads: true
+description: Green's later comments make his UAP involvement more concrete while also narrowing what can fairly be claimed about his programme role.
+hero_summary: Green's later comments make his UAP involvement more concrete while also narrowing what can fairly be claimed about his programme role.
+layout: default
+permalink: /role-boundary/
+sidebar_expanded_urls:
+- /how-credible-is-kit-greens-uap-story/
+- /dia-paper/
+nav_short_title: Role Boundary
+title: Was Green Inside AAWSAP or Adjacent?
+title_full: Was Green Inside AAWSAP or Adjacent? | DIA Paper
+display_title_short: Role Boundary
+display_title: Role Boundary
+heading_title: Was Green Inside AAWSAP or Adjacent?
+page_heading_title: Was Green Inside AAWSAP or Adjacent?
+source_count: 34
+infographic_count: 3
+planned_sections:
+- Green's own account of the contract
+- How BAASS and AAWSAP context complicates attribution
+- Why role boundaries matter for credibility
+focal_unit_type: entity
+topic_lens: critique_risk
+topic_granularity: single_case_aspect
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: What Does Green's DIA Paper Actually Prove? | Green
+parent_permalink: /dia-paper/
+parent_nav_short_title: DIA Paper
+parent_heading_title: What Does Green's DIA Paper Actually Prove?
+ancestor_links:
+- basename: Kit_Green_d896bc
+  title: Green
+  permalink: /how-credible-is-kit-greens-uap-story/
+  short_title: Green
+- basename: Kit_Green_d896bc_dia_paper_limits_6be143
+  title: DIA Paper | How Credible Is Kit Green's UAP Story?
+  permalink: /dia-paper/
+  short_title: DIA Paper
+  heading_title: What Does Green's DIA Paper Actually Prove?
+breadcrumb_links:
+- basename: Kit_Green_d896bc
+  title: Green
+  permalink: /how-credible-is-kit-greens-uap-story/
+  short_title: Green
+- basename: Kit_Green_d896bc_dia_paper_limits_6be143
+  title: DIA Paper | How Credible Is Kit Green's UAP Story?
+  permalink: /dia-paper/
+  short_title: DIA Paper
+  heading_title: What Does Green's DIA Paper Actually Prove?
+sibling_links:
+- basename: Kit_Green_d896bc_dia_paper_limits_6be143_dia_release_not_endo_784271
+  title: DIA Release | DIA Paper
+  permalink: /dia-release/
+  short_title: DIA Release
+  heading_title: What DIA Release Actually Proves
+- basename: Kit_Green_d896bc_dia_paper_limits_6be143_what_paper_claims_daa5a6
+  title: Paper Claims | DIA Paper
+  permalink: /paper-claims/
+  short_title: Paper Claims
+  heading_title: Did the Paper Prove UAP Injuries?
+up_link:
+  basename: Kit_Green_d896bc_dia_paper_limits_6be143
+  title: DIA Paper | How Credible Is Kit Green's UAP Story?
+  permalink: /dia-paper/
+  short_title: DIA Paper
+  heading_title: What Does Green's DIA Paper Actually Prove?
+prev_link:
+  basename: Kit_Green_d896bc_dia_paper_limits_6be143_what_paper_claims_daa5a6
+  title: Paper Claims | DIA Paper
+  permalink: /paper-claims/
+  short_title: Paper Claims
+  heading_title: Did the Paper Prove UAP Injuries?
+date: '2026-06-01 08:43:34 '
+header:
+  og_image: /assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_green_aawsap_boundar_7c24d1-Illustration-1-social.jpg
+  preview_image: /assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_green_aawsap_boundar_7c24d1-Illustration-1.webp
+image: /assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_green_aawsap_boundar_7c24d1-Illustration-1-social.jpg
+---
+
+## Introduction
+
+The strongest public evidence linking [Kit Green]({{ 'how-credible-is-kit-greens-uap-story/' | relative_url }}) to the [AAWSAP]({{ 'aawsap/' | relative_url }}) era is not that he ran the programme, managed it, or held a formal Pentagon UAP office. It is that he produced a technical paper that entered the AAWSAP-related document stream and later surfaced through Defense Intelligence Agency releases. That fact places him inside the wider contractor and research ecosystem around the programme. It does not, by itself, prove that he was an AAWSAP official, a DIA employee on the project, or part of every activity later associated with AAWSAP and AATIP. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
+
+
+<img src="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_green_aawsap_boundar_7c24d1-Illustration-1-dark.svg" | relative_url }}" alt="Role Boundary illustration 1" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_green_aawsap_boundar_7c24d1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_green_aawsap_boundar_7c24d1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+This distinction matters because many public discussions blur together several overlapping entities: the DIA contract, Bigelow Aerospace Advanced Space Studies (BAASS), the Defence Intelligence Reference Documents (DIRDs), later AATIP narratives, and the wider community of scientists and consultants who contributed work. Green's credibility is affected both by what can be documented and by the tendency of later retellings to expand his apparent role beyond the evidence.
+
+## Was Green Inside AAWSAP or Adjacent?
+
+The most defensible public description is that Green appears to have been a contributor and contractor-associated participant within the AAWSAP research environment rather than a clearly documented programme executive.
+
+His paper, *Anomalous Acute and Subacute Field Effects on Human Biological Tissues*, appears among the collection of DIA-linked reference documents associated with the Advanced Aerospace Weapon System Applications Program. The document was produced as a Defence Intelligence Reference Document and later released through official DIA channels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
+
+That establishes several points:
+
+* Green was not merely commenting from outside the programme ecosystem.
+* His work was accepted into a contract-supported research framework.
+* DIA reviewers were aware of and received the paper as part of a broader deliverables process.
+* His involvement is supported by documentary evidence rather than only by interviews or UFO-community recollections. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
+
+What remains less clear is the precise administrative relationship. Publicly available documents do not show Green serving as the DIA programme manager. Nor do they show him occupying the same documented role as figures such as James Lacatski, who has publicly described direct involvement in AAWSAP management. Instead, Green appears in the record primarily as a specialist contributor whose expertise concerned medical, forensic and biological effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">An Insiders&#x27; Account of the Secret Government UFO ProgramAs this book describes for the first time, the scope of the AAWSAP investigation...</span></span></span>
+
+That narrower interpretation is important because later media coverage sometimes treats anyone connected to AAWSAP papers as if they were part of a single unified insider group. The documentary record supports participation, but not necessarily equal authority or access across all aspects of the programme.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sUkzQFtd1cw" title="Anomalous Acute and Subacute Field Effects on Human Biological Tissues" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sUkzQFtd1cw" target="_blank" rel="noopener noreferrer">Anomalous Acute and Subacute Field Effects on Human Biological Tissues</a></p><p class="youtube-embed-meta">Channel: Gilad James Mystery School &middot; Views: 148 &middot; Uploaded: May 2022 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sUkzQFtd1cw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sUkzQFtd1cw">Open on YouTube</a></p></div></div></div>
+
+### Green's own account of the contract
+
+Green's later public comments generally reinforce a more limited picture of his role.
+
+When discussing the injury paper years after its release, he did not present himself as a whistleblower revealing hidden alien evidence. Instead, he described the project as an attempt to analyse reported injuries and determine whether known medical mechanisms could explain them. According to later reporting, Green even argued that the cases he reviewed were more likely attributable to human technology than extraterrestrial causes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">MetabunkPentagon Releases 1500 pages of UFO documents...7 Apr 2022 — Green&#x27;s paper, one of some 38 collected by BAASS at the time, is ti...</span></span></span>
+
+That position is significant because it narrows the claim being made. Green's apparent argument was not "I worked inside a secret UFO programme and confirmed non-human craft". Rather, it was closer to: "I was involved in examining unusual injury reports that were considered relevant enough to be studied within this contract environment." <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
+
+The distinction often disappears in secondary retellings, where participation in an AAWSAP-related project is presented as equivalent to endorsing extraordinary conclusions.
+
+
+<img src="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_green_aawsap_boundar_7c24d1-Illustration-2-dark.svg" | relative_url }}" alt="Role Boundary illustration 2" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_green_aawsap_boundar_7c24d1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_green_aawsap_boundar_7c24d1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## How BAASS and AAWSAP complicate attribution
+
+A major source of confusion is that AAWSAP was not simply a government office producing internal reports. Much of the work was performed through BAASS, the Bigelow Aerospace subsidiary that held the DIA contract. The result was a hybrid environment involving government personnel, contractors, outside consultants and specialist authors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
+
+This structure makes attribution difficult.
+
+When readers encounter a DIRD authored by Green, several different descriptions may all be technically true:
+
+* It was associated with AAWSAP.
+* It was delivered through a BAASS contract structure.
+* It reached DIA review channels.
+* It was written by Green rather than by DIA staff. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
+
+The problem is that these statements can create very different impressions depending on wording.
+
+Saying Green "worked on an AAWSAP document" is supported by available evidence. Saying he was "inside the Pentagon UFO programme" may suggest a level of institutional authority that public records do not clearly establish. Saying he was merely an outside UFO enthusiast ignores the existence of the documented paper and contract context. Both extremes oversimplify the available evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
+
+The same boundary issue appears throughout discussions of the DIRDs. The DIA received and reviewed the documents, but many were produced by outside authors with differing levels of expertise, differing assumptions and varying relationships to the programme. A document's existence therefore demonstrates that a topic was researched, not that the government validated every conclusion inside it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8xXGe6NaU4M" title="Researching the Paranormal with Colm Kelleher" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8xXGe6NaU4M" target="_blank" rel="noopener noreferrer">Researching the Paranormal with Colm Kelleher</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 42.0K &middot; Uploaded: January 2022 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8xXGe6NaU4M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8xXGe6NaU4M">Open on YouTube</a></p></div></div></div>
+
+### The AAWSAP-AATIP overlap problem
+
+The later public merger of AAWSAP and AATIP narratives further complicates Green's position.
+
+Many media accounts initially used AATIP as the umbrella label for almost all Pentagon-linked UAP activity. Subsequent reporting, memoirs, FOIA releases and historical reconstructions suggested that AAWSAP and AATIP were related but not identical efforts, with overlapping personnel, changing structures and competing interpretations of what each programme actually did. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">April 20, 2026 — &quot;Clinical Medical Acute &amp; Subacute Field Effects on Human Dermal &amp; Neurological Tissues&quot; ― Kit Green; &quot;Biomaterials&quot; ― B...</span><span class="citation-popover-meta">Published: April 20, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">On the AAWSAP AATIP Confusion</span><span class="citation-popover-snippet">Academia(PDF) On the AAWSAP/AATIP Confusion19 Jan 2026 — This 74-page paper has evolved into an examination of the distinction between AA...</span></span></span> Because Green's paper is commonly grouped with the DIRDs, readers sometimes infer that every later AATIP claim automatically reflects Green's role or views. The evidence does not support that leap.
+
+The more cautious conclusion is that Green can be linked directly to a documented AAWSAP-era research product. His connection to every later narrative attached to AATIP, disclosure politics, crash-retrieval allegations or non-human intelligence claims is much weaker and often rests on association rather than direct documentary evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">April 20, 2026 — &quot;Clinical Medical Acute &amp; Subacute Field Effects on Human Dermal &amp; Neurological Tissues&quot; ― Kit Green; &quot;Biomaterials&quot; ― B...</span><span class="citation-popover-meta">Published: April 20, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Fsb0TnP1MrE" title="Skinwalkers At The Pentagon | Colm A. Kelleher" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Fsb0TnP1MrE" target="_blank" rel="noopener noreferrer">Skinwalkers At The Pentagon | Colm A. Kelleher</a></p><p class="youtube-embed-meta">Channel: Tim Ventura &middot; Views: 20.3K &middot; Uploaded: January 2023 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Fsb0TnP1MrE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Fsb0TnP1MrE">Open on YouTube</a></p></div></div></div>
+
+## Why role boundaries matter for credibility
+
+For credibility assessment, the boundary problem cuts both ways.
+
+[Supporters]({{ 'supporters-c7fa00/' | relative_url }}) of Green often point to the [DIA paper]({{ 'dia-paper/' | relative_url }}) as proof that he was genuinely involved in government-connected UAP research. On that point, the document carries real weight. Unlike many UFO stories, it leaves a paper trail. The existence of the report, its circulation through the AAWSAP framework and its later release through DIA channels make it difficult to dismiss Green as someone with no institutional connection at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
+
+[Sceptics]({{ 'sceptics-078368/' | relative_url }}), however, argue that the same evidence demonstrates a limit rather than a confirmation. The paper shows participation in a contractor-produced research effort, not verified proof of anomalous craft, extraterrestrial technology or secret government conclusions. The DIRDs themselves covered a wide range of speculative and exploratory subjects, and their inclusion in the contract does not mean every topic was accepted as fact by the Pentagon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
+
+The credibility question therefore becomes more precise:
+
+* The evidence strongly supports Green's involvement in AAWSAP-era contractor research.
+* The evidence supports his authorship of a DIA-linked medical-effects paper.
+* The evidence does not clearly establish him as a central AAWSAP decision-maker.
+* The evidence does not prove that the injuries discussed in his paper came from non-human technology.
+* The evidence does not justify treating all later AAWSAP or AATIP claims as if they originated from Green himself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">MetabunkPentagon Releases 1500 pages of UFO documents...7 Apr 2022 — Green&#x27;s paper, one of some 38 collected by BAASS at the time, is ti...</span></span></span> In practical terms, Green's documented role is more substantial than that of a commentator repeating rumours, yet narrower than some popular narratives suggest. The contractor boundary is therefore not a minor administrative detail. It is one of the key factors that determines how much authority should be attached to his claims and how far the available documentary evidence can reasonably be stretched.
+
+
+<img src="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_green_aawsap_boundar_7c24d1-Illustration-3-dark.svg" | relative_url }}" alt="Role Boundary illustration 3" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_green_aawsap_boundar_7c24d1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_green_aawsap_boundar_7c24d1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Was Green Inside AAWSAP or Adjacent?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+        </h4>
+        <p class="fr-book-author">By Ross Coulthart</p>
+        
+        <p class="fr-book-desc">Provides context on AAWSAP-era narratives and personnel.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunt for the Skinwalker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NDCimAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hunt for the Skinwalker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
+        </h4>
+        <p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
+        
+        <p class="fr-book-desc">Closely connected to the network and research environment surrounding AAWSAP.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+        </h4>
+        <p class="fr-book-author">By Michael D. Swords</p>
+        
+        <p class="fr-book-desc">Helps place AAWSAP-related material inside broader government history.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
+        </h4>
+        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
+        
+        <p class="fr-book-desc">Addresses AAWSAP structure, participants and programme boundaries.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunt for the Skinwalker</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: dia.mil  
+   Title: File Id  
+   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: dia.mil  
+   Link: [https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>• DIA has executed option year 1 with BAASS, subject to available funding. UNCLASSIFIED//L1W49••. 3.Read more...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: dokumen.pub  
+   Link: [https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html](https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>An Insiders&#x27; Account of the Secret Government UFO ProgramAs this book describes for the first time, the scope of the AAWSAP investigation...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: metabunk.org  
+   Link: [https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/](https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>MetabunkPentagon Releases 1500 pages of UFO documents...7 Apr 2022 — Green&#x27;s paper, one of some 38 collected by BAASS at the time, is ti...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: Wikipedia  
+   Title: Advanced Aerospace Threat Identification Program  
+   Link: [https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program](https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 20, 2026 — &quot;Clinical Medical Acute &amp; Subacute Field Effects on Human Dermal &amp; Neurological Tissues&quot; ― Kit Green; &quot;Biomaterials&quot; ― B...</p></details>
+   Published: April 20, 2026  
+
+6. <a id="endnote-6"></a>
+   Source: academia.edu  
+   Title: On the AAWSAP AATIP Confusion  
+   Link: [https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion](https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) On the AAWSAP/AATIP Confusion19 Jan 2026 — This 74-page paper has evolved into an examination of the distinction between AA...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: dia.mil  
+   Title: FOIA Request Log 2022  
+   Link: [https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf](https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Jan 2024 — DIA from BAASS, contracted under AAWSAP under solicitation. HHM402-08-R-0211. Granted/Denied in. Part. No Records. IG case...</p></details>
+
+### Additional References
+
+8. <a id="endnote-8"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/](https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAWSAP Document obtained via FOIA discussing the...... Anomalous Acute and Subacute Field Effects on Human Biological Tissues.... Kit G...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/marssocietyscandinavia/posts/an-anonymous-electrical-engineer-has-released-baass-documents-on-reddit-a-former/1143499904488562/](https://www.facebook.com/marssocietyscandinavia/posts/an-anonymous-electrical-engineer-has-released-baass-documents-on-reddit-a-former/1143499904488562/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>An anonymous Electrical Engineer has released BAASS...A former DoD black project engineer, now terminally ill, revealed that the Tic Tac...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/UFOs/comments/18gca75/anomalous_acute_and_subacute_field_effects_on/](https://www.reddit.com/r/UFOs/comments/18gca75/anomalous_acute_and_subacute_field_effects_on/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Acute and Subacute Field Effects on Human...SUMMARY This paper relates, summarizes, and analyzes evidence of unintended injury...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/ufoupdates/posts/10157898993101790/](https://www.facebook.com/groups/ufoupdates/posts/10157898993101790/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing new information on AAWSAP-AATIP programsKit Green, a... I recently posted about the testimony of two former BAASS guards and t...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: facebook.com  
+   Title: apparently the pentagon has an advanced aerospace threat identification program  
+   Link: [https://www.facebook.com/SYFY/posts/apparently-the-pentagon-has-an-advanced-aerospace-threat-identification-program-/10159624139291057/](https://www.facebook.com/SYFY/posts/apparently-the-pentagon-has-an-advanced-aerospace-threat-identification-program-/10159624139291057/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apparently, the Pentagon has an Advanced Aerospace...... AAWSAP contract until September 2008 and Green&#x27;s technical paper is dated May 2...</p></details>
+   Published: September 2008  
+
+13. <a id="endnote-13"></a>
+   Source: theblackvault.com  
+   Title: the advanced aerospace weapon system applications program aawsap documentation  
+   Link: [https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/](https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Advanced Aerospace Weapon System Applications...3 Sept 2023 — Anomalous Acute and Subacute Field Effects on Human Biological Tissues...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: go.gale.com  
+   Title: Kit Green, Wayne State University. Alternate Tide: Clinical Medical Acute  
+   Link: [https://go.gale.com/ps/i.do?id=GALE%7CA629606515&issn=10639330&it=r&linkaccess=abs&p=AONE&sid=googleScholar&sw=w&v=2.1](https://go.gale.com/ps/i.do?id=GALE%7CA629606515&issn=10639330&it=r&linkaccess=abs&p=AONE&sid=googleScholar&sw=w&v=2.1)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>GaleClaims About a Government &quot;UFO Program&quot;: How Much is...by R Sheaffer · 2020 — One of AATIP&#x27;s 38 papers on weird science is &quot;Field Ef...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: alt1045philly.iheart.com  
+   Title: 2022 04 06 pentagon states ufo sightings caused brain damage radiation  
+   Link: [https://alt1045philly.iheart.com/content/2022-04-06-pentagon-states-ufo-sightings-caused-brain-damage-radiation/](https://alt1045philly.iheart.com/content/2022-04-06-pentagon-states-ufo-sightings-caused-brain-damage-radiation/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>States UFO Sightings Caused Brain Damage...6 Apr 2022 — The &quot;Anomalous Acute And Subacute Field Effects On Human and Biological Tissues&quot;...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: archive.org  
+   Link: [https://archive.org/download/defence-intelligence-reference-documents_DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues_text.pdf](https://archive.org/download/defence-intelligence-reference-documents_DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues_text.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Biological... In the report, they stated: “Acute biological effects have been established...Read more...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: docs.house.gov  
+   Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
+   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — (PUBLIC DOMAIN) - 29 October 2008 — Kit Green tells Jacques Vallee that fund...</p></details>
+   Published: October 2008  

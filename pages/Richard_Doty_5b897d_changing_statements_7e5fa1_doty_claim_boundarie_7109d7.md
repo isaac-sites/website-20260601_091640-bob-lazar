@@ -1,0 +1,649 @@
+---
+level: 3
+basename: Richard_Doty_5b897d_changing_statements_7e5fa1_doty_claim_boundarie_7109d7
+parent_basename: Richard_Doty_5b897d_changing_statements_7e5fa1
+child_basenames: []
+sibling_basenames:
+- Richard_Doty_5b897d_changing_statements_7e5fa1_bennewitz_doty_shift_905c95
+- Richard_Doty_5b897d_changing_statements_7e5fa1_mj12_provenance_prob_5f7862
+tags:
+- richard-doty
+- statements
+- claim-boundaries
+keywords:
+- richard-doty
+- statements
+- claim-boundaries
+affiliate_category: richard-doty
+show_ads: true
+description: Doty's credibility depends on whether he clearly separates what he did, what he was ordered to do, what he heard and what he now believes.
+hero_summary: Doty's credibility depends on whether he clearly separates what he did, what he was ordered to do, what he heard and what he now believes.
+layout: default
+permalink: /claim-boundaries/
+sidebar_expanded_urls:
+- /was-richard-doty-an-insider-or/
+- /statements/
+nav_short_title: Claim boundaries
+title: Where Does Doty's Story Change Shape?
+title_full: Where Does Doty's Story Change Shape? | Statements
+display_title_short: Claim boundaries
+display_title: Claim boundaries
+heading_title: Where Does Doty's Story Change Shape?
+page_heading_title: Where Does Doty's Story Change Shape?
+source_count: 53
+infographic_count: 3
+planned_sections:
+- First hand acts versus second hand claims
+- Orders, inference and later belief
+- Why blurred boundaries weaken insider testimony
+focal_unit_type: mechanism
+topic_lens: critique_risk
+topic_granularity: single_mechanism
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: How Consistent Are Doty's Public Stories? | Doty
+parent_permalink: /statements/
+parent_nav_short_title: Statements
+parent_heading_title: How Consistent Are Doty's Public Stories?
+ancestor_links:
+- basename: Richard_Doty_5b897d
+  title: Doty
+  permalink: /was-richard-doty-an-insider-or/
+  short_title: Doty
+- basename: Richard_Doty_5b897d_changing_statements_7e5fa1
+  title: Statements | Was Richard Doty an Insider or Disinformer?
+  permalink: /statements/
+  short_title: Statements
+  heading_title: How Consistent Are Doty's Public Stories?
+breadcrumb_links:
+- basename: Richard_Doty_5b897d
+  title: Doty
+  permalink: /was-richard-doty-an-insider-or/
+  short_title: Doty
+- basename: Richard_Doty_5b897d_changing_statements_7e5fa1
+  title: Statements | Was Richard Doty an Insider or Disinformer?
+  permalink: /statements/
+  short_title: Statements
+  heading_title: How Consistent Are Doty's Public Stories?
+sibling_links:
+- basename: Richard_Doty_5b897d_changing_statements_7e5fa1_bennewitz_doty_shift_905c95
+  title: Bennewitz shift | Statements
+  permalink: /bennewitz-shift/
+  short_title: Bennewitz shift
+  heading_title: Can Doty's Bennewitz Story Be Trusted?
+- basename: Richard_Doty_5b897d_changing_statements_7e5fa1_mj12_provenance_prob_5f7862
+  title: MJ 12 papers | Statements
+  permalink: /mj-12-papers/
+  short_title: MJ 12 papers
+  heading_title: Why MJ 12 Is Doty's Document Problem
+up_link:
+  basename: Richard_Doty_5b897d_changing_statements_7e5fa1
+  title: Statements | Was Richard Doty an Insider or Disinformer?
+  permalink: /statements/
+  short_title: Statements
+  heading_title: How Consistent Are Doty's Public Stories?
+prev_link:
+  basename: Richard_Doty_5b897d_changing_statements_7e5fa1_bennewitz_doty_shift_905c95
+  title: Bennewitz shift | Statements
+  permalink: /bennewitz-shift/
+  short_title: Bennewitz shift
+  heading_title: Can Doty's Bennewitz Story Be Trusted?
+next_link:
+  basename: Richard_Doty_5b897d_changing_statements_7e5fa1_mj12_provenance_prob_5f7862
+  title: MJ 12 papers | Statements
+  permalink: /mj-12-papers/
+  short_title: MJ 12 papers
+  heading_title: Why MJ 12 Is Doty's Document Problem
+date: '2026-06-01 08:28:25 '
+header:
+  og_image: /assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_doty_claim_boundarie_7109d7-Illustration-1-social.jpg
+  preview_image: /assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_doty_claim_boundarie_7109d7-Illustration-1.webp
+image: /assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_doty_claim_boundarie_7109d7-Illustration-1-social.jpg
+---
+
+## Introduction
+
+[Richard Doty]({{ 'was-richard-doty-an-insider-or/' | relative_url }})’s credibility problem is not only that he has admitted involvement in UFO-related disinformation. It is that the boundaries inside his story often move. Across interviews, documentaries, podcasts and conference appearances, Doty has alternated between describing events he says he directly participated in, actions he says were ordered by superiors, information he claims came from other officials, and conclusions he now personally believes. Those categories do not always remain separate. As a result, readers are often left asking a basic question: when Doty speaks about UFOs, is he recalling verified events, repeating intelligence rumours, defending past operations, or expressing personal belief? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mirage_Men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mirage Men</span><span class="citation-popover-snippet">Mirage Men</span></span></span>
+
+
+<img src="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_doty_claim_boundarie_7109d7-Illustration-1-dark.svg" | relative_url }}" alt="Claim boundaries illustration 1" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_doty_claim_boundarie_7109d7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_doty_claim_boundarie_7109d7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+That distinction matters because insider testimony becomes much harder to evaluate once memory, hearsay, official secrecy and later interpretation begin to merge. In Doty’s case, [sceptics]({{ 'sceptics/' | relative_url }}) argue that this blurring is itself the central credibility issue. [Supporters]({{ 'supporters/' | relative_url }}) often counter that intelligence work is inherently compartmentalised and that a participant may only understand the meaning of past events years later. The dispute is less about one specific claim than about whether Doty consistently marks where first-hand knowledge ends and later belief begins. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=7Bi-S3Ks7Z8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Richard Doty on Disinformation, Paul Bennewitz, and UAP...In our interview, Richard Doty reflects on his past... Richard Doty on...</span></span></span>
+
+## Where Does Doty's Story Change Shape?
+
+The strongest and most widely documented part of Doty’s public narrative concerns the Paul [Bennewitz affair]({{ 'bennewitz/' | relative_url }}). In that area, Doty has often described himself not as an independent UFO witness but as someone involved in managing a security problem around Kirtland Air Force Base. Multiple accounts, including later interviews and the documentary *[Mirage Men]({{ 'mirage-men/' | relative_url }})*, present him as a participant in efforts to feed misleading information to UFO researchers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=7Bi-S3Ks7Z8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Richard Doty on Disinformation, Paul Bennewitz, and UAP...In our interview, Richard Doty reflects on his past... Richard Doty on...</span></span></span>
+
+The difficulty begins when the narrative expands beyond that core episode. Doty has also been linked over the years to stories involving Majestic-12 documents, underground alien facilities, recovered craft programmes and Project [Serpo]({{ 'serpo/' | relative_url }}). In those areas, the line between what he claims to have personally done and what he says he learned from others becomes far less clear. Critics argue that the certainty of presentation often exceeds the available evidence. Supporters argue that his access to intelligence circles may have exposed him to genuine classified information. The problem is that the audience frequently receives both types of material through the same narrator. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theoriesAztec &quot;alien bodies&quot; hoax. edit. Main article: Aztec, New Mexico UFO hoax · Three men demonstrate the Aztec hoa...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Planetary_objects_proposed_in_religion%2C_astrology%2C_ufology_and_pseudoscience" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Planetary objects proposed in religion, astrology, ufology and pseudoscience</span><span class="citation-popover-snippet">Planetary objects proposed in religion, astrology, ufology and pseudoscience</span></span></span>
+
+### First-hand acts versus second-hand claims
+
+A useful way to evaluate Doty is to separate [statements]({{ 'statements/' | relative_url }}) into categories.
+
+**Relatively direct claims:**
+
+* His association with Air Force Office of Special Investigations activity around Kirtland Air Force Base.
+* His interactions with Paul Bennewitz. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gaia.com/video/targeted-disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gaia.com">[gaia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gaia.com</span><span class="citation-popover-snippet">Watch Targeted DisinformationStream Targeted Disinformation free with 7 day trial - Richard Doty talks about a remarkable case that invol...</span></span></span>
+* His later descriptions of providing or facilitating misleading UFO information during that period.
+* His claims that disinformation operations existed to protect classified programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=7Bi-S3Ks7Z8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Richard Doty on Disinformation, Paul Bennewitz, and UAP...In our interview, Richard Doty reflects on his past... Richard Doty on...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gaia.com/video/targeted-disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gaia.com">[Gaia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gaia.com</span><span class="citation-popover-snippet">Watch Targeted DisinformationStream Targeted Disinformation free with 7 day trial - Richard Doty talks about a remarkable case that invol...</span></span></span>
+
+These claims remain controversial but at least involve actions Doty says he personally witnessed or participated in.
+
+**Less direct claims:**
+
+* Assertions about secret alien programmes.
+* Stories connected to Majestic-12.
+* Project Serpo narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectSERPO07.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bibliotecapleyades.net">[bibliotecapleyades.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bibliotecapleyades.net</span><span class="citation-popover-title">sociopol project SERPO07</span><span class="citation-popover-snippet">Richard Doty&#x27;s Statement on Project SerpoMy personal analysis of the Serpo information, which describes an exchange program in 1965 betwe...</span></span></span>
+* Alleged knowledge of recovered non-human technology.
+* Descriptions of compartmented programmes that depend largely on unnamed sources or inaccessible records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectSERPO07.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bibliotecapleyades.net">[bibliotecapleyades.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bibliotecapleyades.net</span><span class="citation-popover-title">sociopol project SERPO07</span><span class="citation-popover-snippet">Richard Doty&#x27;s Statement on Project SerpoMy personal analysis of the Serpo information, which describes an exchange program in 1965 betwe...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">December 29, 2025 —... Richard Doty, are responsible for a disinformation campaign against Bennewitz. In 1990, the Bennewitz story was f...</span><span class="citation-popover-meta">Published: December 29, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Richard" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">RichardRichard is a masculine given name. It originates, via Old French, from Old Frankish and is a compound of the words descending f...</span></span></span>
+
+In these cases, the chain of evidence is often weaker. The audience is no longer evaluating Doty as a participant in a known disinformation episode. Instead, it is being asked to trust him as a transmitter of information from other people or other compartments.
+
+That transition is rarely highlighted clearly enough in many retellings. The [authority]({{ 'authority/' | relative_url }}) generated by the first category can appear to spill over into the second.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rwFbS95M2Ms" title="Why We Traded 12 Aliens For 12 Humans | Project Serpo | Full Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rwFbS95M2Ms" target="_blank" rel="noopener noreferrer">Why We Traded 12 Aliens For 12 Humans | Project Serpo | Full Documentary</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 84.4K &middot; Uploaded: October 2025 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rwFbS95M2Ms" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rwFbS95M2Ms">Open on YouTube</a></p></div></div></div>
+
+## Orders, Inference and Later Belief
+
+One recurring feature of Doty’s public statements is the movement between three different explanatory levels.
+
+**Level one: orders.**
+
+Doty has frequently described actions taken under instructions from military or intelligence authorities. In this framing, responsibility is partly shifted upward. The argument becomes that misleading UFO researchers was not a personal initiative but a security operation intended to protect sensitive programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=7Bi-S3Ks7Z8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Richard Doty on Disinformation, Paul Bennewitz, and UAP...In our interview, Richard Doty reflects on his past... Richard Doty on...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=kOT39FXstho" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Mislead the Public&#x27; Ep. 3 Official Clip | UFOAfter Paul Bennewitz, an Engineer in the U.S. Coast Guard, tapped into a highly clas...</span></span></span>
+
+**Level two: inference.**
+
+At other times, Doty discusses what he believes particular operations were intended to accomplish. Here the account moves from documented actions into interpretation. An operation may be described not simply as something that occurred, but as evidence of a wider hidden structure. The certainty of the underlying evidence is often lower than the certainty of the conclusion being drawn from it.
+
+**Level three: belief.**
+
+In many later interviews, Doty appears not only as a former counter-intelligence participant but also as someone who accepts substantial parts of UFO secrecy narratives. Once that happens, it becomes difficult to distinguish between information acquired during official service and conclusions reached afterwards through personal conviction, media exposure or conversations within UFO circles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=7Bi-S3Ks7Z8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Richard Doty on Disinformation, Paul Bennewitz, and UAP...In our interview, Richard Doty reflects on his past... Richard Doty on...</span></span></span>
+
+The challenge for readers is that these three levels are not always labelled. A listener may hear a statement delivered confidently without being told whether it comes from direct observation, an operational briefing, a rumour passed through intelligence channels, or a belief formed decades later.
+
+
+<img src="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_doty_claim_boundarie_7109d7-Illustration-2-dark.svg" | relative_url }}" alt="Claim boundaries illustration 2" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_doty_claim_boundarie_7109d7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_doty_claim_boundarie_7109d7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## The Bennewitz Case Shows the Problem Most Clearly
+
+The Bennewitz affair demonstrates why these shifting boundaries matter.
+
+The narrow version of the story is comparatively straightforward. Bennewitz observed unusual activity near sensitive military facilities. Doty and others became involved. Misleading information was allegedly provided to steer attention away from classified projects. This broad outline has been repeated by numerous researchers and has been discussed by Doty himself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://issues.org/ufos-wont-go-away/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: issues.org">[Issues in Science and Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">issues.org</span><span class="citation-popover-snippet">Issues in Science and TechnologyUFOs Won&#x27;t Go AwayFake news, misinformation, and disinformation have become bywords for... Doty fed his...</span></span></span>
+
+The wider version is much less stable. Over time, the story becomes connected to underground alien bases, extraterrestrial infiltration, secret government factions and other elements of UFO mythology. Once those additions enter the narrative, determining which elements originated as deliberate deception and which were later accepted as true becomes extremely difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianThe real Men in Black, Hollywood and the great UFO cover...14 Aug 2014 — Rather than covering up the existence of aliens, co...</span></span></span>
+
+This is the core credibility risk. If a person acknowledges participation in manufacturing false narratives, later claims require especially careful sourcing. The burden shifts from proving that disinformation occurred to proving that a particular new claim is not another layer of disinformation, misunderstanding or myth-making.
+
+## Why Project Serpo Intensified Doubts
+
+The Project Serpo controversy illustrates how blurred boundaries can damage credibility long after an original operation ends.
+
+Serpo was promoted as a secret exchange programme between humans and extraterrestrials. Doty became associated with the story through claims that he had access to supporting information or records. Yet the narrative changed repeatedly, attracted accusations of fabrication and developed multiple conflicting versions. Even some people involved in promoting aspects of the story later acknowledged the presence of disinformation within the releases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mirage_Men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mirage Men</span><span class="citation-popover-snippet">Mirage Men</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectserpo08.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bibliotecapleyades.net">[bibliotecapleyades.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bibliotecapleyades.net</span><span class="citation-popover-title">sociopol projectserpo08</span><span class="citation-popover-snippet">Richard Doty and Project SerpoFeb 18, 2006 — In February 2006, UFO Magazine released an edition that focused on the Project Serpo, an all...</span><span class="citation-popover-meta">Published: February 2006</span></span></span>
+
+For critics, Serpo reinforced a pattern. Doty was no longer merely discussing a documented historical disinformation case. He was connected to another extraordinary claim whose evidential basis remained weak. The result was a collapse of confidence in his ability to separate operational history from speculative narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span>
+
+Supporters sometimes respond that intelligence environments routinely mix truth, cover stories and compartmented information. From that perspective, contradictions do not necessarily prove fabrication. However, that defence also creates a problem: if every inconsistency can be explained by secrecy, then almost no claim becomes falsifiable.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ENunHX1WpyI" title="Richard Doty&#x27;s Shocking UFO Revelations! (Paul Bennewitz) - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ENunHX1WpyI" target="_blank" rel="noopener noreferrer">Richard Doty&#x27;s Shocking UFO Revelations! (Paul Bennewitz) - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: StarQuest Media &middot; Views: 13.9K &middot; Uploaded: March 2021 &middot; Length: 1 hour 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ENunHX1WpyI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ENunHX1WpyI">Open on YouTube</a></p></div></div></div>
+
+## Why Blurred Boundaries Weaken Insider Testimony
+
+Insider testimony is strongest when the source clearly identifies four separate categories:
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7Bi-S3Ks7Z8" title="Richard Doty on Disinformation, Paul Bennewitz, and UAP Whistleblower Fallout" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7Bi-S3Ks7Z8" target="_blank" rel="noopener noreferrer">Richard Doty on Disinformation, Paul Bennewitz, and UAP Whistleblower Fallout</a></p><p class="youtube-embed-meta">Channel: Rebelliously Curious with Chrissy Newton &middot; Views: 7.5K &middot; Uploaded: February 2025 &middot; Length: 2 hours 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7Bi-S3Ks7Z8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7Bi-S3Ks7Z8">Open on YouTube</a></p></div></div></div>
+
+
+<div class="content-enhancement content-enhancement--step-flow" markdown="1">
+
+1. What they personally witnessed.
+2. What they were officially instructed to do.
+3. What they were told by others.
+4. What they personally think happened.
+
+</div>
+
+Doty's public record often contains all four categories, but not always with clear dividing lines. That does not automatically make every statement false. It does, however, reduce the ability of outsiders to test individual claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theoriesAztec &quot;alien bodies&quot; hoax. edit. Main article: Aztec, New Mexico UFO hoax · Three men demonstrate the Aztec hoa...</span></span></span>
+
+This creates a paradox. Doty's credibility rests partly on his admission that deception occurred. Yet that same admission makes later claims harder to verify because audiences know he once operated in an environment where misleading narratives were intentionally created. The more his stories move between memory, orders, inference and belief without explicit separation, the harder it becomes to determine which parts deserve evidential weight.
+
+For many researchers, that is the lasting lesson of the Doty case. The central question is no longer whether disinformation existed. It is whether the person describing it can reliably distinguish between the operation itself, the stories built around it and the beliefs that emerged afterwards. On that question, the public record remains unsettled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://issues.org/ufos-wont-go-away/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: issues.org">[Issues in Science and Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">issues.org</span><span class="citation-popover-snippet">Issues in Science and TechnologyUFOs Won&#x27;t Go AwayFake news, misinformation, and disinformation have become bywords for... Doty fed his...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Planetary_objects_proposed_in_religion%2C_astrology%2C_ufology_and_pseudoscience" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Planetary objects proposed in religion, astrology, ufology and pseudoscience</span><span class="citation-popover-snippet">Planetary objects proposed in religion, astrology, ufology and pseudoscience</span></span></span>
+
+
+<img src="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_doty_claim_boundarie_7109d7-Illustration-3-dark.svg" | relative_url }}" alt="Claim boundaries illustration 3" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_doty_claim_boundarie_7109d7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_doty_claim_boundarie_7109d7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Where Does Doty&#x27;s Story Change Shape?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
+        </h4>
+        <p class="fr-book-author">By Mark Pilkington</p>
+        
+        <p class="fr-book-desc">Directly examines Doty, intelligence narratives, conflicting accounts and credibility problems.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Beta+by+Greg+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Beta on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HWYvNErLKHsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Project Beta" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Project+Beta+by+Greg+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Beta">Project Beta</a>
+        </h4>
+        <p class="fr-book-author">By Greg Bishop</p>
+        
+        <p class="fr-book-desc">Explores the Bennewitz affair where many of Doty&#x27;s most discussed claims and actions originate.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Project+Beta+by+Greg+Bishop&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Provides a contrast between documented testimony and disputed insider narratives.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+        <p class="fr-book-desc">Useful for evaluating witness claims, evidence categories and credibility boundaries.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Beta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Beta</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: Wikipedia  
+   Title: Mirage Men  
+   Link: [https://en.wikipedia.org/wiki/Mirage_Men](https://en.wikipedia.org/wiki/Mirage_Men)  
+
+2. <a id="endnote-2"></a>
+   Source: issues.org  
+   Link: [https://issues.org/ufos-wont-go-away/](https://issues.org/ufos-wont-go-away/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Issues in Science and TechnologyUFOs Won&#x27;t Go AwayFake news, misinformation, and disinformation have become bywords for... Doty fed his...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=7Bi-S3Ks7Z8](https://www.youtube.com/watch?v=7Bi-S3Ks7Z8)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Doty on Disinformation, Paul Bennewitz, and UAP...In our interview, Richard Doty reflects on his past... Richard Doty on...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=kOT39FXstho](https://www.youtube.com/watch?v=kOT39FXstho)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Mislead the Public&#x27; Ep. 3 Official Clip | UFOAfter Paul Bennewitz, an Engineer in the U.S. Coast Guard, tapped into a highly clas...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: Wikipedia  
+   Title: UFO reports and disinformation  
+   Link: [https://en.wikipedia.org/wiki/UFO_reports_and_disinformation](https://en.wikipedia.org/wiki/UFO_reports_and_disinformation)  
+
+6. <a id="endnote-6"></a>
+   Source: Wikipedia  
+   Title: UFO conspiracy theories  
+   Link: [https://en.wikipedia.org/wiki/UFO_conspiracy_theories](https://en.wikipedia.org/wiki/UFO_conspiracy_theories)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO conspiracy theoriesAztec &quot;alien bodies&quot; hoax. edit. Main article: Aztec, New Mexico UFO hoax · Three men demonstrate the Aztec hoa...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: Wikipedia  
+   Title: Planetary objects proposed in religion, astrology, ufology and pseudoscience  
+   Link: [https://en.wikipedia.org/wiki/Planetary_objects_proposed_in_religion%2C_astrology%2C_ufology_and_pseudoscience](https://en.wikipedia.org/wiki/Planetary_objects_proposed_in_religion%2C_astrology%2C_ufology_and_pseudoscience)  
+
+8. <a id="endnote-8"></a>
+   Source: gaia.com  
+   Link: [https://www.gaia.com/video/targeted-disinformation](https://www.gaia.com/video/targeted-disinformation)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch Targeted DisinformationStream Targeted Disinformation free with 7 day trial - Richard Doty talks about a remarkable case that invol...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: bibliotecapleyades.net  
+   Title: sociopol project SERPO07  
+   Link: [https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectSERPO07.htm](https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectSERPO07.htm)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Doty&#x27;s Statement on Project SerpoMy personal analysis of the Serpo information, which describes an exchange program in 1965 betwe...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: Wikipedia  
+   Title: Paul Bennewitz  
+   Link: [https://en.wikipedia.org/wiki/Paul_Bennewitz](https://en.wikipedia.org/wiki/Paul_Bennewitz)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 29, 2025 —... Richard Doty, are responsible for a disinformation campaign against Bennewitz. In 1990, the Bennewitz story was f...</p></details>
+   Published: December 29, 2025  
+
+11. <a id="endnote-11"></a>
+   Source: bibliotecapleyades.net  
+   Title: sociopol projectserpo08  
+   Link: [https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectserpo08.htm](https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectserpo08.htm)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Doty and Project SerpoFeb 18, 2006 — In February 2006, UFO Magazine released an edition that focused on the Project Serpo, an all...</p></details>
+   Published: February 2006  
+
+12. <a id="endnote-12"></a>
+   Source: Wikipedia  
+   Link: [https://en.wikipedia.org/wiki/Richard](https://en.wikipedia.org/wiki/Richard)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>RichardRichard is a masculine given name. It originates, via Old French, from Old Frankish and is a compound of the words descending f...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=409SD8MJL7A](https://www.youtube.com/watch?v=409SD8MJL7A)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>How the US Government Shaped the UFO Mythology... Bennewitz, Rick Doty Year: 2013 Full documentary Original...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=ENunHX1WpyI](https://www.youtube.com/watch?v=ENunHX1WpyI)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bennewitz in the 1980s about UFOs in New Mexico...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: music.youtube.com  
+   Title: gt TBK30ux Vk  
+   Link: [https://music.youtube.com/podcast/gtTBK30uxVk](https://music.youtube.com/podcast/gtTBK30uxVk)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Serpo—an alleged government exchange program with extraterrestrials. Is it real, or a disinformation campaign? 00:00 The Mysterio...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=awsv66J31S8](https://www.youtube.com/watch?v=awsv66J31S8)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AGE MEN | FilmIsNow...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=PuMuD4i_6ZY](https://www.youtube.com/watch?v=PuMuD4i_6ZY)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bennewitz in the 1980s about UFOs in New Mexico...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: youtube.com  
+   Title: Former Area 51 Employee Reveals Secrets from the Base  
+   Link: [https://www.youtube.com/watch?v=jwTCwebi-6Q](https://www.youtube.com/watch?v=jwTCwebi-6Q)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 20 Alien and UFO Cover Ups | Full Movie | Documentary - Richard Doty...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: youtube.com  
+   Title: Top 20 Alien and UFO Cover Ups | Full Movie | Documentary  
+   Link: [https://www.youtube.com/watch?v=b578RetPArw](https://www.youtube.com/watch?v=b578RetPArw)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why We Traded 12 Aliens For 12 Humans | Project Serpo | Full Documentary...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: youtube.com  
+   Title: Why We Traded 12 Aliens For 12 Humans | Project Serpo | Full Documentary  
+   Link: [https://www.youtube.com/watch?v=rwFbS95M2Ms](https://www.youtube.com/watch?v=rwFbS95M2Ms)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The How the US Government Shaped the UFO Mythology documentary is highly relevant as it captures Richard Doty directly discussing the ope...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: theguardian.com  
+   Link: [https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie](https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianThe real Men in Black, Hollywood and the great UFO cover...14 Aug 2014 — Rather than covering up the existence of aliens, co...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: tv.apple.com  
+   Link: [https://tv.apple.com/au/episode/targeted-disinformation/umc.cmc.1pztyppy4brfcg8m2qbaq1no5?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi](https://tv.apple.com/au/episode/targeted-disinformation/umc.cmc.1pztyppy4brfcg8m2qbaq1no5?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation - Cosmic DisclosureRichard Doty talks about a remarkable case that involved Paul Bennewitz who... Targeted Disinformation...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: tv.apple.com  
+   Link: [https://tv.apple.com/us/episode/targeted-disinformation/umc.cmc.1pztyppy4brfcg8m2qbaq1no5?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi](https://tv.apple.com/us/episode/targeted-disinformation/umc.cmc.1pztyppy4brfcg8m2qbaq1no5?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation - Cosmic DisclosureRichard Doty talks about a remarkable case that involved Paul Bennewitz who intercepted classified tran...</p></details>
+
+24. <a id="endnote-24"></a>
+   Source: e-flux.com  
+   Link: [https://www.e-flux.com/film/556599/doty](https://www.e-flux.com/film/556599/doty)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Film - e-fluxRichard Doty is a former Air Force Intelligence operative whose job at Kirtland AFB in New Mexico involved creating and diss...</p></details>
+
+25. <a id="endnote-25"></a>
+   Source: wired.com  
+   Title: mirage men  
+   Link: [https://www.wired.com/story/mirage-men/](https://www.wired.com/story/mirage-men/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO researcher Mark Pilkington on deception...6 Oct 2010 — W: Doty argues that all the deception is a way of preparing people for the tr...</p></details>
+
+### Additional References
+
+26. <a id="endnote-26"></a>
+   Source: hybridsrising.com  
+   Link: [https://hybridsrising.com/Articles/SERPO-The-Gift-That-Keeps-on-Giving.html](https://hybridsrising.com/Articles/SERPO-The-Gift-That-Keeps-on-Giving.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project SERPO-The Gift That Keeps on GivingSERPO is suspected to have originally been a disinformation campaign to cover up a UAV, unmann...</p></details>
+
+27. <a id="endnote-27"></a>
+   Source: vocal.media  
+   Link: [https://vocal.media/futurism/project-serpo-the-secret-space-program-a-true-sci-fi-story](https://vocal.media/futurism/project-serpo-the-secret-space-program-a-true-sci-fi-story)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Serpo: The Secret Space Program, A True Sci-Fi StoryDoty, a former United States Air Force sergeant, who claimed to have provided...</p></details>
+
+28. <a id="endnote-28"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/ufo/comments/1g2wx2d/the_infamous_richard_doty/](https://www.reddit.com/r/ufo/comments/1g2wx2d/the_infamous_richard_doty/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Infamous Richard Doty.: r/ufoRichard Doty was a USAF Office of Special Investigation agent. His job was to spread disinformation and...</p></details>
+
+29. <a id="endnote-29"></a>
+   Source: rosettasister.wordpress.com  
+   Link: [https://rosettasister.wordpress.com/2019/09/04/chapter-4-and-a-little-bit-more-richard-doty-air-force-office-of-special-investigations-afosi-counter-intelligence/](https://rosettasister.wordpress.com/2019/09/04/chapter-4-and-a-little-bit-more-richard-doty-air-force-office-of-special-investigations-afosi-counter-intelligence/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Serpo hoax. (Rick Doty is commonly regarded within the UFO community as the author, or at least a co-author, of the hoaxed Serpo material...</p></details>
+
+30. <a id="endnote-30"></a>
+   Source: latest-ufo-sightings.net  
+   Link: [https://www.latest-ufo-sightings.net/2026/05/the-serpo-mission-inside-one-of-the-most-controversial-ufo-conspiracy-stories-ever-told.html](https://www.latest-ufo-sightings.net/2026/05/the-serpo-mission-inside-one-of-the-most-controversial-ufo-conspiracy-stories-ever-told.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Even Doty acknowledges the possibility that Project Serpo may have been an elaborate disinformation campaign...Read more...</p></details>
+
+31. <a id="endnote-31"></a>
+   Source: docs.house.gov  
+   Link: [https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf](https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...Nov 13, 2024 — And is it possible that whistleblowers are fabricating parts or all of thei...</p></details>
+
+32. <a id="endnote-32"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/aliens/comments/14lgql8/who_is_richard_doty_and_why_is_everyone_saying/](https://www.reddit.com/r/aliens/comments/14lgql8/who_is_richard_doty_and_why_is_everyone_saying/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Doty answering a question on his knowledge of disinformation campaigns in.Read more...</p></details>
+
+33. <a id="endnote-33"></a>
+   Source: tv.apple.com  
+   Title: But is Doty himself a pawn in an even bigger disinformation scheme?Read more  
+   Link: [https://tv.apple.com/us/episode/project-seven-lambs/umc.cmc.7h4w5dsuazn9qursaq43dk6ht?showId=umc.cmc.1wymxhy0dv16z97z2qh58x16s](https://tv.apple.com/us/episode/project-seven-lambs/umc.cmc.7h4w5dsuazn9qursaq43dk6ht?showId=umc.cmc.1wymxhy0dv16z97z2qh58x16s)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>apple.com‎Project Seven Lambs - Alien Files: Re-Opened (Season 1...Military officials send counterintelligence officer Richard Doty to...</p></details>
+
+34. <a id="endnote-34"></a>
+   Source: open.spotify.com  
+   Link: [https://open.spotify.com/embed/episode/5OCSrLDTVRyBnirzi3NyVT?si=WmAvQo7bTCGMTsqPswCOAA](https://open.spotify.com/embed/episode/5OCSrLDTVRyBnirzi3NyVT?si=WmAvQo7bTCGMTsqPswCOAA)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Doty on Disinformation, Paul Bennewitz, and UAP...Richard Doty on Disinformation, Paul Bennewitz, and UAP Whistleblower Fallout | RC 80...</p></details>
+
+35. <a id="endnote-35"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/100084193171166/posts/heres-an-old-conspiracy-theory-for-youproject-serpo-is-an-alleged-top-secret-exc/632513859565048/](https://www.facebook.com/100084193171166/posts/heres-an-old-conspiracy-theory-for-youproject-serpo-is-an-alleged-top-secret-exc/632513859565048/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>mpaign, possibly orchestrated by intelligence agencies to...Read more...</p></details>
