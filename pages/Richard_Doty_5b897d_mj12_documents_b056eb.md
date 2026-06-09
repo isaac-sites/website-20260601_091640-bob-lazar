@@ -402,16 +402,16 @@ MJ-12 remains useful as a case study precisely because it is not just a question
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufo Encounters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8211540-M.jpg" alt="Cover for Ufo Encounters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufo Encounters">Ufo Encounters</a>
+          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
         </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+        <p class="fr-book-author">By Mark Pilkington</p>
         
-        <p class="fr-book-desc">First published 1992. Subjects: Unidentified flying objects, History, Unidentified flying objects, sightings and encounters.</p>
+        <p class="fr-book-desc">Directly addresses disinformation, MJ-12-era claims and intelligence narratives.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -419,16 +419,16 @@ MJ-12 remains useful as a case study precisely because it is not just a question
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SG-sswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Beta+by+Greg+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Beta on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HWYvNErLKHsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Project Beta" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers">Flying Saucers</a>
+          <a href="https://www.amazon.com/s?k=Project+Beta+by+Greg+Bishop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Beta">Project Beta</a>
         </h4>
-        <p class="fr-book-author">By Charles River Charles River Editors</p>
+        <p class="fr-book-author">By Greg Bishop</p>
         
-        <p class="fr-book-desc">*Includes pictures *Includes accounts of purported UFO sightings and Roswell *Includes online resources and a bibliography for further re...</p>
+        <p class="fr-book-desc">Provides context for the researchers and networks surrounding MJ-12.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Project+Beta+by+Greg+Bishop&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -436,16 +436,16 @@ MJ-12 remains useful as a case study precisely because it is not just a question
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs in the UK on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vtkt0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs in the UK" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and the National Security State on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=T5J7mAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs and the National Security State" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs in the UK">UFOs in the UK</a>
+          <a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and the National Security State">UFOs and the National Security State</a>
         </h4>
-        <p class="fr-book-author">By BARTY. HARMER</p>
+        <p class="fr-book-author">By Richard M. Dolan</p>
         
-        <p class="fr-book-desc">Great for both UFO enthusiasts and skeptics, providing a detailed look into this mysterious topic. Explore the mysterious skies of Britai...</p>
+        <p class="fr-book-desc">Covers historical claims about government UFO programmes.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+M.+Dolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -453,16 +453,16 @@ MJ-12 remains useful as a case study precisely because it is not just a question
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Recent+UFO+Sightings+by+Charles+River&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Recent UFO Sightings on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oEVi0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Recent UFO Sightings" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=255qYJt_HAQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Recent+UFO+Sightings+by+Charles+River&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Recent UFO Sightings">Recent UFO Sightings</a>
+          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
         </h4>
-        <p class="fr-book-author">By Charles River</p>
+        <p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">When people think about unidentified flying objects (UFOs), they tend to think of flying discs piloted by gray beings with large heads an...</p>
+        <p class="fr-book-desc">Touches on secrecy culture and competing explanations for UFO narratives.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Recent+UFO+Sightings+by+Charles+River&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -470,7 +470,7 @@ MJ-12 remains useful as a case study precisely because it is not just a question
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufo+Encounters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufo Encounters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+in+the+UK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs in the UK</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Beta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Beta</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and the National Security State</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -504,71 +504,59 @@ MJ-12 remains useful as a case study precisely because it is not just a question
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-search-grid">
+      <div class="fr-books-grid">
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=why+are+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-why-are-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="why are poster -book -books" data-ebay-reference="mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-why-are-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open why are poster on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20why%20are%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EWhy%20Are%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EWhy%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAre%3C%2Ftext%3E%3Crect%20x%3D%22122%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22132%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for why are poster on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Top pick</p>
-        <h4 class="fr-search-title">why are poster</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Why</span><span class="fr-search-tag">Are</span><span class="fr-search-tag">Poster</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=why+are+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-why-are-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="why are poster -book -books" data-ebay-reference="mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-why-are-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=are+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-are-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are memorabilia -book -books -dvd" data-ebay-reference="mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-are-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for JAMES BOND DIAMONDS ARE FOREVER VINTAGE FILM CELLS FRAMED MOVIE MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/123d558dad3a36658eda.jpg' | relative_url }}" alt="Listing image for JAMES BOND DIAMONDS ARE FOREVER VINTAGE FILM CELLS FRAMED MOVIE MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=are+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-are-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are memorabilia -book -books -dvd" data-ebay-reference="mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-are-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">JAMES BOND DIAMONDS ARE FOREVER VINTAGE FILM CELLS FRAMED MOVIE MEMORABILIA</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=are+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-are-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are memorabilia -book -books -dvd" data-ebay-reference="mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-are-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for are memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: are memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=are+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-are-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are memorabilia -book -books -dvd" data-ebay-reference="mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-are-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=why+are+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-why-are-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="why are patch" data-ebay-reference="mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-why-are-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open why are patch on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20why%20are%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EWhy%20Are%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EWhy%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAre%3C%2Ftext%3E%3Crect%20x%3D%22122%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22132%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for why are patch on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">why are patch</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Why</span><span class="fr-search-tag">Are</span><span class="fr-search-tag">Patch</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=why+are+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-why-are-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="why are patch" data-ebay-reference="mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-why-are-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=are+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-are-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are memorabilia -book -books -dvd" data-ebay-reference="mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-are-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WE ARE SCIENTISTS CONCERT POSTERS - COLLECTION x3 SCOTTISH TOUR GIG MEMORABILIA."><img src="{{ '/assets/images/marketplace-covers/362d46765dfa0052655a.jpg' | relative_url }}" alt="Listing image for WE ARE SCIENTISTS CONCERT POSTERS - COLLECTION x3 SCOTTISH TOUR GIG MEMORABILIA." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=are+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-are-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are memorabilia -book -books -dvd" data-ebay-reference="mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-are-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">WE ARE SCIENTISTS CONCERT POSTERS - COLLECTION x3 SCOTTISH TOUR GIG MEMORABILIA.</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=are+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-are-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are memorabilia -book -books -dvd" data-ebay-reference="mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-are-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for are memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: are memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=are+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-are-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are memorabilia -book -books -dvd" data-ebay-reference="mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-are-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=why+are+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-why-are-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="why are mug" data-ebay-reference="mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-why-are-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open why are mug on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20why%20are%20mug%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EWhy%20Are%20Mug%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EWhy%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAre%3C%2Ftext%3E%3Crect%20x%3D%22122%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22132%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EMug%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for why are mug on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">why are mug</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Why</span><span class="fr-search-tag">Are</span><span class="fr-search-tag">Mug</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=why+are+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-why-are-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="why are mug" data-ebay-reference="mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-why-are-mug" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
-      </div>
-    </article>
-
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=are+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-are-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are poster -book -books -dvd" data-ebay-reference="mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-are-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open are poster on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20are%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAre%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAre%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for are poster on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">are poster</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Are</span><span class="fr-search-tag">Poster</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=are+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-are-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are poster -book -books -dvd" data-ebay-reference="mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-are-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=are+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-are-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are memorabilia -book -books -dvd" data-ebay-reference="mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-are-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2016 THUNDERBIRDS ARE GO WALLET COLLECTIBLE TV MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/e0ee05b7ea12cc4227fb.jpg' | relative_url }}" alt="Listing image for 2016 THUNDERBIRDS ARE GO WALLET COLLECTIBLE TV MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=are+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-are-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are memorabilia -book -books -dvd" data-ebay-reference="mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-are-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">2016 THUNDERBIRDS ARE GO WALLET COLLECTIBLE TV MEMORABILIA</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=are+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-are-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are memorabilia -book -books -dvd" data-ebay-reference="mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-are-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for are memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: are memorabilia</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=are+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-are-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are memorabilia -book -books -dvd" data-ebay-reference="mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-are-memorabilia-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=why+are+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-why-are-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on eBay
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=are+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-are-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are memorabilia -book -books -dvd" data-ebay-reference="mj-12-why-are-the-mj-12-documents-so-disputed-richard-doty-are-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>

@@ -407,16 +407,16 @@ That creates a measurable standard for future credibility. Either records, witne
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Night+Siege+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Night Siege on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=atWOL2IHoHsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Night Siege" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imminent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Vj6z0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Imminent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Night+Siege+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Night Siege">Night Siege</a>
+          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek, Philip J. Imbrogno et al.</p>
+        <p class="fr-book-author">By Luis Elizondo</p>
         
-        <p class="fr-book-desc">In 1983, a few miles north of New York City, hundreds of people were startled to see a UFO - a series of flashing lights that formed a V...</p>
+        <p class="fr-book-desc">Primary source for Elizondo&#x27;s own account of alleged retrieval programs and government secrecy.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Night+Siege+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -424,16 +424,16 @@ That creates a measurable standard for future credibility. Either records, witne
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Truth About the Ufo Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OphZAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Truth About the Ufo Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Truth About the Ufo Crash at Roswell">Truth About the Ufo Crash at Roswell</a>
+          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
         </h4>
-        <p class="fr-book-author">By Kevin D. Randle</p>
+        <p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">The true story of the crash of an alien spacecraft--with a crew of five--near Roswell, New Mexico, and the great lengths federal agencies...</p>
+        <p class="fr-book-desc">Examines whistleblower and crash-retrieval allegations similar to those discussed in congressional testimony.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -441,16 +441,16 @@ That creates a measurable standard for future credibility. Either records, witne
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufo Encounters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8211540-M.jpg" alt="Cover for Ufo Encounters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufo Encounters">Ufo Encounters</a>
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
         </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+        <p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">First published 1992. Subjects: Unidentified flying objects, History, Unidentified flying objects, sightings and encounters.</p>
+        <p class="fr-book-desc">Focuses on official testimony and evidence claims rather than purely speculative accounts.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -458,16 +458,16 @@ That creates a measurable standard for future credibility. Either records, witne
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Roberto+Pinotti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Roberto+Pinotti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
         </h4>
-        <p class="fr-book-author">By Roberto Pinotti</p>
+        <p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">First published 1990. Subjects: History, Sightings and encounters, Unidentified flying objects.</p>
+        <p class="fr-book-desc">Explores how insiders, technology narratives and hidden programs shape UFO claims.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Roberto+Pinotti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -475,7 +475,7 @@ That creates a measurable standard for future credibility. Either records, witne
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Night+Siege&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Night Siege</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Truth About the Ufo Crash at Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufo+Encounters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufo Encounters</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imminent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imminent</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -509,71 +509,59 @@ That creates a measurable standard for future credibility. Either records, witne
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-search-grid">
+      <div class="fr-books-grid">
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=what+did+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-claims-what-did-elizondo-actually-say-about-crash-retrievals-luis-elizondo-what-did-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what did poster -book -books" data-ebay-reference="crash-claims-what-did-elizondo-actually-say-about-crash-retrievals-luis-elizondo-what-did-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open what did poster on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20what%20did%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EWhat%20Did%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EWhat%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EDid%3C%2Ftext%3E%3Crect%20x%3D%22122%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22132%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for what did poster on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Top pick</p>
-        <h4 class="fr-search-title">what did poster</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">What</span><span class="fr-search-tag">Did</span><span class="fr-search-tag">Poster</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=what+did+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-claims-what-did-elizondo-actually-say-about-crash-retrievals-luis-elizondo-what-did-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what did poster -book -books" data-ebay-reference="crash-claims-what-did-elizondo-actually-say-about-crash-retrievals-luis-elizondo-what-did-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for bob lazar ufo print T-Shirt - 250793"><img src="https://i.ebayimg.com/images/g/aHIAAeSwj3FpEt9L/s-l225.jpg" alt="Listing image for bob lazar ufo print T-Shirt - 250793" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">bob lazar ufo print T-Shirt - 250793</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=what+did+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-claims-what-did-elizondo-actually-say-about-crash-retrievals-luis-elizondo-what-did-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what did patch" data-ebay-reference="crash-claims-what-did-elizondo-actually-say-about-crash-retrievals-luis-elizondo-what-did-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open what did patch on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20what%20did%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EWhat%20Did%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EWhat%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EDid%3C%2Ftext%3E%3Crect%20x%3D%22122%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22132%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for what did patch on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">what did patch</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">What</span><span class="fr-search-tag">Did</span><span class="fr-search-tag">Patch</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=what+did+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-claims-what-did-elizondo-actually-say-about-crash-retrievals-luis-elizondo-what-did-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what did patch" data-ebay-reference="crash-claims-what-did-elizondo-actually-say-about-crash-retrievals-luis-elizondo-what-did-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy"><img src="https://i.ebayimg.com/images/g/XqAAAOSwfORjldEu/s-l225.jpg" alt="Listing image for Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Moscovium Element Unknown Area 51 Men&#x27;s T-Shirt Bob Lazar UFO Science Conspiracy</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=what+did+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-claims-what-did-elizondo-actually-say-about-crash-retrievals-luis-elizondo-what-did-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what did mug" data-ebay-reference="crash-claims-what-did-elizondo-actually-say-about-crash-retrievals-luis-elizondo-what-did-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open what did mug on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20what%20did%20mug%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EWhat%20Did%20Mug%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EWhat%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EDid%3C%2Ftext%3E%3Crect%20x%3D%22122%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22132%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EMug%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for what did mug on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">what did mug</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">What</span><span class="fr-search-tag">Did</span><span class="fr-search-tag">Mug</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=what+did+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-claims-what-did-elizondo-actually-say-about-crash-retrievals-luis-elizondo-what-did-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="what did mug" data-ebay-reference="crash-claims-what-did-elizondo-actually-say-about-crash-retrievals-luis-elizondo-what-did-mug" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
-      </div>
-    </article>
-
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-claims-what-did-elizondo-actually-say-about-crash-retrievals-luis-elizondo-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="crash-claims-what-did-elizondo-actually-say-about-crash-retrievals-luis-elizondo-did-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open did poster on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20did%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EDid%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EDid%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for did poster on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">did poster</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Did</span><span class="fr-search-tag">Poster</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-claims-what-did-elizondo-actually-say-about-crash-retrievals-luis-elizondo-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="crash-claims-what-did-elizondo-actually-say-about-crash-retrievals-luis-elizondo-did-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC"><img src="https://i.ebayimg.com/images/g/T~AAAeSwzClp2uuE/s-l225.jpg" alt="Listing image for Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">Eighty Eight Brand NASA T Shirt Mens Large Graphic Short Sleeve Bob Lazar EUC</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bob lazar shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: bob lazar shirt</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=what+did+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crash-claims-what-did-elizondo-actually-say-about-crash-retrievals-luis-elizondo-what-did-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on eBay
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=bob+lazar+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bob lazar shirt" data-ebay-reference="what-did-elizondo-actually-say-about-crash-retrievals-bob-lazar-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
