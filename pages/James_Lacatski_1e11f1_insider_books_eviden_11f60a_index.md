@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /james-lacatski-1e11f1-insider-books/
 description: Focused pages that expand on Insider Books.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: James_Lacatski_1e11f1_insider_books_eviden_11f60a
 parent_title: Insider Books | How Credible Is James Lacatski?

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /john-ramirez-18aa07-sceptical-case/
 description: Focused pages that expand on Sceptics.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: John_Ramirez_18aa07_sceptical_case_ae3f0b
 parent_title: Sceptics | How Credible Is John Ramirez?

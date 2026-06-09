@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /sean-kirkpatrick-e3c175-index/
 description: Focused pages that expand on Did Sean Kirkpatrick Debunk UFO Disclosure?.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: Sean_Kirkpatrick_e3c175
 parent_title: Did Sean Kirkpatrick Debunk UFO Disclosure?

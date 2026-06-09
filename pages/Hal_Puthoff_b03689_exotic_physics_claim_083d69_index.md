@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /hal-puthoff-b03689-exotic-physics/
 description: Focused pages that expand on Exotic Physics.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: Hal_Puthoff_b03689_exotic_physics_claim_083d69
 parent_title: Exotic Physics | How Credible Is Hal Puthoff?

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /eric-davis-980b6a-off-world-vehicles-c/
 description: Focused pages that expand on Off World Claim.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: Eric_Davis_980b6a_off_world_vehicles_c_00d043
 parent_title: Off World Claim | How Credible Is Eric Davis?

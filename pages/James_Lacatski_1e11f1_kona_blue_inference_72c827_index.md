@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /james-lacatski-1e11f1-kona-blue/
 description: Focused pages that expand on KONA BLUE.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: James_Lacatski_1e11f1_kona_blue_inference_72c827
 parent_title: KONA BLUE | How Credible Is James Lacatski?

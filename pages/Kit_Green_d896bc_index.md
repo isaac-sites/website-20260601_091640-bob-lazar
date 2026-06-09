@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /kit-green-d896bc-index/
 description: Focused pages that expand on How Credible Is Kit Green's UAP Story?.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: Kit_Green_d896bc
 parent_title: How Credible Is Kit Green's UAP Story?

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /sean-kirkpatrick-e3c175-supporters/
 description: Focused pages that expand on Supporters.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: Sean_Kirkpatrick_e3c175_supporters_correctiv_5a1109
 parent_title: Supporters | Did Sean Kirkpatrick Debunk UFO Disclosure?

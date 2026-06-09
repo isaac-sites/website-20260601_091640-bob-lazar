@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /kit-green-d896bc-dia-paper-limits/
 description: Focused pages that expand on DIA Paper.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: Kit_Green_d896bc_dia_paper_limits_6be143
 parent_title: DIA Paper | How Credible Is Kit Green's UAP Story?

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /eric-davis-980b6a-aawsap-aatip-links/
 description: Focused pages that expand on AAWSAP Links.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: Eric_Davis_980b6a_aawsap_aatip_links_3b2366
 parent_title: AAWSAP Links | How Credible Is Eric Davis?

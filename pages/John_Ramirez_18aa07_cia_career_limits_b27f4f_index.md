@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /john-ramirez-18aa07-cia-career-limits/
 description: Focused pages that expand on CIA Career.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: John_Ramirez_18aa07_cia_career_limits_b27f4f
 parent_title: CIA Career | How Credible Is John Ramirez?

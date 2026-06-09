@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /sean-kirkpatrick-e3c175-core-uap/
 description: Focused pages that expand on Core Claims.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: Sean_Kirkpatrick_e3c175_core_uap_claims_03bfd7
 parent_title: Core Claims | Did Sean Kirkpatrick Debunk UFO Disclosure?

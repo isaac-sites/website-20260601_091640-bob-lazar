@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /richard-doty-5b897d-supporters-insider/
 description: Focused pages that expand on Supporters.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: Richard_Doty_5b897d_supporters_insider_a_c50585
 parent_title: Supporters | Was Richard Doty an Insider or Disinformer?

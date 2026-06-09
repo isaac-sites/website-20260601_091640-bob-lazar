@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /colm-kelleher-d782e9-index/
 description: Focused pages that expand on How Credible Is Colm Kelleher?.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: Colm_Kelleher_d782e9
 parent_title: How Credible Is Colm Kelleher?

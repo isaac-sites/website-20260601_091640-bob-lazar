@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /luis-elizondo-3b9d7b-firsthand/
 description: Focused pages that expand on Source Trail.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: Luis_Elizondo_3b9d7b_firsthand_secondhand_41e61b
 parent_title: Source Trail | How Credible Is Luis Elizondo?

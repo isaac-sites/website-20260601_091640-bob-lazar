@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /kit-green-d896bc-skeptics-case-d7d7f7/
 description: Focused pages that expand on Sceptics.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: Kit_Green_d896bc_skeptics_case_d7d7f7
 parent_title: Sceptics | How Credible Is Kit Green's UAP Story?

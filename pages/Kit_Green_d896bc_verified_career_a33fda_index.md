@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /kit-green-d896bc-verified-career/
 description: Focused pages that expand on Career Record.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: Kit_Green_d896bc_verified_career_a33fda
 parent_title: Career Record | How Credible Is Kit Green's UAP Story?

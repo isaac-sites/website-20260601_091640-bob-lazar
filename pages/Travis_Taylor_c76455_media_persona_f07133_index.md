@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /travis-taylor-c76455-media-persona/
 description: Focused pages that expand on Media Role.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: Travis_Taylor_c76455_media_persona_f07133
 parent_title: Media Role | How Credible Is Travis Taylor on UAPs?

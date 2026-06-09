@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /john-ramirez-18aa07-claim-types-122174/
 description: Focused pages that expand on Claim Types.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: John_Ramirez_18aa07_claim_types_122174
 parent_title: Claim Types | How Credible Is John Ramirez?

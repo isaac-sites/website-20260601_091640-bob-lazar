@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /bob-lazar-9c5e0c-s4-area51-claim/
 description: Focused pages that expand on S 4 Claim.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9
 parent_title: S 4 Claim | Did Bob Lazar's Story Hold Up?

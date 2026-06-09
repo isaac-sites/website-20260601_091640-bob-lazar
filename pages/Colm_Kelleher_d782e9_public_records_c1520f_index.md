@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /colm-kelleher-d782e9-public-records/
 description: Focused pages that expand on Documents.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: Colm_Kelleher_d782e9_public_records_c1520f
 parent_title: Documents | How Credible Is Colm Kelleher?

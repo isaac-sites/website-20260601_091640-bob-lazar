@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /john-ramirez-18aa07-index/
 description: Focused pages that expand on How Credible Is John Ramirez?.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: John_Ramirez_18aa07
 parent_title: How Credible Is John Ramirez?

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /richard-doty-5b897d-mj12-documents/
 description: Focused pages that expand on MJ 12.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: Richard_Doty_5b897d_mj12_documents_b056eb
 parent_title: MJ 12 | Was Richard Doty an Insider or Disinformer?

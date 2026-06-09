@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /kit-green-d896bc-remote-viewing-links/
 description: Focused pages that expand on Remote Viewing.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: Kit_Green_d896bc_remote_viewing_links_a890c0
 parent_title: Remote Viewing | How Credible Is Kit Green's UAP Story?

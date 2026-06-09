@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /richard-doty-5b897d-project-serpo/
 description: Focused pages that expand on Serpo.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: Richard_Doty_5b897d_project_serpo_claims_2e681c
 parent_title: Serpo | Was Richard Doty an Insider or Disinformer?

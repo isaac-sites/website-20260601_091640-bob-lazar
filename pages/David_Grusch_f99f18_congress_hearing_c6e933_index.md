@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /david-grusch-f99f18-congress-hearing/
 description: Focused pages that expand on Hearing.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: David_Grusch_f99f18_congress_hearing_c6e933
 parent_title: Hearing | How Credible Is David Grusch?

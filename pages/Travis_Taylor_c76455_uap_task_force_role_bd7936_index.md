@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /travis-taylor-c76455-uap-task-force/
 description: Focused pages that expand on Task Force.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: Travis_Taylor_c76455_uap_task_force_role_bd7936
 parent_title: Task Force | How Credible Is Travis Taylor on UAPs?

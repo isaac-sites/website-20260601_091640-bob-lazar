@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /bob-lazar-9c5e0c-los-alamos-records/
 description: Focused pages that expand on Los Alamos.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: Bob_Lazar_9c5e0c_los_alamos_records_1c51f0
 parent_title: Los Alamos | Did Bob Lazar's Story Hold Up?

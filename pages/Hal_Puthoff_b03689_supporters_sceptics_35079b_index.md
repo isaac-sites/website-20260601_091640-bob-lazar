@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /hal-puthoff-b03689-supporters-sceptics/
 description: Focused pages that expand on Credibility Split.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: Hal_Puthoff_b03689_supporters_sceptics_35079b
 parent_title: Credibility Split | How Credible Is Hal Puthoff?

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /luis-elizondo-3b9d7b-recovered-craft/
 description: Focused pages that expand on Craft Claims.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: Luis_Elizondo_3b9d7b_recovered_craft_clai_2845ca
 parent_title: Craft Claims | How Credible Is Luis Elizondo?

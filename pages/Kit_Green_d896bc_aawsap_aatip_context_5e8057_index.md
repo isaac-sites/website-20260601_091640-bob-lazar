@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /kit-green-d896bc-aawsap-aatip-context/
 description: Focused pages that expand on AAWSAP.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: Kit_Green_d896bc_aawsap_aatip_context_5e8057
 parent_title: AAWSAP | How Credible Is Kit Green's UAP Story?

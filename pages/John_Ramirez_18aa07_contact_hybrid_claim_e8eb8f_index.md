@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /john-ramirez-18aa07-contact-hybrid/
 description: Focused pages that expand on Contact Claims.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f
 parent_title: Contact Claims | How Credible Is John Ramirez?

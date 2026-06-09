@@ -36,7 +36,9 @@ homepage_copy_policy: 'polished'
 home_layout_mode: 'vertical'
 auto_home_layout_mode: 'catalog'
 hierarchy_viz_mode: 'hybrid'
-ui_bundle_version: 'build-1780301110'
+ui_bundle_version: 'build-1780971159'
+google_site_verification: ''
+draft_noindex: false
 theme: minima
 plugins:
   - jekyll-feed

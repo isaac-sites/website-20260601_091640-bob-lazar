@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /travis-taylor-c76455-skeptics-critique/
 description: Focused pages that expand on Sceptics.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: Travis_Taylor_c76455_skeptics_critique_f3f424
 parent_title: Sceptics | How Credible Is Travis Taylor on UAPs?

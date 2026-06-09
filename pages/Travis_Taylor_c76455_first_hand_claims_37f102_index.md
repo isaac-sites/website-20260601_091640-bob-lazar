@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /travis-taylor-c76455-first-hand-claims/
 description: Focused pages that expand on Claims.
-date: '2026-06-01'
+date: '2026-06-09'
 layout: default
 parent_basename: Travis_Taylor_c76455_first_hand_claims_37f102
 parent_title: Claims | How Credible Is Travis Taylor on UAPs?
